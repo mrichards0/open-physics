@@ -1,19 +1,30 @@
 <pl-question-panel>
-<div class="unnumbered os-hasSolution" data-type="exercise" id="fs-id1168328327747"><header></header><section>
-<div data-type="problem" id="fs-id1168327988106"><div class="os-problem-container">
-<p id="fs-id1168328242532"> Light travels about 9 Pm in a year. Given that a year is about <span class="os-math-in-para"><math display="inline"><semantics><mrow><mrow><mn>3</mn><mspace width="0.2em"></mspace><mo>Ã</mo><mspace width="0.2em"></mspace><msup><mrow><mn>10</mn></mrow><mn>7</mn></msup><mtext>s</mtext><mo>,</mo></mrow></mrow><annotation-xml encoding="MathML-Content"><mrow><mn>3</mn><mspace width="0.2em"></mspace><mo>Ã</mo><mspace width="0.2em"></mspace><msup><mrow><mn>10</mn></mrow><mn>7</mn></msup><mtext>s</mtext><mo>,</mo></mrow></annotation-xml></semantics></math></span> what is the speed of light in meters per second?</p>
-</div></div>
-</section></div>
+  <p>
+    A signal travels ${{params.distance_pm}}\ \mathrm{Pm}$ in
+    ${{params.time_million_s}}\times10^6\ \mathrm{s}$.
+    Recall that $1\ \mathrm{Pm}=10^{15}\ \mathrm{m}$.
+  </p>
+  <p>Calculate its average speed in meters per second.</p>
 </pl-question-panel>
 
-<pl-rich-text-editor></pl-rich-text-editor>
+<pl-number-input answers-name="speed" label="$v =$" suffix="$\mathrm{m/s}$" comparison="relabs" rtol="1e-3" atol="1"></pl-number-input>
+
+<pl-answer-panel>
+  <p>
+    Convert the distance and divide by the elapsed time:
+    \[
+      v=\frac{d}{\Delta t}
+      =\frac{({{params.distance_pm}}\ \mathrm{Pm})(10^{15}\ \mathrm{m/Pm})}
+      {({{params.time_million_s}}\times10^6\ \mathrm{s})}
+      ={{correct_answers.speed}}\ \mathrm{m/s}.
+    \]
+  </p>
+</pl-answer-panel>
 
 <hr />
 <p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Check Your Understanding
-  fs-id1168328327747, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
+  Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
+  Check Your Understanding 1.2, by William Moebs, Samuel J. Ling, and Jeff
+  Sanny. Licensed CC BY-NC-SA 4.0.
   <a href="https://openstax.org/books/university-physics-volume-1/pages/1-3-unit-conversion" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
 </p>
