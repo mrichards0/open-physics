@@ -1,7 +1,7 @@
 {
   "counts": {
-    "auto-graded": 105,
-    "manual-free-text": 329
+    "auto-graded": 113,
+    "manual-free-text": 321
   },
   "questions": [
     {
@@ -1341,52 +1341,58 @@
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131113534",
       "title": "OpenStax Ch. 2 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131331227",
       "title": "OpenStax Ch. 2 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131613173",
       "title": "OpenStax Ch. 2 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131635553",
       "title": "OpenStax Ch. 2 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132230399",
       "title": "OpenStax Ch. 2 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132406917",
@@ -1458,32 +1464,35 @@
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132580836",
       "title": "OpenStax Ch. 2 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167134863960",
       "title": "OpenStax Ch. 2 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167134912050",
       "title": "OpenStax Ch. 2 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167128860536",
