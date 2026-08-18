@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "learningVersion": "1.0.0",
+  "skills": {
+    "kinematics.acceleration": {
+      "guided": ["learning/kinematics/acceleration/guided"],
+      "partial": ["learning/kinematics/acceleration/partial"],
+      "independent": ["openstax/chapter-3/problems/fs-id1168327949630"],
+      "mastery_ready": ["openstax/chapter-3/additional-problems/fs-id1168055308636"]
+    }
+  }
+}

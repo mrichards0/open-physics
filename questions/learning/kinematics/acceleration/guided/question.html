@@ -1,0 +1,45 @@
+<pl-question-panel>
+  <h3>Guided acceleration</h3>
+  <p>A cart's velocity changes from {{params.vi}} m/s to {{params.vf}} m/s over {{params.dt}} s.</p>
+  <div class="row">
+    <div class="col-md-6">
+      <pl-figure file-name="motion.svg" type="dynamic" alt="{{params.motion_alt}}"></pl-figure>
+    </div>
+    <div class="col-md-6">
+      <pl-figure file-name="velocity-graph.svg" type="dynamic" alt="{{params.graph_alt}}"></pl-figure>
+    </div>
+  </div>
+  <p class="small text-muted">The arrow diagram and velocity-time graph show the same PrairieLearn-generated values used in every step below.</p>
+</pl-question-panel>
+
+<h4>Step 1 — Identify the target</h4>
+<p>Which physical quantity describes the rate at which velocity changes?</p>
+<pl-multiple-choice answers-name="target" order="fixed" allow-blank="true">
+  <pl-answer correct="false">Displacement</pl-answer>
+  <pl-answer correct="false">Average velocity</pl-answer>
+  <pl-answer correct="true">Average acceleration</pl-answer>
+  <pl-answer correct="false">Elapsed time</pl-answer>
+</pl-multiple-choice>
+
+<h4>Step 2 — Calculate the velocity change</h4>
+<pl-number-input answers-name="delta_v" label="$\Delta v = v_f-v_i =$" suffix="m/s" comparison="relabs" rtol="1e-6" atol="0.001" allow-blank="true"></pl-number-input>
+
+<h4>Step 3 — Calculate acceleration</h4>
+<pl-number-input answers-name="acceleration" label="$a=\Delta v/\Delta t =$" suffix="m/s^2" comparison="relabs" rtol="1e-6" atol="0.001" allow-blank="true"></pl-number-input>
+
+<pl-question-panel>
+  <pl-hidden-hints>
+    <pl-hint hint-name="Hint 1 — Meaning of change">For any change, subtract the initial value from the final value.</pl-hint>
+    <pl-hint show-after-submission="2" hint-name="Hint 2 — Relationships">Use $\Delta v=v_f-v_i$, followed by $a=\Delta v/\Delta t$.</pl-hint>
+    <pl-hint show-after-submission="3" hint-name="Hint 3 — Substitute">For this variant, $\Delta v={{params.vf}}-{{params.vi}}$ m/s and $\Delta t={{params.dt}}$ s.</pl-hint>
+    <pl-hint show-after-submission="4" hint-name="Hint 4 — Fully worked support">$\Delta v={{params.delta_v}}$ m/s, so $a={{params.delta_v}}/{{params.dt}}={{params.acceleration}}$ m/s². Enter these values to complete the guided stage.</pl-hint>
+  </pl-hidden-hints>
+</pl-question-panel>
+
+<pl-answer-panel>
+  <p>Average acceleration is the velocity change divided by elapsed time:</p>
+  <p>$\Delta v={{params.vf}}-{{params.vi}}={{params.delta_v}}\ \mathrm{m/s}$ and $a={{params.delta_v}}/{{params.dt}}={{params.acceleration}}\ \mathrm{m/s^2}$.</p>
+</pl-answer-panel>
+
+<hr>
+<p class="small text-muted">Original SpiritsFire guided activity aligned with OpenStax, <em>University Physics Volume 1</em>, §3.3 Average and Instantaneous Acceleration. <a href="https://openstax.org/books/university-physics-volume-1/pages/3-3-average-and-instantaneous-acceleration" target="_blank" rel="noreferrer">Read the attributed reference.</a></p>

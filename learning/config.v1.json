@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "modelVersion": "1.0.0",
+  "stages": ["guided", "partial", "independent", "mastery_ready"],
+  "transitionRules": {
+    "guided": {"advanceAfterPerfectQuestions": 1},
+    "partial": {"advanceAfterPerfectQuestions": 1, "retreatAfterRecentFailures": 2},
+    "independent": {"advanceAfterPerfectQuestions": 2, "retreatAfterRecentFailures": 2}
+  },
+  "fullHintSuccessCountsAsIndependent": false
+}
