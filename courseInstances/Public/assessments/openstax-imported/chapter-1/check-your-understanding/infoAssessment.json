@@ -10,7 +10,7 @@
       "questions": [
         {
           "id": "openstax/chapter-1/check-your-understanding/fs-id1168329067205",
-          "manualPoints": 1
+          "points": 1
         },
         {
           "id": "openstax/chapter-1/check-your-understanding/fs-id1168328327747",
@@ -18,7 +18,7 @@
         },
         {
           "id": "openstax/chapter-1/check-your-understanding/fs-id1168327876191",
-          "manualPoints": 1
+          "points": 1
         },
         {
           "id": "openstax/chapter-1/check-your-understanding/fs-id1168328059712",
@@ -26,19 +26,19 @@
         },
         {
           "id": "openstax/chapter-1/check-your-understanding/fs-id1168328063625",
-          "manualPoints": 1
+          "points": 1
         },
         {
           "id": "openstax/chapter-1/check-your-understanding/fs-id1168328196554",
-          "manualPoints": 1
+          "points": 1
         },
         {
           "id": "openstax/chapter-1/check-your-understanding/fs-id1168329067631",
-          "manualPoints": 1
+          "points": 1
         },
         {
           "id": "openstax/chapter-1/check-your-understanding/fs-id1168328204614",
-          "manualPoints": 1
+          "points": 1
         }
       ]
     }
