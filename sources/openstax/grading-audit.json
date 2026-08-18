@@ -1,7 +1,7 @@
 {
   "counts": {
-    "auto-graded": 411,
-    "manual-free-text": 23
+    "auto-graded": 421,
+    "manual-free-text": 13
   },
   "questions": [
     {
@@ -3748,12 +3748,13 @@
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039232625",
       "title": "OpenStax Ch. 4 Additional Problems 85",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039244575",
@@ -3788,12 +3789,13 @@
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039247273",
       "title": "OpenStax Ch. 4 Additional Problems 83",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039248362",
@@ -3818,42 +3820,46 @@
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039267076",
       "title": "OpenStax Ch. 4 Additional Problems 86",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039270370",
       "title": "OpenStax Ch. 4 Additional Problems 84",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039273301",
       "title": "OpenStax Ch. 4 Additional Problems 79",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039273394",
       "title": "OpenStax Ch. 4 Additional Problems 80",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039290474",
@@ -3868,12 +3874,13 @@
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039309472",
       "title": "OpenStax Ch. 4 Additional Problems 87",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039312253",
@@ -3918,32 +3925,35 @@
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039323750",
       "title": "OpenStax Ch. 4 Additional Problems 81",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039324098",
       "title": "OpenStax Ch. 4 Additional Problems 82",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039329140",
       "title": "OpenStax Ch. 4 Additional Problems 88",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/challenge-problems/fs-id1165039247940",
