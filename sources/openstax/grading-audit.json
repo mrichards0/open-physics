@@ -1,7 +1,7 @@
 {
   "counts": {
-    "auto-graded": 327,
-    "manual-free-text": 107
+    "auto-graded": 333,
+    "manual-free-text": 101
   },
   "questions": [
     {
@@ -3978,62 +3978,75 @@
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165038192575",
       "title": "OpenStax Ch. 4 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165038300360",
       "title": "OpenStax Ch. 4 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165039273506",
       "title": "OpenStax Ch. 4 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165166558484",
       "title": "OpenStax Ch. 4 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165167599002",
       "title": "OpenStax Ch. 4 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165168917581",
       "title": "OpenStax Ch. 4 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038186932",
