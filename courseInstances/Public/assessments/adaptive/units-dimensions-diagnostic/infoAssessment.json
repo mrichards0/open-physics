@@ -1,0 +1,24 @@
+{
+  "uuid": "7b29db08-b0da-5de3-a1d1-604a08a718d1",
+  "type": "Exam",
+  "title": "Adaptive Diagnostic: Units and Dimensions",
+  "set": "Practice",
+  "number": "A4",
+  "multipleInstance": true,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [{"credit": 100}],
+  "text": "<p>PrairieLearn selects and grades one existing Units and Dimensions diagnostic. Finishing an instance is not mastery; SpiritsFire uses the graded response score as evidence.</p>",
+  "zones": [
+    {
+      "title": "Units and dimensions diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {"id": "openstax/chapter-1/conceptual-questions/fs-id1168329112708", "points": 1},
+        {"id": "openstax/chapter-1/conceptual-questions/fs-id1168329165634", "points": 1},
+        {"id": "openstax/chapter-1/conceptual-questions/fs-id1168329187896", "points": 1},
+        {"id": "openstax/chapter-1/conceptual-questions/fs-id1168329511648", "points": 1}
+      ]
+    }
+  ]
+}
