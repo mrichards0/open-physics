@@ -1,18 +1,1 @@
-<pl-question-panel>
-<div class="unnumbered os-hasSolution" data-type="exercise" id="fs-id1168329484408"><header></header><section>
-<div data-type="problem" id="fs-id1168329484410"><div class="os-problem-container">
-<p id="fs-id1168329484412"> A rocket accelerates at a rate of 20 m/s<sup>2</sup> during launch. How long does it take the rocket to reach a velocity of 400 m/s?</p></div></div>
-</section></div>
-</pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
-<hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 3,
-  Check Your Understanding
-  fs-id1168329484408, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<pl-question-panel><p>A rocket starts from rest and accelerates constantly at {{params.a}} m/s^2. How long does it take to reach {{params.v}} m/s?</p></pl-question-panel><pl-number-input answers-name="time" label="Time =" suffix="s" comparison="relabs" rtol="1e-6" atol="0.001"></pl-number-input><pl-answer-panel><p>With v_0=0, v=at, so t=v/a.</p></pl-answer-panel><hr /><p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 3 Check Your Understanding 5, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/3-introduction" target="_blank" rel="noreferrer">View the attributed source.</a></p>
