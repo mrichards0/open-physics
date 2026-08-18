@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168329187896",
+  "chapter": 1,
+  "category": "conceptual-questions",
+  "section_slug": "1-conceptual-questions",
+  "section_heading": "1.2 Units and Standards",
+  "item_number": "7",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/1-conceptual-questions",
+  "source_fragment_file": "chapter-1/conceptual-questions/fs-id1168329187896.html",
+  "source_sha256": "9161e421216303607965f0431a86965200fa9969ef6af7ae15b7544ca3028863",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-1/conceptual-questions/fs-id1168329187896",
+  "images": []
+}

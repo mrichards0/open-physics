@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168326798408",
+  "chapter": 3,
+  "category": "problems",
+  "section_slug": "3-problems",
+  "section_heading": "3.2 Instantaneous Velocity and Speed",
+  "item_number": "30",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-problems",
+  "source_fragment_file": "chapter-3/problems/fs-id1168326798408.html",
+  "source_sha256": "5642ca65b06d433c165117b926d05f9e6ecd0ae5e5d342bb8ae0a790f9e389b5",
+  "has_source_solution": false,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/problems/fs-id1168326798408",
+  "images": []
+}

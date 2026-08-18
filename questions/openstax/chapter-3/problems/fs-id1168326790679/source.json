@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1168326790679",
+  "chapter": 3,
+  "category": "problems",
+  "section_slug": "3-problems",
+  "section_heading": "3.2 Instantaneous Velocity and Speed",
+  "item_number": "31",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-problems",
+  "source_fragment_file": "chapter-3/problems/fs-id1168326790679.html",
+  "source_sha256": "f13c3ed58544a442ddca3c15ad9b15649d617c09af5e48c264cbfc78e35a7991",
+  "has_source_solution": true,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/d6f4e357a47d53b306a01ada74db3a624460ca59"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/problems/fs-id1168326790679",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/d6f4e357a47d53b306a01ada74db3a624460ca59",
+      "localFile": "clientFilesQuestion/180b62b72dc09411dba1.webp",
+      "sha256": "180b62b72dc09411dba196fdb75d2c4ec26d511c726b02f03b4ac22343bce67d",
+      "alt": "Graph shows position in meters plotted versus time in seconds. It starts at the origin, reaches 4 meters at 0.4 seconds; decreases to -2 meters at 0.6 seconds, reaches minimum of -6 meters at 1 second, increases to -4 meters at 1.6 seconds, and reaches 2 meters at 2 seconds."
+    }
+  ]
+}

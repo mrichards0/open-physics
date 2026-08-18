@@ -1,0 +1,278 @@
+{
+  "uuid": "f499d321-b112-5729-8385-a9daed106f59",
+  "type": "Homework",
+  "title": "Chapter 1: Problems",
+  "set": "Practice",
+  "number": "1.3",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329108275",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326753208",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329292036",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329166114",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329139448",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329182447",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326840815",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326786916",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326832986",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329140028",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329162803",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329057729",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326761301",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329337175",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329102378",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329147263",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327939270",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327854111",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328285914",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328059510",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327924198",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328297906",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328222458",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327939869",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328222906",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328171083",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328294774",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328311640",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328064287",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328170090",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327871170",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327941954",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328293255",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328303932",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327934441",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328195795",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327942540",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328369689",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327948663",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327876941",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328144822",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327918102",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329265263",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329443498",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329174656",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329016670",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329013612",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329316890",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329081168",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326860046",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id11683291554120",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326791766",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327949034",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328286258",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328242872",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328329316",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328196830",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328064091",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328167911",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327943766",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328311438",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327942624",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id11683281710830",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328267903",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id11683282224160",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328229571",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

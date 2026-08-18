@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1167132535630",
+  "chapter": 2,
+  "category": "conceptual-questions",
+  "section_slug": "2-conceptual-questions",
+  "section_heading": "2.2 Coordinate Systems and Components of a Vector",
+  "item_number": "20",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-conceptual-questions",
+  "source_fragment_file": "chapter-2/conceptual-questions/fs-id1167132535630.html",
+  "source_sha256": "0f0af48e2bd7cab55a2a5a9a5144f881d871cd201e03d07da8adf2ea9bf1d238",
+  "has_source_solution": false,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/conceptual-questions/fs-id1167132535630",
+  "images": []
+}

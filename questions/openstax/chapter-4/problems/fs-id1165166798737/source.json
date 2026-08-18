@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1165166798737",
+  "chapter": 4,
+  "category": "problems",
+  "section_slug": "4-problems",
+  "section_heading": "4.3 Projectile Motion",
+  "item_number": "53",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-problems",
+  "source_fragment_file": "chapter-4/problems/fs-id1165166798737.html",
+  "source_sha256": "cb9871115656c22608271fe6501103e83695a7b18bd31e0aa8337006e06a292f",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/problems/fs-id1165166798737",
+  "images": []
+}

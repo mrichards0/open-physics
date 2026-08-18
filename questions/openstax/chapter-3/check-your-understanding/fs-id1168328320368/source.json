@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168328320368",
+  "chapter": 3,
+  "category": "check-your-understanding",
+  "section_slug": "3-3-average-and-instantaneous-acceleration",
+  "section_heading": null,
+  "item_number": null,
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-3-average-and-instantaneous-acceleration",
+  "source_fragment_file": "chapter-3/check-your-understanding/fs-id1168328320368.html",
+  "source_sha256": "054f3159d484e6d9182af72a5f85d7413b17dcf3319159b4fd379d81080f7e98",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/check-your-understanding/fs-id1168328320368",
+  "images": []
+}

@@ -1,0 +1,134 @@
+{
+  "uuid": "d4f5e15e-526b-53ab-8a07-28920dc71d39",
+  "type": "Homework",
+  "title": "Chapter 3: Additional Problems",
+  "set": "Practice",
+  "number": "3.4",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057389393",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057491154",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055309763",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057455309",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055120900",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055308636",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055390931",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055478200",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055124622",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055146907",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055392099",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055171580",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055151366",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055463266",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057464878",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055283140",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055095438",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055124263",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055309203",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055237526",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055282726",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055388728",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057461827",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055124296",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057556789",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055274264",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055469798",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055309639",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168052793064",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055324264",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

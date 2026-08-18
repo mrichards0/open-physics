@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1167134886863",
+  "chapter": 2,
+  "category": "additional-problems",
+  "section_slug": "2-additional-problems",
+  "section_heading": null,
+  "item_number": "86",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-additional-problems",
+  "source_fragment_file": "chapter-2/additional-problems/fs-id1167134886863.html",
+  "source_sha256": "81ea530f42ceb73300393c0d255a783c38201dc3608cc3b6a3ba922267e440c6",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/de424fb7dd2cf7bcc42ffd49ddec08efa7ae9e2d"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/additional-problems/fs-id1167134886863",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/de424fb7dd2cf7bcc42ffd49ddec08efa7ae9e2d",
+      "localFile": "clientFilesQuestion/7ef6d8fc1b7395e62827.webp",
+      "sha256": "7ef6d8fc1b7395e62827061e398e38962c9500f9f57d4536d7f52c7a4f1e488f",
+      "alt": "Vector G has magnitude 10.0. Its projection in the x y plane is between the positive x and positive y directions, at an angle of 45 degrees from the positive x direction. The angle between vector G and the positive z direction is 60 degrees. Vector H has magnitude 15.0. Its projection in the x y plane is between the negative x and positive y directions, at an angle of 30 degrees from the positive y direction. The angle between vector H and the positive z direction is 450 degrees."
+    }
+  ]
+}

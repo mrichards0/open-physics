@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1167132303332",
+  "chapter": 2,
+  "category": "problems",
+  "section_slug": "2-problems",
+  "section_heading": "2.2 Coordinate Systems and Components of a Vector",
+  "item_number": "43",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-problems",
+  "source_fragment_file": "chapter-2/problems/fs-id1167132303332.html",
+  "source_sha256": "668bd6f6968f476ef79c62711ba8ed811bf4d114ead029b497a8392c1270b2a0",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/problems/fs-id1167132303332",
+  "images": []
+}

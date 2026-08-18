@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168329316890",
+  "chapter": 1,
+  "category": "problems",
+  "section_slug": "1-problems",
+  "section_heading": "1.5 Estimates and Fermi Calculations",
+  "item_number": "61",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/1-problems",
+  "source_fragment_file": "chapter-1/problems/fs-id1168329316890.html",
+  "source_sha256": "48e4cd85364265544c9c22b7510070eb9b61a6b82e891f33b6a1f3947e70d1c6",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-1/problems/fs-id1168329316890",
+  "images": []
+}

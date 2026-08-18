@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1167133578427",
+  "chapter": 2,
+  "category": "conceptual-questions",
+  "section_slug": "2-conceptual-questions",
+  "section_heading": "2.1 Scalars and Vectors",
+  "item_number": "2",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-conceptual-questions",
+  "source_fragment_file": "chapter-2/conceptual-questions/fs-id1167133578427.html",
+  "source_sha256": "f87a16b49bc1b786fc5ce38e20d39fdb419f49a3b627046df800d444afa9d4d1",
+  "has_source_solution": false,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/conceptual-questions/fs-id1167133578427",
+  "images": []
+}

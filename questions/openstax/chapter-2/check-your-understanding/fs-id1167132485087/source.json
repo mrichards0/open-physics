@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1167132485087",
+  "chapter": 2,
+  "category": "check-your-understanding",
+  "section_slug": "2-1-scalars-and-vectors",
+  "section_heading": null,
+  "item_number": null,
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-1-scalars-and-vectors",
+  "source_fragment_file": "chapter-2/check-your-understanding/fs-id1167132485087.html",
+  "source_sha256": "ee019709894a800519c6a4f39faa2f3fc716c2df565a3f4d18ec139d9573edcd",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/check-your-understanding/fs-id1167132485087",
+  "images": []
+}

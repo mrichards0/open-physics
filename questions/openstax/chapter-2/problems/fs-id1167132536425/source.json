@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1167132536425",
+  "chapter": 2,
+  "category": "problems",
+  "section_slug": "2-problems",
+  "section_heading": "2.2 Coordinate Systems and Components of a Vector",
+  "item_number": "41",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-problems",
+  "source_fragment_file": "chapter-2/problems/fs-id1167132536425.html",
+  "source_sha256": "d5c76a4b7e5ac9cd42663e21f6225cf433b6430098d76b7daf0dfed1ebe90ff6",
+  "has_source_solution": true,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/a41089f8e67390af15d1f40403ddc6eda9ab33c6"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/problems/fs-id1167132536425",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/a41089f8e67390af15d1f40403ddc6eda9ab33c6",
+      "localFile": "clientFilesQuestion/0cdb2ab4add14b5bb432.webp",
+      "sha256": "0cdb2ab4add14b5bb43282a522395e8cdb9bee94804c5d1179d8bf4354f89d7c",
+      "alt": "The vector from the cabin to the lake is vector S, magnitude 5.0 kilometers and pointing 40 degrees north of east. Two additional meandering paths are shown and labeled path 1 and path 2."
+    }
+  ]
+}

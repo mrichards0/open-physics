@@ -1,0 +1,78 @@
+{
+  "uuid": "2f3f9cd3-8ae6-5dd2-a619-df59d4e46e42",
+  "type": "Homework",
+  "title": "Chapter 2: Check Your Understanding",
+  "set": "Practice",
+  "number": "2.1",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132485087",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132473641",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132487194",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132406917",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132502120",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167128918786",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167128919148",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132518790",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132230399",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132580836",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167134912050",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167131635553",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167131113534",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167134863960",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167131331227",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167131613173",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

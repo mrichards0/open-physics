@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168326827856",
+  "chapter": 3,
+  "category": "check-your-understanding",
+  "section_slug": "3-4-motion-with-constant-acceleration",
+  "section_heading": null,
+  "item_number": null,
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
+  "source_fragment_file": "chapter-3/check-your-understanding/fs-id1168326827856.html",
+  "source_sha256": "59ae11a0b162d40b75abde7a541954f9f15f5035dd143caed19801d53fad007d",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/check-your-understanding/fs-id1168326827856",
+  "images": []
+}

@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1165167867745",
+  "chapter": 4,
+  "category": "problems",
+  "section_slug": "4-problems",
+  "section_heading": "4.3 Projectile Motion",
+  "item_number": "36",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-problems",
+  "source_fragment_file": "chapter-4/problems/fs-id1165167867745.html",
+  "source_sha256": "dc6336648e5539bf87f9f6925a181aac5dd7e5f57ad03ebaf224f25e883d968e",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/b6635dd82b9d0724d2838b202d4bc2b5e3bff954"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/problems/fs-id1165167867745",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/b6635dd82b9d0724d2838b202d4bc2b5e3bff954",
+      "localFile": "clientFilesQuestion/80c6d9b617ebdf2df5b0.webp",
+      "sha256": "80c6d9b617ebdf2df5b006b382ae31df9c5de90876fa16d504557c339ece4271",
+      "alt": "An airplane releases a package. The airplane has a horizontal velocity of 500 kilometers per hour. The package\u00e2\u0080\u0099s trajectory is the right half of a downward-opening parabola, initially horizontal at the airplane and curving down until it hits the ground."
+    }
+  ]
+}

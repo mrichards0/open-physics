@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1165039250105",
+  "chapter": 4,
+  "category": "challenge-problems",
+  "section_slug": "4-challenge-problems",
+  "section_heading": null,
+  "item_number": "100",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-challenge-problems",
+  "source_fragment_file": "chapter-4/challenge-problems/fs-id1165039250105.html",
+  "source_sha256": "7b6e09b2cc9bfdf6d9c915150903cb69fe6cf387eeae01b7a7b733e8a85e2253",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/c840218f28d30d632f78d8e842c86ef55e8c0fe4"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/challenge-problems/fs-id1165039250105",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/c840218f28d30d632f78d8e842c86ef55e8c0fe4",
+      "localFile": "clientFilesQuestion/0dadef732c7d3491d0f9.webp",
+      "sha256": "0dadef732c7d3491d0f9ed8f03d6b5ff24aae032648bdb2f62ced53c384357de",
+      "alt": "The parabolic trajectory of a football is shown. A player kicks it up and to the right at an angle of theta to the horizontal. Another player to his right is jumping up but not quite reaching the trajectory. The trajectory passes through the goalposts to the right of both players."
+    }
+  ]
+}

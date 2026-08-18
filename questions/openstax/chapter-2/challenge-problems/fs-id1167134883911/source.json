@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1167134883911",
+  "chapter": 2,
+  "category": "challenge-problems",
+  "section_slug": "2-challenge-problems",
+  "section_heading": null,
+  "item_number": "91",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-challenge-problems",
+  "source_fragment_file": "chapter-2/challenge-problems/fs-id1167134883911.html",
+  "source_sha256": "9665049724ad316c6eb7bb7c1f9bc2806cc815c61511c31edd11096debdf277a",
+  "has_source_solution": true,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/826ef7e57f7badecaa42e1aab4293ec8e75794c1"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/challenge-problems/fs-id1167134883911",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/826ef7e57f7badecaa42e1aab4293ec8e75794c1",
+      "localFile": "clientFilesQuestion/30776265e62399e01a95.webp",
+      "sha256": "30776265e62399e01a95ab99dbbf247ac7a0fef3616e8b382b63b712ff646561",
+      "alt": "Two coordinate systems are shown. The x y coordinate system S, in red, has positive x to to the right and positive y up. The x prime y prime coordinate system S prime, in blue, shares the same origin as S but is rotated relative to S counterclockwise an angle phi. Two points, P and Q are shown. Point P\u00e2\u0080\u0099s x coordinate in frame S is shown as a dashed line from P to the x axis, drawn parallel to the y axis. Point P\u00e2\u0080\u0099s y coordinate in frame S is shown as a dashed line from P to the y axis, drawn parallel to the x axis. Point P\u00e2\u0080\u0099s x prime coordinate in frame S prime is shown as a dashed line from P to the x prime axis, drawn parallel to the y prime axis. Point P\u00e2\u0080\u0099s y prime coordinate in frame S prime is shown as a dashed line from P to the y prime axis, drawn parallel to the x prime axis."
+    }
+  ]
+}

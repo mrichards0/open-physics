@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1168326799089",
+  "chapter": 3,
+  "category": "problems",
+  "section_slug": "3-problems",
+  "section_heading": "3.4 Motion with Constant Acceleration",
+  "item_number": "46",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-problems",
+  "source_fragment_file": "chapter-3/problems/fs-id1168326799089.html",
+  "source_sha256": "bb8617f93dec66b61ad20b12624ebb16c8588cee125fe11f16179523dc7334b9",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/5fa5c659503efea2d332f3be1cf703d225656719"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/problems/fs-id1168326799089",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/5fa5c659503efea2d332f3be1cf703d225656719",
+      "localFile": "clientFilesQuestion/adeee8952497aac72cfd.webp",
+      "sha256": "adeee8952497aac72cfd8fd7aef52d45815c01832899e55f1d875da1d8d1ca16",
+      "alt": "Graph is a plot of position x as a function of time t. Graph is non-linear and position is always positive."
+    }
+  ]
+}

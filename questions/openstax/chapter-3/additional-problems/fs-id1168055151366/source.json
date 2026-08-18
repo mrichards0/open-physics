@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1168055151366",
+  "chapter": 3,
+  "category": "additional-problems",
+  "section_slug": "3-additional-problems",
+  "section_heading": null,
+  "item_number": "94",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-additional-problems",
+  "source_fragment_file": "chapter-3/additional-problems/fs-id1168055151366.html",
+  "source_sha256": "e7a089e1907ca2dfc4e6039ce4c83576dc9ccd5ef97d1c1ce9cbe981f7f1d49d",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/5108e4cb8663ec7a62f2b81bbccc3b9877ce8ed7"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/additional-problems/fs-id1168055151366",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/5108e4cb8663ec7a62f2b81bbccc3b9877ce8ed7",
+      "localFile": "clientFilesQuestion/23981fda668b7684db6b.webp",
+      "sha256": "23981fda668b7684db6b3b5687268e2ab6eaf0744b848fe4cfce1a2583b40512",
+      "alt": "Top drawing shows passenger car with a speed of 80 kilometers per hour in front of the truck with the speed of 97 kilometers per hour. Middle drawing shows passenger car with a speed of 80 kilometers per hour parallel to the truck with the speed of 97 kilometers per hour. Bottom drawing shows passenger car with a speed of 80 kilometers per hour behind the truck with a speed of 97 kilometers per hour."
+    }
+  ]
+}

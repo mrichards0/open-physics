@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168327924198",
+  "chapter": 1,
+  "category": "problems",
+  "section_slug": "1-problems",
+  "section_heading": "1.3 Unit Conversion",
+  "item_number": "34",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/1-problems",
+  "source_fragment_file": "chapter-1/problems/fs-id1168327924198.html",
+  "source_sha256": "2e6c19a18eb9446993750ee6fece9e60be1be2992c00c4bf542c63471452e3fd",
+  "has_source_solution": false,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-1/problems/fs-id1168327924198",
+  "images": []
+}

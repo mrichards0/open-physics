@@ -1,0 +1,30 @@
+{
+  "uuid": "6bd81f0e-d1df-5edf-9c51-6b76ccff82d2",
+  "type": "Homework",
+  "title": "Chapter 2: Challenge Problems",
+  "set": "Practice",
+  "number": "2.5",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-2/challenge-problems/fs-id1167130007383",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/challenge-problems/fs-id1167131503571",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/challenge-problems/fs-id1167131518912",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-2/challenge-problems/fs-id1167134883911",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

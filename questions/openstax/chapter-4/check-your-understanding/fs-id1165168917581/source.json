@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1165168917581",
+  "chapter": 4,
+  "category": "check-your-understanding",
+  "section_slug": "4-4-uniform-circular-motion",
+  "section_heading": null,
+  "item_number": null,
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-4-uniform-circular-motion",
+  "source_fragment_file": "chapter-4/check-your-understanding/fs-id1165168917581.html",
+  "source_sha256": "a312857aa54cd0b28012200d65a90086d1ba998be37ea25e6b66f68e351e111c",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/check-your-understanding/fs-id1165168917581",
+  "images": []
+}

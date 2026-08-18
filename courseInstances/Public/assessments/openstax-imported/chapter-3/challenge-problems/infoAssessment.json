@@ -1,0 +1,30 @@
+{
+  "uuid": "90f9b3d6-dc06-5fab-bfbb-653a08e26730",
+  "type": "Homework",
+  "title": "Chapter 3: Challenge Problems",
+  "set": "Practice",
+  "number": "3.5",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-3/challenge-problems/fs-id1168055309429",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/challenge-problems/fs-id1168055190126",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/challenge-problems/fs-id1168057481407",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-3/challenge-problems/fs-id1168055309457",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168055308636",
+  "chapter": 3,
+  "category": "additional-problems",
+  "section_slug": "3-additional-problems",
+  "section_heading": null,
+  "item_number": "87",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-additional-problems",
+  "source_fragment_file": "chapter-3/additional-problems/fs-id1168055308636.html",
+  "source_sha256": "5c340dfe56f1e3ec408430597ead0d8ac431273905d031ffed34b51cea57b5f7",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/additional-problems/fs-id1168055308636",
+  "images": []
+}

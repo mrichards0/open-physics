@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1167132395721",
+  "chapter": 2,
+  "category": "problems",
+  "section_slug": "2-problems",
+  "section_heading": "2.1 Scalars and Vectors",
+  "item_number": "34",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-problems",
+  "source_fragment_file": "chapter-2/problems/fs-id1167132395721.html",
+  "source_sha256": "cb96168c7e4dd15e5f07c4461368bb4f27f8e193a35bb919990852973d384afc",
+  "has_source_solution": false,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/problems/fs-id1167132395721",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1165166632169",
+  "chapter": 4,
+  "category": "conceptual-questions",
+  "section_slug": "4-conceptual-questions",
+  "section_heading": "4.3 Projectile Motion",
+  "item_number": "9",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-conceptual-questions",
+  "source_fragment_file": "chapter-4/conceptual-questions/fs-id1165166632169.html",
+  "source_sha256": "370a84f66bf9fefc5770a9ef14eae098f306b4f840eb9375a1103095712cc101",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/conceptual-questions/fs-id1165166632169",
+  "images": []
+}

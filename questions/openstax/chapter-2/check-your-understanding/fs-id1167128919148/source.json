@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1167128919148",
+  "chapter": 2,
+  "category": "check-your-understanding",
+  "section_slug": "2-2-coordinate-systems-and-components-of-a-vector",
+  "section_heading": null,
+  "item_number": null,
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-2-coordinate-systems-and-components-of-a-vector",
+  "source_fragment_file": "chapter-2/check-your-understanding/fs-id1167128919148.html",
+  "source_sha256": "a73a7af24883a57ef2ddaaf81b5d18ada998b8b5d36a481a4463e2d43e21d2f4",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/check-your-understanding/fs-id1167128919148",
+  "images": []
+}

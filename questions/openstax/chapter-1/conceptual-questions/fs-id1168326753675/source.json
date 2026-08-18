@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168326753675",
+  "chapter": 1,
+  "category": "conceptual-questions",
+  "section_slug": "1-conceptual-questions",
+  "section_heading": "1.1 The Scope and Scale of Physics",
+  "item_number": "1",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/1-conceptual-questions",
+  "source_fragment_file": "chapter-1/conceptual-questions/fs-id1168326753675.html",
+  "source_sha256": "02410fc0c5512685dcc17c34dff12ff96a72e6e7686d52d7e549da8a172d4bf8",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-1/conceptual-questions/fs-id1168326753675",
+  "images": []
+}

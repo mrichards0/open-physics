@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1168055390931",
+  "chapter": 3,
+  "category": "additional-problems",
+  "section_slug": "3-additional-problems",
+  "section_heading": null,
+  "item_number": "88",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-additional-problems",
+  "source_fragment_file": "chapter-3/additional-problems/fs-id1168055390931.html",
+  "source_sha256": "742798cf3e5d11bf001e976b9cc4a67ba5164e839fcd34b576ed052998c5e723",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/447afc915df646f8f88b50408aefc478ce1e1c1a"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/additional-problems/fs-id1168055390931",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/447afc915df646f8f88b50408aefc478ce1e1c1a",
+      "localFile": "clientFilesQuestion/c44d513ca53556d0a277.webp",
+      "sha256": "c44d513ca53556d0a277c5f4c178d0189ba1742294a122efdde3494a427f3da6",
+      "alt": "Figure shows a train moving up a hill."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168328293440",
+  "chapter": 3,
+  "category": "conceptual-questions",
+  "section_slug": "3-conceptual-questions",
+  "section_heading": "3.5 Free Fall",
+  "item_number": "18",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-conceptual-questions",
+  "source_fragment_file": "chapter-3/conceptual-questions/fs-id1168328293440.html",
+  "source_sha256": "fc266bd604ff8bb100e396ba1e6cb8d7ab24e0bd7847294a0cb3a42f82e66cb0",
+  "has_source_solution": false,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/conceptual-questions/fs-id1168328293440",
+  "images": []
+}

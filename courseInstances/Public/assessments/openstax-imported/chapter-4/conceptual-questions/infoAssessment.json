@@ -1,0 +1,78 @@
+{
+  "uuid": "3a176c38-7b1f-509a-9484-e77cab824cfc",
+  "type": "Homework",
+  "title": "Chapter 4: Conceptual Questions",
+  "set": "Practice",
+  "number": "4.2",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038186932",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038186968",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038186987",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038328843",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038328860",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038328892",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165166616749",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165167690280",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165166632169",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165169120458",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165169017232",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165039253028",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165039267950",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165039267970",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165039267991",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165039268018",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1167131518912",
+  "chapter": 2,
+  "category": "challenge-problems",
+  "section_slug": "2-challenge-problems",
+  "section_heading": null,
+  "item_number": "90",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-challenge-problems",
+  "source_fragment_file": "chapter-2/challenge-problems/fs-id1167131518912.html",
+  "source_sha256": "8415c3bc365dbaaaa2a915e9f1f8a53879b6ecb2413031c52d7e65b952336300",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/7fc728ea54e18a25c9a36c778fe9e9323c974141"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/challenge-problems/fs-id1167131518912",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/7fc728ea54e18a25c9a36c778fe9e9323c974141",
+      "localFile": "clientFilesQuestion/d0a50984d68cf12cd360.webp",
+      "sha256": "d0a50984d68cf12cd360178cf4e5ef4d1825ccd412b65b1355329117b7085fe7",
+      "alt": "Vectors A, B and C form a triangle. Vector A points up and right, vector B starts at the head of A and points down and right, and vector C starts at the head of B, ends at the tail of A and points to the left. Vector C prime is parallel to vector C and connects the midpoints of vectors A and B."
+    }
+  ]
+}

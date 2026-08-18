@@ -1,0 +1,26 @@
+{
+  "questionsCreated": 434,
+  "assessmentsCreated": 20,
+  "groups": {
+    "chapter-1/additional-problems": 8,
+    "chapter-1/challenge-problems": 2,
+    "chapter-1/check-your-understanding": 8,
+    "chapter-1/conceptual-questions": 13,
+    "chapter-1/problems": 66,
+    "chapter-2/additional-problems": 17,
+    "chapter-2/challenge-problems": 4,
+    "chapter-2/check-your-understanding": 16,
+    "chapter-2/conceptual-questions": 24,
+    "chapter-2/problems": 46,
+    "chapter-3/additional-problems": 30,
+    "chapter-3/challenge-problems": 4,
+    "chapter-3/check-your-understanding": 8,
+    "chapter-3/conceptual-questions": 23,
+    "chapter-3/problems": 58,
+    "chapter-4/additional-problems": 20,
+    "chapter-4/challenge-problems": 3,
+    "chapter-4/check-your-understanding": 6,
+    "chapter-4/conceptual-questions": 16,
+    "chapter-4/problems": 62
+  }
+}

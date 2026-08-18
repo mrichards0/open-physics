@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168329179266",
+  "chapter": 1,
+  "category": "challenge-problems",
+  "section_slug": "1-challenge-problems",
+  "section_heading": null,
+  "item_number": "89",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/1-challenge-problems",
+  "source_fragment_file": "chapter-1/challenge-problems/fs-id1168329179266.html",
+  "source_sha256": "4693d57e9f2473e41331eabfce94871f0d788113807e6294a58d02bce959829c",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-1/challenge-problems/fs-id1168329179266",
+  "images": []
+}

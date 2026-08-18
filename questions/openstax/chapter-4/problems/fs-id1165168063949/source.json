@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1165168063949",
+  "chapter": 4,
+  "category": "problems",
+  "section_slug": "4-problems",
+  "section_heading": "4.3 Projectile Motion",
+  "item_number": "46",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-problems",
+  "source_fragment_file": "chapter-4/problems/fs-id1165168063949.html",
+  "source_sha256": "62c92be0b671d3b3faf99fe43e7f0c1cfc371dc2cb11c91119696a43c41065e1",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/d36fe651aecbd5fa75b68c074d61ea95d09f268e"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/problems/fs-id1165168063949",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/d36fe651aecbd5fa75b68c074d61ea95d09f268e",
+      "localFile": "clientFilesQuestion/437ede045614fc2e9dfa.webp",
+      "sha256": "437ede045614fc2e9dfa07866419a154d529553e0bba1b6e23aad178b5ee71e9",
+      "alt": "A skier is moving with velocity v sub 0 down a slope that is inclined at 30 degrees to the horizontal. The skier is at the edge of a 60 m wide gap. The other side of the gap is 100 m lower."
+    }
+  ]
+}

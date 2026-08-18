@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1168328977772",
+  "chapter": 3,
+  "category": "problems",
+  "section_slug": "3-problems",
+  "section_heading": "3.2 Instantaneous Velocity and Speed",
+  "item_number": "32",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-problems",
+  "source_fragment_file": "chapter-3/problems/fs-id1168328977772.html",
+  "source_sha256": "917084adbf4d9345d8f5855e0561740e4fcacd7e557b04ae23999c1b6a73d053",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/ff0dd7515381a1df3cbfce3e9495105fd56b4582"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/problems/fs-id1168328977772",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/ff0dd7515381a1df3cbfce3e9495105fd56b4582",
+      "localFile": "clientFilesQuestion/839f7e1c14534f923deb.webp",
+      "sha256": "839f7e1c14534f923deb0062265a80fe8c265fe8daedc73502fa8ddcf5f77de9",
+      "alt": "Graph shows position plotted versus time in seconds. Graph has a sinusoidal shape. It starts with the positive value at zero time, changes to negative, and then starts to increase."
+    }
+  ]
+}

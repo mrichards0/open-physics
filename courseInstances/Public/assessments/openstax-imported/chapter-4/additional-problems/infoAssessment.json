@@ -1,0 +1,94 @@
+{
+  "uuid": "308a221b-2ce8-5a4a-acec-3bcc635565e7",
+  "type": "Homework",
+  "title": "Chapter 4: Additional Problems",
+  "set": "Practice",
+  "number": "4.4",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039273301",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039273394",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039323750",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039324098",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039247273",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039270370",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039232625",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039267076",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039309472",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039329140",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039248362",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039248632",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039290474",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039312253",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039312347",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039312501",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039312654",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039244575",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039244714",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039244895",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

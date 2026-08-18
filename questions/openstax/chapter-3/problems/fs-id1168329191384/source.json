@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1168329191384",
+  "chapter": 3,
+  "category": "problems",
+  "section_slug": "3-problems",
+  "section_heading": "3.2 Instantaneous Velocity and Speed",
+  "item_number": "33",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-problems",
+  "source_fragment_file": "chapter-3/problems/fs-id1168329191384.html",
+  "source_sha256": "7dfc5c6533e32a2d8ecca04cd4108790b662e6d43e8afe955371861ff93bf0cb",
+  "has_source_solution": true,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/53148df57a0d201becd6fdffc01076bc19f5ee4b"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/problems/fs-id1168329191384",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/53148df57a0d201becd6fdffc01076bc19f5ee4b",
+      "localFile": "clientFilesQuestion/1b8e175cea2a9e5621d0.webp",
+      "sha256": "1b8e175cea2a9e5621d07bfc3e8960a3344197282511a04806389f465b1265ee",
+      "alt": "Graph shows velocity plotted versus time. It starts with the positive value at zero time, decreases to the negative value and remains constant."
+    }
+  ]
+}

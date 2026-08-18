@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1168326781258",
+  "chapter": 3,
+  "category": "conceptual-questions",
+  "section_slug": "3-conceptual-questions",
+  "section_heading": "3.1 Position, Displacement, and Average Velocity",
+  "item_number": "2",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-conceptual-questions",
+  "source_fragment_file": "chapter-3/conceptual-questions/fs-id1168326781258.html",
+  "source_sha256": "4a3f2e7c67f7f1c65d618e0bbedb228ac51f1eb187aeec1b092d450e5b30488a",
+  "has_source_solution": false,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/conceptual-questions/fs-id1168326781258",
+  "images": []
+}

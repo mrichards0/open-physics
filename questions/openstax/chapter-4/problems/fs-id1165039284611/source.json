@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1165039284611",
+  "chapter": 4,
+  "category": "problems",
+  "section_slug": "4-problems",
+  "section_heading": "4.5 Relative Motion in One and Two Dimensions",
+  "item_number": "71",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-problems",
+  "source_fragment_file": "chapter-4/problems/fs-id1165039284611.html",
+  "source_sha256": "3a1a2b1897830ad5f0c11f14f1594dda98f48d12a40c278124fba9558527d115",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/problems/fs-id1165039284611",
+  "images": []
+}

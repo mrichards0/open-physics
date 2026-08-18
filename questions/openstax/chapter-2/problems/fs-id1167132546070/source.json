@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1167132546070",
+  "chapter": 2,
+  "category": "problems",
+  "section_slug": "2-problems",
+  "section_heading": "2.1 Scalars and Vectors",
+  "item_number": "33",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-problems",
+  "source_fragment_file": "chapter-2/problems/fs-id1167132546070.html",
+  "source_sha256": "72f381c18ffd3a28a7e6c6e9c2cf7fe1e5226248a63b3f74b7ee304bd0af769c",
+  "has_source_solution": true,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/a41089f8e67390af15d1f40403ddc6eda9ab33c6"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/problems/fs-id1167132546070",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/a41089f8e67390af15d1f40403ddc6eda9ab33c6",
+      "localFile": "clientFilesQuestion/0cdb2ab4add14b5bb432.webp",
+      "sha256": "0cdb2ab4add14b5bb43282a522395e8cdb9bee94804c5d1179d8bf4354f89d7c",
+      "alt": "North is up, east is to the right. A house and lake are shown. The x y coordiante system is also shown, with the origin near the house, the positive x direction to the right nad the positive y direction up. The vector from the house to the lake is shown as a straight red arrow, labeled as vector S, magnitude S=5.0 kilometers, and at an angle of 40 degrees above the posiitve x direction. Two meandering paths, path 1 and path 2, from the house to the lake are shown as dashed line."
+    }
+  ]
+}

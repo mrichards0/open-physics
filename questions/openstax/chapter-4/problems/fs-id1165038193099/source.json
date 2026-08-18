@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1165038193099",
+  "chapter": 4,
+  "category": "problems",
+  "section_slug": "4-problems",
+  "section_heading": "4.1 Displacement and Velocity Vectors",
+  "item_number": "22",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-problems",
+  "source_fragment_file": "chapter-4/problems/fs-id1165038193099.html",
+  "source_sha256": "ee746a09af86ecab8f667265a57e7051a123afca2db7a86e6fee2ee43104fe98",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/9fd9ee90e3c0f17e58f68deb43ceab3428ec37bc"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/problems/fs-id1165038193099",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/9fd9ee90e3c0f17e58f68deb43ceab3428ec37bc",
+      "localFile": "clientFilesQuestion/b4c3beab79d44ba8d41a.webp",
+      "sha256": "b4c3beab79d44ba8d41af6abb3b4c63f77074a9d62a4e07b9a61e547a88c4a4a",
+      "alt": "An illustration of the situation described in the problem. The goal and the two ice hockey players are drawn as viewed from above. The goal and Girardi are at the origin of an x y coordinate system. A gray arrow representing 20 meters at 45 degrees from the positive x direction is shown, with Kreider drawn near the tip of the arrow. A blue line, parallel to the x axis, is also drawn at the tip of this arrow. A second gray arrow is shown starting at the Kreider\u00e2\u0080\u0099s location, pointing horizontally to the left, and representing a distance of 10 meters. A dark blue arrow is drawn from the goal at the origin to the tip of the second, 10 meter, gray arrow."
+    }
+  ]
+}

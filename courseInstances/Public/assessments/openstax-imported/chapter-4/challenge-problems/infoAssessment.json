@@ -1,0 +1,26 @@
+{
+  "uuid": "af40e443-c57c-5711-a677-10b18f6a7e87",
+  "type": "Homework",
+  "title": "Chapter 4: Challenge Problems",
+  "set": "Practice",
+  "number": "4.5",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-4/challenge-problems/fs-id1165039247940",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/challenge-problems/fs-id1165039250105",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-4/challenge-problems/fs-id1165039311851",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

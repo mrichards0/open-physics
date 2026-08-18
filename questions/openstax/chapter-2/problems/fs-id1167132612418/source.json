@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1167132612418",
+  "chapter": 2,
+  "category": "problems",
+  "section_slug": "2-problems",
+  "section_heading": "2.2 Coordinate Systems and Components of a Vector",
+  "item_number": "37",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-problems",
+  "source_fragment_file": "chapter-2/problems/fs-id1167132612418.html",
+  "source_sha256": "2b9ceba026309ae9fc954388097009c565994e5d02ec881656585cc1005d038a",
+  "has_source_solution": true,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/23ded1995238812d1e39cc7e947f97e515e91549"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/problems/fs-id1167132612418",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/23ded1995238812d1e39cc7e947f97e515e91549",
+      "localFile": "clientFilesQuestion/f4b1cd96ea206afddc6a.webp",
+      "sha256": "f4b1cd96ea206afddc6a199851953277ef687548b3490a6c55af202a89bf4731",
+      "alt": "The figure shows an x-y axis in the upper left corner followed by 5 unique vectors drawn on the x-y plane. Vector A has a magnitude of 10.0 and points 30 degrees above the x-axis. Vector B has a magnitude of 5.0 and points 53 degrees above the x-axis. Vector C has a magnitude of 12.0 and points 60 degrees below the x-axis. Vector D has a magnitude of 20.0 and points 37 degrees above the negative x-axis. Vector E has a magnitude of 20.0 and points 30 degrees below the negative x-axis."
+    }
+  ]
+}

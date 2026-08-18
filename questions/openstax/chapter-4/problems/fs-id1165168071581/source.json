@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1165168071581",
+  "chapter": 4,
+  "category": "problems",
+  "section_slug": "4-problems",
+  "section_heading": "4.3 Projectile Motion",
+  "item_number": "48",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-problems",
+  "source_fragment_file": "chapter-4/problems/fs-id1165168071581.html",
+  "source_sha256": "a8a4bd5bef159e34375bac0facefd7849d9ac4efe13699b11582403d83f1c100",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/26e1ad567d352056460258d189c96710ada267b8"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/problems/fs-id1165168071581",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/26e1ad567d352056460258d189c96710ada267b8",
+      "localFile": "clientFilesQuestion/46ba288acb662d9e3e4f.webp",
+      "sha256": "46ba288acb662d9e3e4fcd13b01bf6b133474171a241ede07e777bb6c0fbd078",
+      "alt": "A projectile is shot from the origin at a hill, the base of which is 300 m away. The projectile is shot at 60 degrees above the horizontal with an initial speed of 75 m/s. The hill is sloped away from the origin at 20 degrees to the horizontal. The slope is expressed as the equation y equals (tan of 20 degrees) times x minus 109."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1165039247273",
+  "chapter": 4,
+  "category": "additional-problems",
+  "section_slug": "4-additional-problems",
+  "section_heading": null,
+  "item_number": "83",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-additional-problems",
+  "source_fragment_file": "chapter-4/additional-problems/fs-id1165039247273.html",
+  "source_sha256": "6dabe14ceabf72514857506e41fc73c69a0442a6cc4a2c665847b7fe9144e47a",
+  "has_source_solution": true,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/87360a3e2afddcd34ac04e695426a5e0bd53ea9d"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/additional-problems/fs-id1165039247273",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/87360a3e2afddcd34ac04e695426a5e0bd53ea9d",
+      "localFile": "clientFilesQuestion/023bebab0cf3c1fe80f9.webp",
+      "sha256": "023bebab0cf3c1fe80f99e864f0dd8b66aa5e0d08aba01606dfaf92a143508e7",
+      "alt": "The earth is illustrated rotating about the vertical north south axis. The equator is shown as a horizontal circle at the earth\u00e2\u0080\u0099s surface, centered on the earth\u00e2\u0080\u0099s center. A second circle at the earth\u00e2\u0080\u0099s surface, parallel to the equator but north of it, is shown. This circle is at latitude lambda, meaning that the angle between the radius to this circle and to the equator is lambda."
+    }
+  ]
+}

@@ -21,6 +21,26 @@
       "name": "PositionDisplacement",
       "color": "blue1",
       "description": "Position, displacement, distance, and frames of reference."
+    },
+    {
+      "name": "OpenStaxChapter1",
+      "color": "purple1",
+      "description": "OpenStax University Physics Volume 1, Chapter 1: Units and Measurement."
+    },
+    {
+      "name": "OpenStaxChapter2",
+      "color": "purple2",
+      "description": "OpenStax University Physics Volume 1, Chapter 2: Vectors."
+    },
+    {
+      "name": "OpenStaxChapter3",
+      "color": "purple3",
+      "description": "OpenStax University Physics Volume 1, Chapter 3: Motion Along a Straight Line."
+    },
+    {
+      "name": "OpenStaxChapter4",
+      "color": "blue3",
+      "description": "OpenStax University Physics Volume 1, Chapter 4: Motion in Two and Three Dimensions."
     }
   ],
   "tags": [
@@ -33,6 +53,21 @@
       "name": "Randomized",
       "color": "green1",
       "description": "Parameters and correct answers are generated at runtime."
+    },
+    {
+      "name": "Imported",
+      "color": "gray1",
+      "description": "Mechanically imported from an attributed external source."
+    },
+    {
+      "name": "NeedsReview",
+      "color": "yellow1",
+      "description": "Visible manual-response item awaiting verified auto-grading or parameterization."
+    },
+    {
+      "name": "SourceAnswerAvailable",
+      "color": "green2",
+      "description": "The public OpenStax source marks an answer as available for independent verification."
     }
   ]
 }

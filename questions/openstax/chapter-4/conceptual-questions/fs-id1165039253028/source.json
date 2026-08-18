@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1165039253028",
+  "chapter": 4,
+  "category": "conceptual-questions",
+  "section_slug": "4-conceptual-questions",
+  "section_heading": "4.5 Relative Motion in One and Two Dimensions",
+  "item_number": "12",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-conceptual-questions",
+  "source_fragment_file": "chapter-4/conceptual-questions/fs-id1165039253028.html",
+  "source_sha256": "5889263d1b6baf7c12c9af47a172ff576543ef08d97b26fb363f4d1b693dea58",
+  "has_source_solution": false,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/conceptual-questions/fs-id1165039253028",
+  "images": []
+}

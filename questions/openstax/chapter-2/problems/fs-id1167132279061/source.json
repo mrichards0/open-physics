@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1167132279061",
+  "chapter": 2,
+  "category": "problems",
+  "section_slug": "2-problems",
+  "section_heading": "2.3 Algebra of Vectors",
+  "item_number": "60",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/2-problems",
+  "source_fragment_file": "chapter-2/problems/fs-id1167132279061.html",
+  "source_sha256": "aff1fa2fc5980df8bb6675caa6dd582fb4cb53dc1536910759dabc2b4d65517d",
+  "has_source_solution": false,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/38e0c617f9106fd3a3287fe0af61fbb41a8404f4"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-2/problems/fs-id1167132279061",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/38e0c617f9106fd3a3287fe0af61fbb41a8404f4",
+      "localFile": "clientFilesQuestion/d7370d31cc9a2be9a0af.webp",
+      "sha256": "d7370d31cc9a2be9a0af8516c2aad3cb08cf8531b456654e73023b7c0d217a8f",
+      "alt": "The situation in the problem is illustrated as viewed from above. Line A B is vertical on the page, with A at the top and B at the bottom. Two tugboats above the barge are pulling it. The one on the right with 5000 units at an angle of 12 degrees counterclockwise from the line A B and the one on the right with 4000 units at an angle of 15 degrees."
+    }
+  ]
+}

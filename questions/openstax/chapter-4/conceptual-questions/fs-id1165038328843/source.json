@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1165038328843",
+  "chapter": 4,
+  "category": "conceptual-questions",
+  "section_slug": "4-conceptual-questions",
+  "section_heading": "4.2 Acceleration Vector",
+  "item_number": "4",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-conceptual-questions",
+  "source_fragment_file": "chapter-4/conceptual-questions/fs-id1165038328843.html",
+  "source_sha256": "e8afe4684bed5498a9553003f7ba24201208cf73f3c3c627af369894cc53b82b",
+  "has_source_solution": false,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/conceptual-questions/fs-id1165038328843",
+  "images": []
+}

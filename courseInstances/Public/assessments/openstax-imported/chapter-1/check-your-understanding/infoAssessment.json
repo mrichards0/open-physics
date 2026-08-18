@@ -1,0 +1,46 @@
+{
+  "uuid": "bd05535c-23c4-5b1e-af9b-d1a6f410d2b9",
+  "type": "Homework",
+  "title": "Chapter 1: Check Your Understanding",
+  "set": "Practice",
+  "number": "1.1",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168329067205",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168328327747",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168327876191",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168328059712",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168328063625",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168328196554",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168329067631",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168328204614",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "uuid": "4056eae0-a480-5fba-b038-53b43997e912",
+  "type": "Homework",
+  "title": "Chapter 1: Challenge Problems",
+  "set": "Practice",
+  "number": "1.5",
+  "zones": [
+    {
+      "title": "Imported questions awaiting reviewed auto-grading",
+      "questions": [
+        {
+          "id": "openstax/chapter-1/challenge-problems/fs-id1168329335141",
+          "manualPoints": 1
+        },
+        {
+          "id": "openstax/chapter-1/challenge-problems/fs-id1168329179266",
+          "manualPoints": 1
+        }
+      ]
+    }
+  ]
+}

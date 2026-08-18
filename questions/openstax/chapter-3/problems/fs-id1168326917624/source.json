@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1168326917624",
+  "chapter": 3,
+  "category": "problems",
+  "section_slug": "3-problems",
+  "section_heading": "3.4 Motion with Constant Acceleration",
+  "item_number": "47",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/3-problems",
+  "source_fragment_file": "chapter-3/problems/fs-id1168326917624.html",
+  "source_sha256": "6cafaa3e6e9daaa2ded0323c4fab851aae62b4e59b65ade94b2152a5dea4da3f",
+  "has_source_solution": true,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/935217f23ef1a872d4040d4e0e907b9d1cbe3c1b"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-3/problems/fs-id1168326917624",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/935217f23ef1a872d4040d4e0e907b9d1cbe3c1b",
+      "localFile": "clientFilesQuestion/a796efffb011e9612da1.webp",
+      "sha256": "a796efffb011e9612da1fe1a5ec4ea1c775a0ba57515f56e4181acafd19631c8",
+      "alt": "Graph is a plot of velocity v as a function of time t. Graph is non-linear with velocity being equal to zero and the beginning point a and the last point l."
+    }
+  ]
+}

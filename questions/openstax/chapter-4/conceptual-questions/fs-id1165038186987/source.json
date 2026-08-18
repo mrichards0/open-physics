@@ -1,0 +1,28 @@
+{
+  "source_id": "fs-id1165038186987",
+  "chapter": 4,
+  "category": "conceptual-questions",
+  "section_slug": "4-conceptual-questions",
+  "section_heading": "4.1 Displacement and Velocity Vectors",
+  "item_number": "3",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-conceptual-questions",
+  "source_fragment_file": "chapter-4/conceptual-questions/fs-id1165038186987.html",
+  "source_sha256": "7c3f6beecf2185fd21f6c6f5aa776b7f441a414397fde51d311ea1174e3bc0ff",
+  "has_source_solution": true,
+  "image_urls": [],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/conceptual-questions/fs-id1165038186987",
+  "images": []
+}

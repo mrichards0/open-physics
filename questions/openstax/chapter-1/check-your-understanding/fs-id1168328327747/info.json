@@ -1,0 +1,15 @@
+{
+  "uuid": "07cc2aca-19ff-5a27-a1bf-eb15b3f4ebc6",
+  "title": "OpenStax Ch. 1 Check Your Understanding",
+  "topic": "OpenStaxChapter1",
+  "type": "v3",
+  "tags": [
+    "OpenStax",
+    "Imported",
+    "NeedsReview",
+    "SourceAnswerAvailable"
+  ],
+  "singleVariant": true,
+  "gradingMethod": "Manual",
+  "showCorrectAnswer": false
+}

@@ -1,0 +1,37 @@
+{
+  "source_id": "fs-id1165167611654",
+  "chapter": 4,
+  "category": "problems",
+  "section_slug": "4-problems",
+  "section_heading": "4.3 Projectile Motion",
+  "item_number": "35",
+  "source_url": "https://openstax.org/books/university-physics-volume-1/pages/4-problems",
+  "source_fragment_file": "chapter-4/problems/fs-id1165167611654.html",
+  "source_sha256": "76f58f3386cb17572b195a4cb6dc9b2616a4f28071f1fa02cca4810878fe1660",
+  "has_source_solution": true,
+  "image_urls": [
+    "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/9cdd22dacd2d8534ffd64190b74a2bfaab327e5d"
+  ],
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "authors": [
+    "William Moebs",
+    "Samuel J. Ling",
+    "Jeff Sanny"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "adaptation_status": "not-reviewed",
+  "adapted": true,
+  "adaptationStatus": "imported-manual-review",
+  "prairieLearnQid": "openstax/chapter-4/problems/fs-id1165167611654",
+  "images": [
+    {
+      "sourceUrl": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/9cdd22dacd2d8534ffd64190b74a2bfaab327e5d",
+      "localFile": "clientFilesQuestion/8a8cae80695cbc8465e6.webp",
+      "sha256": "8a8cae80695cbc8465e6bdc5b602b5465a3ee8e1382351565cc6a2ac5c02589e",
+      "alt": "An illustration of a person throwing a dart. The dart is released horizontally a distance of 2.4 meters from the dart board, level with the bulls eye of the dart board, with a speed of 10 meters per second."
+    }
+  ]
+}
