@@ -22,7 +22,7 @@
   "book_url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
   "adaptation_status": "not-reviewed",
   "adapted": true,
-  "adaptationStatus": "imported-manual-review",
+  "adaptationStatus": "reviewed-randomized-auto-graded",
   "prairieLearnQid": "openstax/chapter-2/problems/fs-id1167132441243",
   "images": []
 }
