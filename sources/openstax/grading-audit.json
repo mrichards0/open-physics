@@ -1,7 +1,7 @@
 {
   "counts": {
-    "auto-graded": 303,
-    "manual-free-text": 131
+    "auto-graded": 313,
+    "manual-free-text": 121
   },
   "questions": [
     {
@@ -2335,12 +2335,13 @@
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055095438",
       "title": "OpenStax Ch. 3 Additional Problems 98",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055120900",
@@ -2356,12 +2357,13 @@
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055124263",
       "title": "OpenStax Ch. 3 Additional Problems 99",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055124296",
@@ -2398,32 +2400,35 @@
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055151366",
       "title": "OpenStax Ch. 3 Additional Problems 94",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055171580",
       "title": "OpenStax Ch. 3 Additional Problems 93",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055237526",
       "title": "OpenStax Ch. 3 Additional Problems 101",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055274264",
@@ -2448,12 +2453,15 @@
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055283140",
       "title": "OpenStax Ch. 3 Additional Problems 97",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055308636",
@@ -2469,12 +2477,15 @@
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055309203",
       "title": "OpenStax Ch. 3 Additional Problems 100",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055309639",
@@ -2533,22 +2544,26 @@
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055392099",
       "title": "OpenStax Ch. 3 Additional Problems 92",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055463266",
       "title": "OpenStax Ch. 3 Additional Problems 95",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055469798",
@@ -2608,12 +2623,13 @@
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168057464878",
       "title": "OpenStax Ch. 3 Additional Problems 96",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168057491154",
