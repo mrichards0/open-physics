@@ -1,7 +1,7 @@
 {
   "counts": {
-    "auto-graded": 77,
-    "manual-free-text": 357
+    "auto-graded": 87,
+    "manual-free-text": 347
   },
   "questions": [
     {
@@ -358,12 +358,13 @@
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326753208",
       "title": "OpenStax Ch. 1 Problems 15",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-integer-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326761301",
@@ -379,12 +380,13 @@
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326786916",
       "title": "OpenStax Ch. 1 Problems 21",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326791766",
@@ -400,22 +402,24 @@
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326832986",
       "title": "OpenStax Ch. 1 Problems 22",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326840815",
       "title": "OpenStax Ch. 1 Problems 20",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326860046",
@@ -938,32 +942,35 @@
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329108275",
       "title": "OpenStax Ch. 1 Problems 14",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-integer-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329139448",
       "title": "OpenStax Ch. 1 Problems 18",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329140028",
       "title": "OpenStax Ch. 1 Problems 23",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329147263",
@@ -1001,12 +1008,13 @@
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329166114",
       "title": "OpenStax Ch. 1 Problems 17",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329174656",
@@ -1022,12 +1030,13 @@
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329182447",
       "title": "OpenStax Ch. 1 Problems 19",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329265263",
@@ -1043,12 +1052,13 @@
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329292036",
       "title": "OpenStax Ch. 1 Problems 16",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329316890",
