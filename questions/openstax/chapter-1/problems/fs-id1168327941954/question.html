@@ -1,22 +1,3 @@
-<pl-question-panel>
-<div class="os-hasSolution" data-type="exercise" id="fs-id1168327941954"><header></header><section>
-<div data-type="problem" id="fs-id1168327918284">
-<span class="os-divider">. </span>
-<div class="os-problem-container">
-<p id="fs-id1168328181668">It takes <span class="os-math-in-para"><math display="inline"><semantics><mrow><mrow><mn>2</mn><mi>Ï</mi></mrow></mrow><annotation-xml encoding="MathML-Content"><mrow><mn>2</mn><mi>Ï</mi></mrow></annotation-xml></semantics></math></span> radians (rad) to get around a circle, which is the same as 360Â°. How many radians are in 1Â°?</p>
-</div>
-</div>
-</section></div>
-</pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
-<hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Problems
-  45, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<pl-question-panel><p>Convert {{params.degrees}} degrees to radians.</p></pl-question-panel>
+<pl-number-input answers-name="radians" label="Angle =" suffix="rad" comparison="relabs" rtol="1e-5" atol="1e-6"></pl-number-input>
+<pl-answer-panel><p>Multiply degrees by pi/180. The result is {{correct_answers.radians}} rad.</p></pl-answer-panel><hr /><p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1 Problem 45, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a></p>

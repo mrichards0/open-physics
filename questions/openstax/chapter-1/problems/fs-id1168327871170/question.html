@@ -1,22 +1,3 @@
-<pl-question-panel>
-<div data-type="exercise" id="fs-id1168327871170"><header></header><section>
-<div data-type="problem" id="fs-id1168327935365">
-<span class="os-divider">. </span>
-<div class="os-problem-container">
-<p id="fs-id1168327873821">A furlong is 220 yd. A fortnight is 2 weeks. Convert a speed of one furlong per fortnight to millimeters per second.</p>
-</div>
-</div>
-</section></div>
-</pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
-<hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Problems
-  44, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<pl-question-panel><p>An object moves {{params.furlongs}} furlongs in {{params.fortnights}} fortnights. Convert its average speed to mm/s. Use 1 furlong = 220 yd, 1 yd = 0.9144 m, and 1 fortnight = 14 days.</p></pl-question-panel>
+<pl-number-input answers-name="mm_s" label="Speed =" suffix="mm/s" comparison="relabs" rtol="1e-4" atol="1e-8"></pl-number-input>
+<pl-answer-panel><p>Convert distance to millimeters and time to seconds, then divide. The speed is {{correct_answers.mm_s}} mm/s.</p></pl-answer-panel><hr /><p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1 Problem 44, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a></p>

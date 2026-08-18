@@ -1,22 +1,3 @@
-<pl-question-panel>
-<div class="os-hasSolution" data-type="exercise" id="fs-id1168328195795"><header></header><section>
-<div data-type="problem" id="fs-id1168328286055">
-<span class="os-divider">. </span>
-<div class="os-problem-container">
-<p id="fs-id1168328289390">A fluid ounce is about 30 mL. What is the volume of a 12 fl-oz can of soda pop in cubic meters?</p>
-</div>
-</div>
-</section></div>
-</pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
-<hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Problems
-  49, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<pl-question-panel><p>A container holds {{params.fl_oz}} fluid ounces. Using 1 fl oz approximately 30 mL, express its volume in m^3.</p></pl-question-panel>
+<pl-number-input answers-name="m3" label="Volume =" suffix="m^3" comparison="relabs" rtol="1e-5" atol="1e-10"></pl-number-input>
+<pl-answer-panel><p>Multiply by 30 mL/fl oz and 10^-6 m^3/mL. The volume is {{correct_answers.m3}} m^3.</p></pl-answer-panel><hr /><p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1 Problem 49, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a></p>

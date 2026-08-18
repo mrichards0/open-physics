@@ -1,22 +1,3 @@
-<pl-question-panel>
-<div class="os-hasSolution" data-type="exercise" id="fs-id1168327939869"><header></header><section>
-<div data-type="problem" id="fs-id1168327922500">
-<span class="os-divider">. </span>
-<div class="os-problem-container">
-<p id="fs-id1168328295075">Mount Everest, at 29,028 ft, is the tallest mountain on Earth. What is its height in kilometers? (Assume that 1 m = 3.281 ft.)</p>
-</div>
-</div>
-</section></div>
-</pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
-<hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Problems
-  37, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<pl-question-panel><p>A mountain is ${{params.feet}}\ \mathrm{ft}$ high. Convert its height to kilometers using $1\ \mathrm{m}=3.281\ \mathrm{ft}$.</p></pl-question-panel>
+<pl-number-input answers-name="kilometers" label="Height =" suffix="$\mathrm{km}$" comparison="relabs" rtol="1e-3" atol="0.001"></pl-number-input>
+<pl-answer-panel><p>Divide by $3.281\ \mathrm{ft/m}$ and then by $1000\ \mathrm{m/km}$: $h={{correct_answers.kilometers}}\ \mathrm{km}$.</p></pl-answer-panel><hr /><p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1 Problem 37, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a></p>

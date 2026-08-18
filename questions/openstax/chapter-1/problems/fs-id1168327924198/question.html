@@ -1,22 +1,3 @@
-<pl-question-panel>
-<div data-type="exercise" id="fs-id1168327924198"><header></header><section>
-<div data-type="problem" id="fs-id1168328170085">
-<span class="os-divider">. </span>
-<div class="os-problem-container">
-<p id="fs-id1168328293595">American football is played on a 100-yd-long field, excluding the end zones. How long is the field in meters? (Assume that 1 m = 3.281 ft.)</p>
-</div>
-</div>
-</section></div>
-</pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
-<hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Problems
-  34, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<pl-question-panel><p>A playing field is ${{params.yards}}\ \mathrm{yd}$ long. Find its length in meters using $1\ \mathrm{yd}=3\ \mathrm{ft}$ and $1\ \mathrm{m}=3.281\ \mathrm{ft}$.</p></pl-question-panel>
+<pl-number-input answers-name="meters" label="Length =" suffix="$\mathrm{m}$" comparison="relabs" rtol="1e-3" atol="0.01"></pl-number-input>
+<pl-answer-panel><p>$d=({{params.yards}}\ \mathrm{yd})(3\ \mathrm{ft/yd})/(3.281\ \mathrm{ft/m})={{correct_answers.meters}}\ \mathrm{m}$.</p></pl-answer-panel><hr /><p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1 Problem 34, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a></p>
