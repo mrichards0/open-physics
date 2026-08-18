@@ -1,7 +1,7 @@
 {
   "counts": {
-    "auto-graded": 245,
-    "manual-free-text": 189
+    "auto-graded": 255,
+    "manual-free-text": 179
   },
   "questions": [
     {
@@ -3074,12 +3074,13 @@
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325696669",
       "title": "OpenStax Ch. 3 Problems 41",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325702557",
@@ -3124,12 +3125,15 @@
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325781646",
       "title": "OpenStax Ch. 3 Problems 39",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325878341",
@@ -3144,22 +3148,26 @@
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325878345",
       "title": "OpenStax Ch. 3 Problems 40",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326762812",
       "title": "OpenStax Ch. 3 Problems 34",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326780779",
@@ -3220,12 +3228,13 @@
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326809070",
       "title": "OpenStax Ch. 3 Problems 35",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326891139",
@@ -3270,12 +3279,13 @@
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326925494",
       "title": "OpenStax Ch. 3 Problems 43",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326925511",
@@ -3391,12 +3401,13 @@
     {
       "qid": "openstax/chapter-3/problems/fs-id1168327949630",
       "title": "OpenStax Ch. 3 Problems 42",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328204005",
@@ -3431,22 +3442,24 @@
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328303424",
       "title": "OpenStax Ch. 3 Problems 37",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328320313",
       "title": "OpenStax Ch. 3 Problems 38",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328379493",
@@ -3528,12 +3541,15 @@
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329265497",
       "title": "OpenStax Ch. 3 Problems 36",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329290787",
