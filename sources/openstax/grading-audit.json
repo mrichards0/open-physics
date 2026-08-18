@@ -1,7 +1,7 @@
 {
   "counts": {
-    "auto-graded": 1,
-    "manual-free-text": 433
+    "auto-graded": 2,
+    "manual-free-text": 432
   },
   "questions": [
     {
@@ -117,12 +117,15 @@
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328059712",
       "title": "OpenStax Ch. 1 Check Your Understanding",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded"
     },
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328063625",

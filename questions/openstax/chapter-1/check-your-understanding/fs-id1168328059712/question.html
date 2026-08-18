@@ -1,19 +1,40 @@
 <pl-question-panel>
-<div class="unnumbered os-hasSolution" data-type="exercise" id="fs-id1168328059712"><header></header><section>
-<div data-type="problem" id="fs-id1168328224586"><div class="os-problem-container">
-<p id="fs-id1168327873248"> Given that 1 lbf (pound-force) is 4.45 N, were the numbers being output by SM_FORCES too big or too small?</p>
-</div></div>
-</section></div>
+  <p>
+    A force-analysis program receives a force of
+    ${{params.force_lbf}}\ \mathrm{lbf}$ but mistakenly displays the same
+    numerical value, ${{params.force_lbf}}$, with units of newtons. Use
+    $1\ \mathrm{lbf}=4.45\ \mathrm{N}$.
+  </p>
+  <p>(a) What force should the program display in newtons?</p>
 </pl-question-panel>
 
-<pl-rich-text-editor></pl-rich-text-editor>
+<pl-number-input answers-name="force_newtons" label="(a) Correct force =" suffix="$\mathrm{N}$" comparison="relabs" rtol="1e-3" atol="0.01"></pl-number-input>
+
+<pl-question-panel>
+  <p>(b) How does the program's incorrect numerical output compare with the correct value?</p>
+</pl-question-panel>
+
+<pl-multiple-choice answers-name="comparison" fixed-order="false">
+  <pl-answer correct="true">It is too small by a factor of 4.45.</pl-answer>
+  <pl-answer correct="false">It is too large by a factor of 4.45.</pl-answer>
+  <pl-answer correct="false">It is too small by a factor of $1/4.45$.</pl-answer>
+  <pl-answer correct="false">It is correct because the numerical value does not change.</pl-answer>
+</pl-multiple-choice>
+
+<pl-answer-panel>
+  <p>
+    Multiply pound-force by the conversion factor:
+    ${{params.force_lbf}}\ \mathrm{lbf}(4.45\ \mathrm{N}/\mathrm{lbf})
+    ={{correct_answers.force_newtons}}\ \mathrm{N}$.
+    The program displayed only ${{params.force_lbf}}\ \mathrm{N}$, so its
+    output was too small by the factor $4.45$.
+  </p>
+</pl-answer-panel>
 
 <hr />
 <p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Check Your Understanding
-  fs-id1168328059712, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
+  Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
+  Check Your Understanding 1.4, by William Moebs, Samuel J. Ling, and Jeff
+  Sanny. Licensed CC BY-NC-SA 4.0.
   <a href="https://openstax.org/books/university-physics-volume-1/pages/1-3-unit-conversion" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
 </p>
