@@ -1,0 +1,30 @@
+{
+  "uuid": "b9b2c743-41ed-533e-b17e-63d3bc568132",
+  "type": "Exam",
+  "title": "Adaptive Diagnostic: Scalar and Vector Basics",
+  "set": "Practice",
+  "number": "A2",
+  "multipleInstance": true,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [{"credit": 100}],
+  "text": "<p>PrairieLearn selects one existing scalar/vector diagnostic template, generates its variant, and grades it.</p>",
+  "zones": [
+    {
+      "title": "Scalar and vector diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {"id": "openstax/chapter-2/check-your-understanding/fs-id1167132485087", "points": 1},
+        {"id": "openstax/chapter-2/conceptual-questions/fs-id1167128860536", "points": 1},
+        {"id": "openstax/chapter-2/conceptual-questions/fs-id1167131432603", "points": 1},
+        {"id": "openstax/chapter-2/conceptual-questions/fs-id1167132318730", "points": 1},
+        {"id": "openstax/chapter-2/conceptual-questions/fs-id1167132458328", "points": 1},
+        {"id": "openstax/chapter-2/conceptual-questions/fs-id1167132483967", "points": 1},
+        {"id": "openstax/chapter-2/conceptual-questions/fs-id1167132744645", "points": 1},
+        {"id": "openstax/chapter-2/conceptual-questions/fs-id1167133578427", "points": 1},
+        {"id": "openstax/chapter-2/conceptual-questions/fs-id1167133635856", "points": 1},
+        {"id": "openstax/chapter-2/conceptual-questions/fs-id1167133640332", "points": 1}
+      ]
+    }
+  ]
+}

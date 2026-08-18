@@ -1,0 +1,21 @@
+{
+  "uuid": "7e9fbdd2-08f5-546f-938f-e3dba9e328a0",
+  "type": "Exam",
+  "title": "Adaptive Diagnostic: Elapsed Time",
+  "set": "Practice",
+  "number": "A3",
+  "multipleInstance": true,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [{"credit": 100}],
+  "text": "<p>This diagnostic checks the elapsed-time prerequisite. PrairieLearn generates and grades the question.</p>",
+  "zones": [
+    {
+      "title": "Elapsed-time diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {"id": "openstax/chapter-3/conceptual-questions/fs-id1168326851243", "points": 1}
+      ]
+    }
+  ]
+}
