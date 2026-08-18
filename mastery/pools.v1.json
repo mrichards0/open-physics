@@ -1,0 +1,1129 @@
+{
+  "schemaVersion": 1,
+  "poolVersion": "1.0.0",
+  "skills": {
+    "measurement.units_dimensions": {
+      "diagnostic": [
+        "openstax/chapter-1/conceptual-questions/fs-id1168329112708",
+        "openstax/chapter-1/conceptual-questions/fs-id1168329165634",
+        "openstax/chapter-1/conceptual-questions/fs-id1168329187896",
+        "openstax/chapter-1/conceptual-questions/fs-id1168329511648"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-1/problems/fs-id1168329057729",
+        "openstax/chapter-1/problems/fs-id1168329102378",
+        "openstax/chapter-1/problems/fs-id1168329147263",
+        "openstax/chapter-1/problems/fs-id1168329337175"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "measurement.unit_conversion": {
+      "diagnostic": [
+        "openstax/chapter-1/check-your-understanding/fs-id1168328059712",
+        "openstax/chapter-1/check-your-understanding/fs-id1168328327747",
+        "openstax/chapter-1/check-your-understanding/fs-id1168329067205"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-1/problems/fs-id1168327854111",
+        "openstax/chapter-1/problems/fs-id1168327871170",
+        "openstax/chapter-1/problems/fs-id1168327924198",
+        "openstax/chapter-1/problems/fs-id1168327934441",
+        "openstax/chapter-1/problems/fs-id1168327939270",
+        "openstax/chapter-1/problems/fs-id1168327939869",
+        "openstax/chapter-1/problems/fs-id1168327941954",
+        "openstax/chapter-1/problems/fs-id1168328059510",
+        "openstax/chapter-1/problems/fs-id1168328064287",
+        "openstax/chapter-1/problems/fs-id1168328170090",
+        "openstax/chapter-1/problems/fs-id1168328171083",
+        "openstax/chapter-1/problems/fs-id1168328195795",
+        "openstax/chapter-1/problems/fs-id1168328222458",
+        "openstax/chapter-1/problems/fs-id1168328222906",
+        "openstax/chapter-1/problems/fs-id1168328285914",
+        "openstax/chapter-1/problems/fs-id1168328293255",
+        "openstax/chapter-1/problems/fs-id1168328294774",
+        "openstax/chapter-1/problems/fs-id1168328297906",
+        "openstax/chapter-1/problems/fs-id1168328303932",
+        "openstax/chapter-1/problems/fs-id1168328311640"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "measurement.scientific_notation": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-1/problems/fs-id1168326761301",
+        "openstax/chapter-1/problems/fs-id1168329162803"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "measurement.order_of_magnitude": {
+      "diagnostic": [
+        "openstax/chapter-1/check-your-understanding/fs-id1168327876191",
+        "openstax/chapter-1/conceptual-questions/fs-id1168326753675",
+        "openstax/chapter-1/conceptual-questions/fs-id1168326823251",
+        "openstax/chapter-1/conceptual-questions/fs-id1168329072253",
+        "openstax/chapter-1/conceptual-questions/fs-id1168329113661",
+        "openstax/chapter-1/conceptual-questions/fs-id1168329426946",
+        "openstax/chapter-1/conceptual-questions/fs-id1168329445122"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-1/problems/fs-id1168326753208",
+        "openstax/chapter-1/problems/fs-id1168326786916",
+        "openstax/chapter-1/problems/fs-id1168329108275",
+        "openstax/chapter-1/problems/fs-id1168329139448",
+        "openstax/chapter-1/problems/fs-id1168329140028"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "measurement.dimensional_analysis": {
+      "diagnostic": [
+        "openstax/chapter-1/check-your-understanding/fs-id1168328063625",
+        "openstax/chapter-1/check-your-understanding/fs-id1168328196554"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-1/problems/fs-id1168327876941",
+        "openstax/chapter-1/problems/fs-id1168327918102",
+        "openstax/chapter-1/problems/fs-id1168327942540",
+        "openstax/chapter-1/problems/fs-id1168327948663",
+        "openstax/chapter-1/problems/fs-id1168328144822",
+        "openstax/chapter-1/problems/fs-id1168328369689"
+      ],
+      "mastery": [
+        "openstax/chapter-1/additional-problems/fs-id1168326767282",
+        "openstax/chapter-1/additional-problems/fs-id1168329290154"
+      ],
+      "remediation": [],
+      "challenge": [
+        "openstax/chapter-1/challenge-problems/fs-id1168329179266",
+        "openstax/chapter-1/challenge-problems/fs-id1168329335141"
+      ]
+    },
+    "measurement.significant_figures": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-1/problems/fs-id1168327943766",
+        "openstax/chapter-1/problems/fs-id1168327949034",
+        "openstax/chapter-1/problems/fs-id1168328064091",
+        "openstax/chapter-1/problems/fs-id1168328167911",
+        "openstax/chapter-1/problems/fs-id1168328196830",
+        "openstax/chapter-1/problems/fs-id11683282224160",
+        "openstax/chapter-1/problems/fs-id1168328229571",
+        "openstax/chapter-1/problems/fs-id1168328267903"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "measurement.accuracy_precision": {
+      "diagnostic": [
+        "openstax/chapter-1/conceptual-questions/fs-id1168327923331"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "measurement.uncertainty": {
+      "diagnostic": [
+        "openstax/chapter-1/check-your-understanding/fs-id1168328204614"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-1/problems/fs-id1168327942624",
+        "openstax/chapter-1/problems/fs-id11683281710830",
+        "openstax/chapter-1/problems/fs-id1168328242872",
+        "openstax/chapter-1/problems/fs-id1168328286258",
+        "openstax/chapter-1/problems/fs-id1168328311438",
+        "openstax/chapter-1/problems/fs-id1168328329316"
+      ],
+      "mastery": [
+        "openstax/chapter-1/additional-problems/fs-id1168326766362",
+        "openstax/chapter-1/additional-problems/fs-id1168326787865",
+        "openstax/chapter-1/additional-problems/fs-id1168326835535",
+        "openstax/chapter-1/additional-problems/fs-id1168329006379",
+        "openstax/chapter-1/additional-problems/fs-id1168329477934",
+        "openstax/chapter-1/additional-problems/fs-id1168329492839"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "measurement.estimation": {
+      "diagnostic": [
+        "openstax/chapter-1/check-your-understanding/fs-id1168329067631"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-1/problems/fs-id1168326791766",
+        "openstax/chapter-1/problems/fs-id1168326832986",
+        "openstax/chapter-1/problems/fs-id1168326840815",
+        "openstax/chapter-1/problems/fs-id1168326860046",
+        "openstax/chapter-1/problems/fs-id1168329013612",
+        "openstax/chapter-1/problems/fs-id1168329016670",
+        "openstax/chapter-1/problems/fs-id1168329081168",
+        "openstax/chapter-1/problems/fs-id11683291554120",
+        "openstax/chapter-1/problems/fs-id1168329166114",
+        "openstax/chapter-1/problems/fs-id1168329174656",
+        "openstax/chapter-1/problems/fs-id1168329182447",
+        "openstax/chapter-1/problems/fs-id1168329265263",
+        "openstax/chapter-1/problems/fs-id1168329292036",
+        "openstax/chapter-1/problems/fs-id1168329316890",
+        "openstax/chapter-1/problems/fs-id1168329443498"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "measurement.problem_modeling": {
+      "diagnostic": [
+        "openstax/chapter-1/conceptual-questions/fs-id1168329068779",
+        "openstax/chapter-1/conceptual-questions/fs-id1168329519074"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "vectors.scalar_vs_vector": {
+      "diagnostic": [
+        "openstax/chapter-2/check-your-understanding/fs-id1167132485087",
+        "openstax/chapter-2/conceptual-questions/fs-id1167128860536",
+        "openstax/chapter-2/conceptual-questions/fs-id1167131432603",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132318730",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132458328",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132483967",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132744645",
+        "openstax/chapter-2/conceptual-questions/fs-id1167133578427",
+        "openstax/chapter-2/conceptual-questions/fs-id1167133635856",
+        "openstax/chapter-2/conceptual-questions/fs-id1167133640332"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-2/problems/fs-id1167132309641",
+        "openstax/chapter-2/problems/fs-id1167132689356"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "vectors.coordinate_systems": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": [
+        "openstax/chapter-2/challenge-problems/fs-id1167134883911"
+      ]
+    },
+    "vectors.magnitude_direction": {
+      "diagnostic": [
+        "openstax/chapter-2/check-your-understanding/fs-id1167128919148",
+        "openstax/chapter-2/check-your-understanding/fs-id1167131113534",
+        "openstax/chapter-2/check-your-understanding/fs-id1167132518790",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132315789",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132352997",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132375600",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132437699",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132744085"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-2/problems/fs-id1167129993856",
+        "openstax/chapter-2/problems/fs-id1167132199121",
+        "openstax/chapter-2/problems/fs-id1167132272097",
+        "openstax/chapter-2/problems/fs-id1167132321672",
+        "openstax/chapter-2/problems/fs-id1167132395721",
+        "openstax/chapter-2/problems/fs-id1167132471146",
+        "openstax/chapter-2/problems/fs-id1167132487189",
+        "openstax/chapter-2/problems/fs-id1167132501147",
+        "openstax/chapter-2/problems/fs-id1167132559167",
+        "openstax/chapter-2/problems/fs-id1167133766074",
+        "openstax/chapter-2/problems/fs-id1167133862614",
+        "openstax/chapter-2/problems/fs-id1167134889697"
+      ],
+      "mastery": [
+        "openstax/chapter-2/additional-problems/fs-id1167131127272",
+        "openstax/chapter-2/additional-problems/fs-id1167131128625",
+        "openstax/chapter-2/additional-problems/fs-id1167131182898",
+        "openstax/chapter-2/additional-problems/fs-id1167131200226",
+        "openstax/chapter-2/additional-problems/fs-id1167131514285",
+        "openstax/chapter-2/additional-problems/fs-id1167131515978",
+        "openstax/chapter-2/additional-problems/fs-id1167134724436"
+      ],
+      "remediation": [],
+      "challenge": [
+        "openstax/chapter-2/challenge-problems/fs-id1167130007383",
+        "openstax/chapter-2/challenge-problems/fs-id1167131518912"
+      ]
+    },
+    "vectors.graphical_addition": {
+      "diagnostic": [
+        "openstax/chapter-2/conceptual-questions/fs-id1167132266747"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "vectors.components": {
+      "diagnostic": [
+        "openstax/chapter-2/check-your-understanding/fs-id1167128918786",
+        "openstax/chapter-2/check-your-understanding/fs-id1167132406917",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132241622",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132267416",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132494452",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132518791",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132535630",
+        "openstax/chapter-2/conceptual-questions/fs-id1167132562110"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-2/problems/fs-id1167132303332",
+        "openstax/chapter-2/problems/fs-id1167132319658",
+        "openstax/chapter-2/problems/fs-id1167132441243",
+        "openstax/chapter-2/problems/fs-id1167132536425",
+        "openstax/chapter-2/problems/fs-id1167132546070",
+        "openstax/chapter-2/problems/fs-id1167132612418",
+        "openstax/chapter-2/problems/fs-id1167133544873",
+        "openstax/chapter-2/problems/fs-id1167133676180"
+      ],
+      "mastery": [
+        "openstax/chapter-2/additional-problems/fs-id1167130010431",
+        "openstax/chapter-2/additional-problems/fs-id1167131397018"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "vectors.components_to_vector": {
+      "diagnostic": [
+        "openstax/chapter-2/check-your-understanding/fs-id1167132230399",
+        "openstax/chapter-2/check-your-understanding/fs-id1167132502120"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-2/problems/fs-id1167132279061",
+        "openstax/chapter-2/problems/fs-id1167132508049",
+        "openstax/chapter-2/problems/fs-id1167132583565",
+        "openstax/chapter-2/problems/fs-id1167132674455",
+        "openstax/chapter-2/problems/fs-id1167132741855",
+        "openstax/chapter-2/problems/fs-id1167133684643",
+        "openstax/chapter-2/problems/fs-id1167133740645",
+        "openstax/chapter-2/problems/fs-id1167133836651"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "vectors.unit_vectors": {
+      "diagnostic": [
+        "openstax/chapter-2/check-your-understanding/fs-id1167132580836"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-2/problems/fs-id1167132502015"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "vectors.analytical_addition": {
+      "diagnostic": [
+        "openstax/chapter-2/check-your-understanding/fs-id1167132473641",
+        "openstax/chapter-2/check-your-understanding/fs-id1167132487194"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-2/problems/fs-id1167132346102",
+        "openstax/chapter-2/problems/fs-id1167132409065",
+        "openstax/chapter-2/problems/fs-id1167132459919",
+        "openstax/chapter-2/problems/fs-id1167132465129",
+        "openstax/chapter-2/problems/fs-id1167132526027",
+        "openstax/chapter-2/problems/fs-id1167132573210",
+        "openstax/chapter-2/problems/fs-id1167133862238"
+      ],
+      "mastery": [
+        "openstax/chapter-2/additional-problems/fs-id1167129967943",
+        "openstax/chapter-2/additional-problems/fs-id1167131376976",
+        "openstax/chapter-2/additional-problems/fs-id1167131389955",
+        "openstax/chapter-2/additional-problems/fs-id1167131448284",
+        "openstax/chapter-2/additional-problems/fs-id1167131469964",
+        "openstax/chapter-2/additional-problems/fs-id1167134435523"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "vectors.subtraction": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-2/problems/fs-id1167132251647"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "vectors.dot_product": {
+      "diagnostic": [
+        "openstax/chapter-2/check-your-understanding/fs-id1167131635553",
+        "openstax/chapter-2/check-your-understanding/fs-id1167134863960",
+        "openstax/chapter-2/check-your-understanding/fs-id1167134912050",
+        "openstax/chapter-2/conceptual-questions/fs-id1167131134362"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-2/problems/fs-id1167130205821",
+        "openstax/chapter-2/problems/fs-id1167130224288",
+        "openstax/chapter-2/problems/fs-id1167131462688",
+        "openstax/chapter-2/problems/fs-id1167131586956"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": [
+        "openstax/chapter-2/challenge-problems/fs-id1167131503571"
+      ]
+    },
+    "vectors.cross_product": {
+      "diagnostic": [
+        "openstax/chapter-2/check-your-understanding/fs-id1167131331227",
+        "openstax/chapter-2/check-your-understanding/fs-id1167131613173",
+        "openstax/chapter-2/conceptual-questions/fs-id1167131439605",
+        "openstax/chapter-2/conceptual-questions/fs-id1167131563595"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-2/problems/fs-id1167130201986",
+        "openstax/chapter-2/problems/fs-id1167131483573",
+        "openstax/chapter-2/problems/fs-id1167131540420"
+      ],
+      "mastery": [
+        "openstax/chapter-2/additional-problems/fs-id1167131140153",
+        "openstax/chapter-2/additional-problems/fs-id1167134886863"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.position": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168329490110"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.distance": {
+      "diagnostic": [
+        "openstax/chapter-3/conceptual-questions/fs-id1168328991098"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.displacement": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168326940079"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.distance_vs_displacement": {
+      "diagnostic": [
+        "openstax/chapter-3/check-your-understanding/fs-id1168326766714",
+        "openstax/chapter-3/conceptual-questions/fs-id1168326781258",
+        "openstax/chapter-3/conceptual-questions/fs-id1168327144875",
+        "openstax/chapter-3/conceptual-questions/fs-id1168329042862"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168057491154"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.coordinate_signs": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168329317598"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.elapsed_time": {
+      "diagnostic": [
+        "openstax/chapter-3/conceptual-questions/fs-id1168326851243"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.average_speed": {
+      "diagnostic": [
+        "openstax/chapter-3/conceptual-questions/fs-id1168326759364",
+        "openstax/chapter-3/conceptual-questions/fs-id1168326896853"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168326798408",
+        "openstax/chapter-3/problems/fs-id1168329063635"
+      ],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168057389393"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.average_velocity": {
+      "diagnostic": [
+        "openstax/chapter-3/conceptual-questions/fs-id1168329466274"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168326780779",
+        "openstax/chapter-3/problems/fs-id1168326798194",
+        "openstax/chapter-3/problems/fs-id1168326809070"
+      ],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168055309763"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.speed_vs_velocity": {
+      "diagnostic": [
+        "openstax/chapter-3/conceptual-questions/fs-id1168329340393"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.instantaneous_velocity": {
+      "diagnostic": [
+        "openstax/chapter-3/check-your-understanding/fs-id1168329179170",
+        "openstax/chapter-3/conceptual-questions/fs-id1168327094731",
+        "openstax/chapter-3/conceptual-questions/fs-id1168328365755"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168054976898",
+        "openstax/chapter-3/problems/fs-id1168329265497"
+      ],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168055390931"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.acceleration": {
+      "diagnostic": [
+        "openstax/chapter-3/check-your-understanding/fs-id1168328242107",
+        "openstax/chapter-3/conceptual-questions/fs-id1168325679818"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168325696669",
+        "openstax/chapter-3/problems/fs-id1168327949630",
+        "openstax/chapter-3/problems/fs-id1168328303424",
+        "openstax/chapter-3/problems/fs-id1168329293311",
+        "openstax/chapter-3/problems/fs-id1168329316408"
+      ],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168055308636"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.acceleration_direction": {
+      "diagnostic": [
+        "openstax/chapter-3/conceptual-questions/fs-id1168325735577",
+        "openstax/chapter-3/conceptual-questions/fs-id1168328257161",
+        "openstax/chapter-3/conceptual-questions/fs-id1168328293440"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.velocity_vs_acceleration": {
+      "diagnostic": [
+        "openstax/chapter-3/check-your-understanding/fs-id1168328320368",
+        "openstax/chapter-3/conceptual-questions/fs-id1168328064486"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168054988599",
+        "openstax/chapter-3/problems/fs-id1168326901284",
+        "openstax/chapter-3/problems/fs-id1168326925511",
+        "openstax/chapter-3/problems/fs-id1168326956066"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.constant_velocity": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168326925494"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.constant_acceleration": {
+      "diagnostic": [
+        "openstax/chapter-3/check-your-understanding/fs-id1168326827856",
+        "openstax/chapter-3/check-your-understanding/fs-id1168329484408"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168326891139",
+        "openstax/chapter-3/problems/fs-id1168326908218",
+        "openstax/chapter-3/problems/fs-id1168326954571",
+        "openstax/chapter-3/problems/fs-id1168326972751",
+        "openstax/chapter-3/problems/fs-id1168327145366",
+        "openstax/chapter-3/problems/fs-id1168327148242",
+        "openstax/chapter-3/problems/fs-id1168329187289",
+        "openstax/chapter-3/problems/fs-id1168329187419",
+        "openstax/chapter-3/problems/fs-id1168329200915",
+        "openstax/chapter-3/problems/fs-id1168329315924",
+        "openstax/chapter-3/problems/fs-id1168329462605",
+        "openstax/chapter-3/problems/fs-id1168329484447",
+        "openstax/chapter-3/problems/fs-id1168329484654"
+      ],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168055124622",
+        "openstax/chapter-3/additional-problems/fs-id1168055283140",
+        "openstax/chapter-3/additional-problems/fs-id1168055309203",
+        "openstax/chapter-3/additional-problems/fs-id1168057455309"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.equation_selection": {
+      "diagnostic": [
+        "openstax/chapter-3/conceptual-questions/fs-id1168326925447",
+        "openstax/chapter-3/conceptual-questions/fs-id1168326925465"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.multistep_1d": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168325878345",
+        "openstax/chapter-3/problems/fs-id1168326959416",
+        "openstax/chapter-3/problems/fs-id1168328320313",
+        "openstax/chapter-3/problems/fs-id1168329290787"
+      ],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168055095438",
+        "openstax/chapter-3/additional-problems/fs-id1168055124263",
+        "openstax/chapter-3/additional-problems/fs-id1168055146907",
+        "openstax/chapter-3/additional-problems/fs-id1168055151366",
+        "openstax/chapter-3/additional-problems/fs-id1168055171580",
+        "openstax/chapter-3/additional-problems/fs-id1168055274264",
+        "openstax/chapter-3/additional-problems/fs-id1168055392099",
+        "openstax/chapter-3/additional-problems/fs-id1168055463266",
+        "openstax/chapter-3/additional-problems/fs-id1168055469798",
+        "openstax/chapter-3/additional-problems/fs-id1168055478200",
+        "openstax/chapter-3/additional-problems/fs-id1168057464878"
+      ],
+      "remediation": [],
+      "challenge": [
+        "openstax/chapter-3/challenge-problems/fs-id1168055309429",
+        "openstax/chapter-3/challenge-problems/fs-id1168055309457",
+        "openstax/chapter-3/challenge-problems/fs-id1168057481407"
+      ]
+    },
+    "kinematics.free_fall": {
+      "diagnostic": [
+        "openstax/chapter-3/check-your-understanding/fs-id1168327914860",
+        "openstax/chapter-3/conceptual-questions/fs-id1168327871044",
+        "openstax/chapter-3/conceptual-questions/fs-id1168327925204",
+        "openstax/chapter-3/conceptual-questions/fs-id1168328296713"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168325702557",
+        "openstax/chapter-3/problems/fs-id1168325780878",
+        "openstax/chapter-3/problems/fs-id1168325878341",
+        "openstax/chapter-3/problems/fs-id1168328379493"
+      ],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168052793064",
+        "openstax/chapter-3/additional-problems/fs-id1168055309639",
+        "openstax/chapter-3/additional-problems/fs-id1168055324264",
+        "openstax/chapter-3/additional-problems/fs-id1168055388728",
+        "openstax/chapter-3/additional-problems/fs-id1168057461827",
+        "openstax/chapter-3/additional-problems/fs-id1168057556789"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.vertical_motion": {
+      "diagnostic": [
+        "openstax/chapter-3/conceptual-questions/fs-id1168328260222"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168325735578",
+        "openstax/chapter-3/problems/fs-id1168325736839",
+        "openstax/chapter-3/problems/fs-id1168327876168",
+        "openstax/chapter-3/problems/fs-id1168327917021",
+        "openstax/chapter-3/problems/fs-id1168327942440",
+        "openstax/chapter-3/problems/fs-id1168328204005",
+        "openstax/chapter-3/problems/fs-id1168328242029",
+        "openstax/chapter-3/problems/fs-id1168328277363"
+      ],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168055124296",
+        "openstax/chapter-3/additional-problems/fs-id1168055237526",
+        "openstax/chapter-3/additional-problems/fs-id1168055282726"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.motion_from_acceleration": {
+      "diagnostic": [
+        "openstax/chapter-3/check-your-understanding/fs-id1168057460348",
+        "openstax/chapter-3/conceptual-questions/fs-id1168057332320"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168052793712",
+        "openstax/chapter-3/problems/fs-id1168057715927"
+      ],
+      "mastery": [
+        "openstax/chapter-3/additional-problems/fs-id1168055120900"
+      ],
+      "remediation": [],
+      "challenge": [
+        "openstax/chapter-3/challenge-problems/fs-id1168055190126"
+      ]
+    },
+    "kinematics.word_problem_modeling": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.displacement_vectors": {
+      "diagnostic": [
+        "openstax/chapter-4/conceptual-questions/fs-id1165038186932"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165038184323",
+        "openstax/chapter-4/problems/fs-id1165038192922",
+        "openstax/chapter-4/problems/fs-id1165038193099",
+        "openstax/chapter-4/problems/fs-id1165038204777",
+        "openstax/chapter-4/problems/fs-id1165038204860",
+        "openstax/chapter-4/problems/fs-id1165038218957"
+      ],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039248362"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.velocity_vectors": {
+      "diagnostic": [
+        "openstax/chapter-4/check-your-understanding/fs-id1165038192575",
+        "openstax/chapter-4/conceptual-questions/fs-id1165038186987"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165038188045",
+        "openstax/chapter-4/problems/fs-id1165038192798",
+        "openstax/chapter-4/problems/fs-id1165038198131"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.acceleration_vectors": {
+      "diagnostic": [
+        "openstax/chapter-4/check-your-understanding/fs-id1165038300360",
+        "openstax/chapter-4/conceptual-questions/fs-id1165038328843",
+        "openstax/chapter-4/conceptual-questions/fs-id1165038328860",
+        "openstax/chapter-4/conceptual-questions/fs-id1165038328892"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165038298654",
+        "openstax/chapter-4/problems/fs-id1165038303652",
+        "openstax/chapter-4/problems/fs-id1165038303902",
+        "openstax/chapter-4/problems/fs-id1165038305798",
+        "openstax/chapter-4/problems/fs-id1165038328945",
+        "openstax/chapter-4/problems/fs-id1165038334612",
+        "openstax/chapter-4/problems/fs-id1165038340004"
+      ],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039248632",
+        "openstax/chapter-4/additional-problems/fs-id1165039290474"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "kinematics.independent_xy_motion": {
+      "diagnostic": [
+        "openstax/chapter-4/conceptual-questions/fs-id1165038186968"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "graphs.position_time": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "graphs.velocity_from_position_slope": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168326790679",
+        "openstax/chapter-3/problems/fs-id1168326799089"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "graphs.velocity_time": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "graphs.acceleration_from_velocity_slope": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168325781646",
+        "openstax/chapter-3/problems/fs-id1168326917624"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "graphs.displacement_from_velocity_area": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168329191384"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "graphs.acceleration_time": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "graphs.translate_representations": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-3/problems/fs-id1168326762812",
+        "openstax/chapter-3/problems/fs-id1168328977772"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "projectile.concept": {
+      "diagnostic": [
+        "openstax/chapter-4/conceptual-questions/fs-id1165166616749",
+        "openstax/chapter-4/conceptual-questions/fs-id1165166632169",
+        "openstax/chapter-4/conceptual-questions/fs-id1165167690280"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "projectile.horizontal_launch": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165167867745",
+        "openstax/chapter-4/problems/fs-id1165168029945",
+        "openstax/chapter-4/problems/fs-id1165168143712"
+      ],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039312253"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "projectile.angled_launch": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165166778792"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "projectile.time_of_flight": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165166798737"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "projectile.maximum_height": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165166779111",
+        "openstax/chapter-4/problems/fs-id1165167850935"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "projectile.range": {
+      "diagnostic": [
+        "openstax/chapter-4/check-your-understanding/fs-id1165166558484"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165166487901",
+        "openstax/chapter-4/problems/fs-id1165166778493",
+        "openstax/chapter-4/problems/fs-id1165168009629"
+      ],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039312347",
+        "openstax/chapter-4/additional-problems/fs-id1165039312501"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "projectile.trajectory": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165166546858",
+        "openstax/chapter-4/problems/fs-id1165168071581"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "projectile.multistep": {
+      "diagnostic": [
+        "openstax/chapter-4/check-your-understanding/fs-id1165167599002"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165166481497",
+        "openstax/chapter-4/problems/fs-id1165166622226",
+        "openstax/chapter-4/problems/fs-id1165166625989",
+        "openstax/chapter-4/problems/fs-id1165166634991",
+        "openstax/chapter-4/problems/fs-id1165167611654",
+        "openstax/chapter-4/problems/fs-id1165167697338",
+        "openstax/chapter-4/problems/fs-id1165167851744",
+        "openstax/chapter-4/problems/fs-id1165167907721",
+        "openstax/chapter-4/problems/fs-id1165167946074",
+        "openstax/chapter-4/problems/fs-id1165167996129",
+        "openstax/chapter-4/problems/fs-id1165168033133",
+        "openstax/chapter-4/problems/fs-id1165168039120",
+        "openstax/chapter-4/problems/fs-id1165168063949",
+        "openstax/chapter-4/problems/fs-id1165168068850",
+        "openstax/chapter-4/problems/fs-id1165168119293"
+      ],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039312654"
+      ],
+      "remediation": [],
+      "challenge": [
+        "openstax/chapter-4/challenge-problems/fs-id1165039247940",
+        "openstax/chapter-4/challenge-problems/fs-id1165039250105"
+      ]
+    },
+    "circular.angular_motion": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165169033440",
+        "openstax/chapter-4/problems/fs-id1165169173260"
+      ],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039267076"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "circular.centripetal_acceleration": {
+      "diagnostic": [
+        "openstax/chapter-4/check-your-understanding/fs-id1165168917581",
+        "openstax/chapter-4/conceptual-questions/fs-id1165169120458"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165168927049",
+        "openstax/chapter-4/problems/fs-id1165168934860",
+        "openstax/chapter-4/problems/fs-id1165168945040",
+        "openstax/chapter-4/problems/fs-id1165168975022",
+        "openstax/chapter-4/problems/fs-id1165169014380",
+        "openstax/chapter-4/problems/fs-id1165169065802",
+        "openstax/chapter-4/problems/fs-id1165169262577"
+      ],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039244575",
+        "openstax/chapter-4/additional-problems/fs-id1165039244714",
+        "openstax/chapter-4/additional-problems/fs-id1165039247273",
+        "openstax/chapter-4/additional-problems/fs-id1165039273301",
+        "openstax/chapter-4/additional-problems/fs-id1165039329140"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "circular.tangential_acceleration": {
+      "diagnostic": [
+        "openstax/chapter-4/conceptual-questions/fs-id1165169017232"
+      ],
+      "concept": [],
+      "practice": [],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "circular.total_acceleration": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039232625",
+        "openstax/chapter-4/additional-problems/fs-id1165039270370",
+        "openstax/chapter-4/additional-problems/fs-id1165039273394",
+        "openstax/chapter-4/additional-problems/fs-id1165039323750",
+        "openstax/chapter-4/additional-problems/fs-id1165039324098"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "circular.uniform_motion_vectors": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039309472"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "relative_motion.galilean_transform": {
+      "diagnostic": [
+        "openstax/chapter-4/conceptual-questions/fs-id1165039253028"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165039284611",
+        "openstax/chapter-4/problems/fs-id1165039309086",
+        "openstax/chapter-4/problems/fs-id1165039334836"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    },
+    "relative_motion.relative_velocity_1d": {
+      "diagnostic": [],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165039265574"
+      ],
+      "mastery": [
+        "openstax/chapter-4/additional-problems/fs-id1165039244895"
+      ],
+      "remediation": [],
+      "challenge": []
+    },
+    "relative_motion.relative_velocity_2d": {
+      "diagnostic": [
+        "openstax/chapter-4/conceptual-questions/fs-id1165039267950",
+        "openstax/chapter-4/conceptual-questions/fs-id1165039267970",
+        "openstax/chapter-4/conceptual-questions/fs-id1165039267991",
+        "openstax/chapter-4/conceptual-questions/fs-id1165039268018"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165039209786"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": [
+        "openstax/chapter-4/challenge-problems/fs-id1165039311851"
+      ]
+    },
+    "relative_motion.navigation": {
+      "diagnostic": [
+        "openstax/chapter-4/check-your-understanding/fs-id1165039273506"
+      ],
+      "concept": [],
+      "practice": [
+        "openstax/chapter-4/problems/fs-id1165039244987",
+        "openstax/chapter-4/problems/fs-id1165039267560",
+        "openstax/chapter-4/problems/fs-id1165039333594",
+        "openstax/chapter-4/problems/fs-id1165039335180",
+        "openstax/chapter-4/problems/fs-id1165039340114"
+      ],
+      "mastery": [],
+      "remediation": [],
+      "challenge": []
+    }
+  }
+}

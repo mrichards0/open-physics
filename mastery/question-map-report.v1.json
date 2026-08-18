@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "questionCount": 434,
+  "responseCount": 1178,
+  "primarySkillCounts": {
+    "circular.angular_motion": 3,
+    "circular.centripetal_acceleration": 14,
+    "circular.tangential_acceleration": 1,
+    "circular.total_acceleration": 5,
+    "circular.uniform_motion_vectors": 1,
+    "graphs.acceleration_from_velocity_slope": 2,
+    "graphs.displacement_from_velocity_area": 1,
+    "graphs.translate_representations": 2,
+    "graphs.velocity_from_position_slope": 2,
+    "kinematics.acceleration": 8,
+    "kinematics.acceleration_direction": 3,
+    "kinematics.acceleration_vectors": 13,
+    "kinematics.average_speed": 5,
+    "kinematics.average_velocity": 5,
+    "kinematics.constant_acceleration": 19,
+    "kinematics.constant_velocity": 1,
+    "kinematics.coordinate_signs": 1,
+    "kinematics.displacement": 1,
+    "kinematics.displacement_vectors": 8,
+    "kinematics.distance": 1,
+    "kinematics.distance_vs_displacement": 5,
+    "kinematics.elapsed_time": 1,
+    "kinematics.equation_selection": 2,
+    "kinematics.free_fall": 14,
+    "kinematics.independent_xy_motion": 1,
+    "kinematics.instantaneous_velocity": 6,
+    "kinematics.motion_from_acceleration": 6,
+    "kinematics.multistep_1d": 18,
+    "kinematics.position": 1,
+    "kinematics.speed_vs_velocity": 1,
+    "kinematics.velocity_vectors": 5,
+    "kinematics.velocity_vs_acceleration": 6,
+    "kinematics.vertical_motion": 12,
+    "measurement.accuracy_precision": 1,
+    "measurement.dimensional_analysis": 12,
+    "measurement.estimation": 16,
+    "measurement.order_of_magnitude": 12,
+    "measurement.problem_modeling": 2,
+    "measurement.scientific_notation": 2,
+    "measurement.significant_figures": 8,
+    "measurement.uncertainty": 13,
+    "measurement.unit_conversion": 23,
+    "measurement.units_dimensions": 8,
+    "projectile.angled_launch": 1,
+    "projectile.concept": 3,
+    "projectile.horizontal_launch": 4,
+    "projectile.maximum_height": 2,
+    "projectile.multistep": 19,
+    "projectile.range": 6,
+    "projectile.time_of_flight": 1,
+    "projectile.trajectory": 2,
+    "relative_motion.galilean_transform": 4,
+    "relative_motion.navigation": 6,
+    "relative_motion.relative_velocity_1d": 2,
+    "relative_motion.relative_velocity_2d": 6,
+    "vectors.analytical_addition": 15,
+    "vectors.components": 18,
+    "vectors.components_to_vector": 10,
+    "vectors.coordinate_systems": 1,
+    "vectors.cross_product": 9,
+    "vectors.dot_product": 9,
+    "vectors.graphical_addition": 1,
+    "vectors.magnitude_direction": 29,
+    "vectors.scalar_vs_vector": 12,
+    "vectors.subtraction": 1,
+    "vectors.unit_vectors": 2
+  },
+  "areaCounts": {
+    "circular": 24,
+    "graphs": 7,
+    "kinematics": 143,
+    "measurement": 97,
+    "projectile": 38,
+    "relative_motion": 18,
+    "vectors": 107
+  },
+  "roleCounts": {
+    "challenge": 13,
+    "diagnostic": 114,
+    "mastery": 75,
+    "practice": 232
+  },
+  "chapterAreaCounts": {
+    "1": {
+      "measurement": 97
+    },
+    "2": {
+      "vectors": 107
+    },
+    "3": {
+      "graphs": 7,
+      "kinematics": 116
+    },
+    "4": {
+      "circular": 24,
+      "kinematics": 27,
+      "projectile": 38,
+      "relative_motion": 18
+    }
+  },
+  "unrepresentedDirectSkills": [
+    "graphs.acceleration_time",
+    "graphs.position_time",
+    "graphs.velocity_time",
+    "kinematics.word_problem_modeling"
+  ]
+}
