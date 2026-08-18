@@ -8,7 +8,8 @@
     "Imported",
     "SourceAnswerAvailable",
     "Randomized",
-    "AutoGraded"
+    "AutoGraded",
+    "Reviewed"
   ],
   "singleVariant": false
 }

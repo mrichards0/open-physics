@@ -1,8 +1,8 @@
 {
   "counts": {
-    "auto-graded": 421,
-    "manual-free-text": 13
+    "auto-graded": 434
   },
+  "violations": [],
   "questions": [
     {
       "qid": "openstax/chapter-1/additional-problems/fs-id1168326766362",
@@ -13,7 +13,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/additional-problems/fs-id1168326767282",
@@ -25,7 +32,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/additional-problems/fs-id1168326787865",
@@ -36,7 +50,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/additional-problems/fs-id1168326835535",
@@ -47,7 +68,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/additional-problems/fs-id1168329006379",
@@ -58,7 +86,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/additional-problems/fs-id1168329290154",
@@ -70,7 +105,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/additional-problems/fs-id1168329477934",
@@ -81,7 +123,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/additional-problems/fs-id1168329492839",
@@ -92,7 +141,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/challenge-problems/fs-id1168329179266",
@@ -104,7 +160,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/challenge-problems/fs-id1168329335141",
@@ -115,7 +178,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168327876191",
@@ -126,7 +196,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328059712",
@@ -139,7 +216,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328063625",
@@ -151,7 +235,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328196554",
@@ -163,7 +254,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328204614",
@@ -175,7 +273,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328327747",
@@ -186,7 +291,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168329067205",
@@ -197,7 +309,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/check-your-understanding/fs-id1168329067631",
@@ -210,7 +329,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168326753675",
@@ -222,7 +348,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168326823251",
@@ -234,7 +367,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168327923331",
@@ -246,7 +386,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329068779",
@@ -258,7 +405,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329072253",
@@ -270,7 +424,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329112708",
@@ -282,7 +443,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329113661",
@@ -294,7 +462,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329165634",
@@ -306,7 +481,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329187896",
@@ -318,7 +500,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329426946",
@@ -330,7 +519,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329445122",
@@ -342,7 +538,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329511648",
@@ -354,7 +557,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329519074",
@@ -366,7 +576,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326753208",
@@ -377,7 +594,14 @@
         "pl-integer-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326761301",
@@ -388,7 +612,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326786916",
@@ -399,7 +630,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326791766",
@@ -410,7 +648,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326832986",
@@ -421,7 +666,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326840815",
@@ -432,7 +684,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168326860046",
@@ -443,7 +702,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327854111",
@@ -454,7 +720,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327871170",
@@ -465,7 +738,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327876941",
@@ -477,7 +757,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327918102",
@@ -489,7 +776,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327924198",
@@ -500,7 +794,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327934441",
@@ -511,7 +812,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327939270",
@@ -522,7 +830,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327939869",
@@ -533,7 +848,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327941954",
@@ -544,7 +866,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327942540",
@@ -556,7 +885,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327942624",
@@ -567,7 +903,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327943766",
@@ -581,7 +924,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327948663",
@@ -593,7 +943,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168327949034",
@@ -605,7 +962,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328059510",
@@ -616,7 +980,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328064091",
@@ -627,7 +998,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328064287",
@@ -638,7 +1016,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328144822",
@@ -650,7 +1035,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328167911",
@@ -661,7 +1053,14 @@
         "pl-integer-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328170090",
@@ -672,7 +1071,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328171083",
@@ -683,7 +1089,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id11683281710830",
@@ -694,7 +1107,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328195795",
@@ -705,7 +1125,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328196830",
@@ -717,7 +1144,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id11683282224160",
@@ -728,7 +1162,14 @@
         "pl-integer-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328222458",
@@ -739,7 +1180,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328222906",
@@ -750,7 +1198,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328229571",
@@ -762,7 +1217,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328242872",
@@ -773,7 +1235,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328267903",
@@ -784,7 +1253,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328285914",
@@ -795,7 +1271,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328286258",
@@ -806,7 +1289,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328293255",
@@ -817,7 +1307,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328294774",
@@ -828,7 +1325,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328297906",
@@ -839,7 +1343,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328303932",
@@ -850,7 +1361,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328311438",
@@ -861,7 +1379,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328311640",
@@ -872,7 +1397,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328329316",
@@ -883,7 +1415,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168328369689",
@@ -895,7 +1434,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329013612",
@@ -906,7 +1452,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329016670",
@@ -917,7 +1470,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329057729",
@@ -928,7 +1488,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329081168",
@@ -939,7 +1506,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329102378",
@@ -950,7 +1524,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329108275",
@@ -961,7 +1542,14 @@
         "pl-integer-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329139448",
@@ -972,7 +1560,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329140028",
@@ -983,7 +1578,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329147263",
@@ -994,7 +1596,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id11683291554120",
@@ -1005,7 +1614,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329162803",
@@ -1016,7 +1632,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329166114",
@@ -1027,7 +1650,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329174656",
@@ -1038,7 +1668,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329182447",
@@ -1049,7 +1686,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329265263",
@@ -1060,7 +1704,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329292036",
@@ -1071,7 +1722,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329316890",
@@ -1082,7 +1740,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329337175",
@@ -1093,7 +1758,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-1/problems/fs-id1168329443498",
@@ -1104,7 +1776,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167129967943",
@@ -1115,7 +1794,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167130010431",
@@ -1126,7 +1812,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131127272",
@@ -1137,7 +1830,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131128625",
@@ -1148,7 +1848,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131140153",
@@ -1161,7 +1868,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131182898",
@@ -1172,7 +1886,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131200226",
@@ -1183,7 +1904,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131376976",
@@ -1194,7 +1922,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131389955",
@@ -1205,7 +1940,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131397018",
@@ -1216,7 +1958,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131448284",
@@ -1227,7 +1976,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131469964",
@@ -1240,7 +1996,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131514285",
@@ -1253,7 +2016,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167131515978",
@@ -1264,7 +2034,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167134435523",
@@ -1275,7 +2052,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167134724436",
@@ -1286,7 +2070,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/additional-problems/fs-id1167134886863",
@@ -1297,7 +2088,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/challenge-problems/fs-id1167130007383",
@@ -1308,7 +2106,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/challenge-problems/fs-id1167131503571",
@@ -1319,7 +2124,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/challenge-problems/fs-id1167131518912",
@@ -1330,7 +2142,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/challenge-problems/fs-id1167134883911",
@@ -1341,7 +2160,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167128918786",
@@ -1352,7 +2178,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167128919148",
@@ -1363,7 +2196,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131113534",
@@ -1374,7 +2214,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131331227",
@@ -1385,7 +2232,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131613173",
@@ -1396,7 +2250,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131635553",
@@ -1408,7 +2269,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132230399",
@@ -1419,7 +2287,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132406917",
@@ -1430,7 +2305,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132473641",
@@ -1441,7 +2323,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132485087",
@@ -1453,7 +2342,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132487194",
@@ -1464,7 +2360,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132502120",
@@ -1475,7 +2378,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132518790",
@@ -1486,7 +2396,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132580836",
@@ -1497,7 +2414,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167134863960",
@@ -1508,7 +2432,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/check-your-understanding/fs-id1167134912050",
@@ -1519,7 +2450,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167128860536",
@@ -1531,7 +2469,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167131134362",
@@ -1543,7 +2488,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167131432603",
@@ -1555,7 +2507,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167131439605",
@@ -1567,7 +2526,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167131563595",
@@ -1579,7 +2545,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132241622",
@@ -1591,7 +2564,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132266747",
@@ -1603,7 +2583,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132267416",
@@ -1615,7 +2602,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132315789",
@@ -1627,7 +2621,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132318730",
@@ -1639,7 +2640,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132352997",
@@ -1651,7 +2659,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132375600",
@@ -1663,7 +2678,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132437699",
@@ -1675,7 +2697,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132458328",
@@ -1687,7 +2716,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132483967",
@@ -1699,7 +2735,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132494452",
@@ -1711,7 +2754,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132518791",
@@ -1723,7 +2773,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132535630",
@@ -1735,7 +2792,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132562110",
@@ -1747,7 +2811,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132744085",
@@ -1759,7 +2830,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132744645",
@@ -1771,7 +2849,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167133578427",
@@ -1783,7 +2868,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167133635856",
@@ -1795,7 +2887,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/conceptual-questions/fs-id1167133640332",
@@ -1807,7 +2906,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167129993856",
@@ -1818,7 +2924,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167130201986",
@@ -1829,7 +2942,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167130205821",
@@ -1840,7 +2960,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167130224288",
@@ -1852,7 +2979,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167131462688",
@@ -1865,7 +2999,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167131483573",
@@ -1876,7 +3017,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167131540420",
@@ -1887,7 +3035,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167131586956",
@@ -1898,7 +3053,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132199121",
@@ -1909,7 +3071,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132251647",
@@ -1920,7 +3089,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132272097",
@@ -1931,7 +3107,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132279061",
@@ -1942,7 +3125,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132303332",
@@ -1953,7 +3143,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132309641",
@@ -1964,7 +3161,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132319658",
@@ -1975,7 +3179,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132321672",
@@ -1986,7 +3197,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132346102",
@@ -1997,7 +3215,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132395721",
@@ -2008,7 +3233,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132409065",
@@ -2019,7 +3251,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132441243",
@@ -2030,7 +3269,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132459919",
@@ -2041,7 +3287,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132465129",
@@ -2052,7 +3305,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132471146",
@@ -2065,7 +3325,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132487189",
@@ -2078,7 +3345,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132501147",
@@ -2089,7 +3363,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132502015",
@@ -2100,7 +3381,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132508049",
@@ -2111,7 +3399,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132526027",
@@ -2122,7 +3417,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132536425",
@@ -2133,7 +3435,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132546070",
@@ -2144,7 +3453,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132559167",
@@ -2155,7 +3471,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132573210",
@@ -2166,7 +3489,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132583565",
@@ -2177,7 +3507,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132612418",
@@ -2188,7 +3525,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132674455",
@@ -2199,7 +3543,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132689356",
@@ -2210,7 +3561,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167132741855",
@@ -2221,7 +3579,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167133544873",
@@ -2232,7 +3597,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167133676180",
@@ -2243,7 +3615,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167133684643",
@@ -2254,7 +3633,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167133740645",
@@ -2265,7 +3651,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167133766074",
@@ -2276,7 +3669,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167133836651",
@@ -2287,7 +3687,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167133862238",
@@ -2298,7 +3705,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167133862614",
@@ -2309,7 +3723,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-2/problems/fs-id1167134889697",
@@ -2320,7 +3741,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168052793064",
@@ -2331,7 +3759,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055095438",
@@ -2342,7 +3777,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055120900",
@@ -2353,7 +3795,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055124263",
@@ -2364,7 +3813,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055124296",
@@ -2375,7 +3831,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055124622",
@@ -2386,7 +3849,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055146907",
@@ -2397,7 +3867,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055151366",
@@ -2408,7 +3885,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055171580",
@@ -2419,7 +3903,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055237526",
@@ -2430,7 +3921,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055274264",
@@ -2441,7 +3939,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055282726",
@@ -2452,7 +3957,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055283140",
@@ -2465,7 +3977,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055308636",
@@ -2476,7 +3995,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055309203",
@@ -2489,7 +4015,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055309639",
@@ -2500,7 +4033,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055309763",
@@ -2513,7 +4053,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055324264",
@@ -2524,7 +4071,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055388728",
@@ -2535,7 +4089,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055390931",
@@ -2546,7 +4107,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055392099",
@@ -2559,7 +4127,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055463266",
@@ -2570,7 +4145,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055469798",
@@ -2581,7 +4163,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168055478200",
@@ -2592,7 +4181,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168057389393",
@@ -2605,7 +4201,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168057455309",
@@ -2616,7 +4219,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168057461827",
@@ -2629,7 +4239,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168057464878",
@@ -2640,7 +4257,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168057491154",
@@ -2651,7 +4275,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/additional-problems/fs-id1168057556789",
@@ -2662,7 +4293,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/challenge-problems/fs-id1168055190126",
@@ -2673,7 +4311,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/challenge-problems/fs-id1168055309429",
@@ -2684,7 +4329,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/challenge-problems/fs-id1168055309457",
@@ -2695,7 +4347,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/challenge-problems/fs-id1168057481407",
@@ -2706,7 +4365,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/check-your-understanding/fs-id1168057460348",
@@ -2717,7 +4383,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/check-your-understanding/fs-id1168326766714",
@@ -2728,7 +4401,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/check-your-understanding/fs-id1168326827856",
@@ -2739,7 +4419,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/check-your-understanding/fs-id1168327914860",
@@ -2752,7 +4439,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/check-your-understanding/fs-id1168328242107",
@@ -2763,7 +4457,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/check-your-understanding/fs-id1168328320368",
@@ -2775,7 +4476,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/check-your-understanding/fs-id1168329179170",
@@ -2788,7 +4496,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/check-your-understanding/fs-id1168329484408",
@@ -2799,7 +4514,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168057332320",
@@ -2811,7 +4533,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168325679818",
@@ -2823,7 +4552,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168325735577",
@@ -2835,7 +4571,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326759364",
@@ -2847,7 +4590,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326781258",
@@ -2859,7 +4609,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326851243",
@@ -2871,7 +4628,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326896853",
@@ -2883,7 +4647,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326925447",
@@ -2895,7 +4666,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326925465",
@@ -2907,7 +4685,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168327094731",
@@ -2919,7 +4704,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168327144875",
@@ -2931,7 +4723,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168327871044",
@@ -2943,7 +4742,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168327925204",
@@ -2955,7 +4761,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328064486",
@@ -2967,7 +4780,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328257161",
@@ -2979,7 +4799,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328260222",
@@ -2991,7 +4818,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328293440",
@@ -3003,7 +4837,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328296713",
@@ -3015,7 +4856,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328365755",
@@ -3027,7 +4875,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328991098",
@@ -3039,7 +4894,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168329042862",
@@ -3051,7 +4913,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168329340393",
@@ -3063,7 +4932,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/conceptual-questions/fs-id1168329466274",
@@ -3075,7 +4951,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168052793712",
@@ -3086,7 +4969,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168054976898",
@@ -3097,7 +4987,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168054988599",
@@ -3108,7 +5005,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168057715927",
@@ -3121,7 +5025,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325696669",
@@ -3132,7 +5043,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325702557",
@@ -3143,7 +5061,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325735578",
@@ -3154,7 +5079,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325736839",
@@ -3165,7 +5097,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325780878",
@@ -3176,7 +5115,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325781646",
@@ -3189,7 +5135,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325878341",
@@ -3200,7 +5153,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168325878345",
@@ -3211,7 +5171,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326762812",
@@ -3224,7 +5191,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326780779",
@@ -3235,7 +5209,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326790679",
@@ -3248,7 +5229,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326798194",
@@ -3259,7 +5247,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326798408",
@@ -3270,7 +5265,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326799089",
@@ -3283,7 +5285,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326809070",
@@ -3294,7 +5303,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326891139",
@@ -3305,7 +5321,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326901284",
@@ -3316,7 +5339,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326908218",
@@ -3327,7 +5357,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326917624",
@@ -3340,7 +5377,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326925494",
@@ -3351,7 +5395,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326925511",
@@ -3362,7 +5413,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326940079",
@@ -3373,7 +5431,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326954571",
@@ -3384,7 +5449,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326956066",
@@ -3395,7 +5467,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326959416",
@@ -3406,7 +5485,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168326972751",
@@ -3417,7 +5503,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168327145366",
@@ -3430,7 +5523,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168327148242",
@@ -3441,7 +5541,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168327876168",
@@ -3452,7 +5559,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168327917021",
@@ -3463,7 +5577,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168327942440",
@@ -3474,7 +5595,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168327949630",
@@ -3485,7 +5613,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328204005",
@@ -3498,7 +5633,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328242029",
@@ -3509,7 +5651,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328277363",
@@ -3520,7 +5669,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328303424",
@@ -3531,7 +5687,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328320313",
@@ -3542,7 +5705,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328379493",
@@ -3555,7 +5725,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168328977772",
@@ -3568,7 +5745,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329063635",
@@ -3579,7 +5763,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329187289",
@@ -3590,7 +5781,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329187419",
@@ -3601,7 +5799,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329191384",
@@ -3614,7 +5819,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329200915",
@@ -3625,7 +5837,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329265497",
@@ -3638,7 +5857,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329290787",
@@ -3649,7 +5875,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329293311",
@@ -3660,7 +5893,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329315924",
@@ -3671,7 +5911,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329316408",
@@ -3684,7 +5931,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329317598",
@@ -3695,7 +5949,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329462605",
@@ -3708,7 +5969,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329484447",
@@ -3721,7 +5989,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329484654",
@@ -3732,7 +6007,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-3/problems/fs-id1168329490110",
@@ -3743,7 +6025,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039232625",
@@ -3754,37 +6043,70 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039244575",
       "title": "OpenStax Ch. 4 Additional Problems 96",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039244714",
       "title": "OpenStax Ch. 4 Additional Problems 97",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039244895",
       "title": "OpenStax Ch. 4 Additional Problems 98",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039247273",
@@ -3795,27 +6117,50 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039248362",
       "title": "OpenStax Ch. 4 Additional Problems 89",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039248632",
       "title": "OpenStax Ch. 4 Additional Problems 90",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039267076",
@@ -3826,7 +6171,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039270370",
@@ -3837,7 +6189,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039273301",
@@ -3848,7 +6207,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039273394",
@@ -3859,17 +6225,32 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039290474",
       "title": "OpenStax Ch. 4 Additional Problems 91",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039309472",
@@ -3880,47 +6261,86 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039312253",
       "title": "OpenStax Ch. 4 Additional Problems 92",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039312347",
       "title": "OpenStax Ch. 4 Additional Problems 93",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039312501",
       "title": "OpenStax Ch. 4 Additional Problems 94",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039312654",
       "title": "OpenStax Ch. 4 Additional Problems 95",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039323750",
@@ -3931,7 +6351,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039324098",
@@ -3942,7 +6369,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/additional-problems/fs-id1165039329140",
@@ -3953,37 +6387,70 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/challenge-problems/fs-id1165039247940",
       "title": "OpenStax Ch. 4 Challenge Problems 99",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/challenge-problems/fs-id1165039250105",
       "title": "OpenStax Ch. 4 Challenge Problems 100",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer",
+        "pl-answer-panel",
+        "pl-multiple-choice",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/challenge-problems/fs-id1165039311851",
       "title": "OpenStax Ch. 4 Challenge Problems 101",
-      "gradingMethod": "Manual",
+      "gradingMethod": "Internal",
       "responseElements": [
-        "pl-question-panel",
-        "pl-rich-text-editor"
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
       ],
-      "status": "manual-free-text"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165038192575",
@@ -3996,7 +6463,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165038300360",
@@ -4008,7 +6482,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165039273506",
@@ -4019,7 +6500,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165166558484",
@@ -4032,7 +6520,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165167599002",
@@ -4045,7 +6540,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/check-your-understanding/fs-id1165168917581",
@@ -4056,7 +6558,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038186932",
@@ -4068,7 +6577,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038186968",
@@ -4080,7 +6596,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038186987",
@@ -4092,7 +6615,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038328843",
@@ -4104,7 +6634,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038328860",
@@ -4116,7 +6653,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038328892",
@@ -4128,7 +6672,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039253028",
@@ -4140,7 +6691,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039267950",
@@ -4152,7 +6710,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039267970",
@@ -4164,7 +6729,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039267991",
@@ -4176,7 +6748,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039268018",
@@ -4188,7 +6767,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165166616749",
@@ -4200,7 +6786,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165166632169",
@@ -4212,7 +6805,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165167690280",
@@ -4224,7 +6824,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165169017232",
@@ -4236,7 +6843,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/conceptual-questions/fs-id1165169120458",
@@ -4248,7 +6862,14 @@
         "pl-multiple-choice",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038184323",
@@ -4259,7 +6880,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038188045",
@@ -4270,7 +6898,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038192798",
@@ -4281,7 +6916,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038192922",
@@ -4292,7 +6934,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038193099",
@@ -4303,7 +6952,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038198131",
@@ -4314,7 +6970,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038204777",
@@ -4325,7 +6988,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038204860",
@@ -4336,7 +7006,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038218957",
@@ -4347,7 +7024,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038298654",
@@ -4360,7 +7044,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038303652",
@@ -4371,7 +7062,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038303902",
@@ -4382,7 +7080,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038305798",
@@ -4393,7 +7098,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038328945",
@@ -4404,7 +7116,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038334612",
@@ -4415,7 +7134,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165038340004",
@@ -4426,7 +7152,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039209786",
@@ -4437,7 +7170,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039244987",
@@ -4448,7 +7188,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039265574",
@@ -4459,7 +7206,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039267560",
@@ -4470,7 +7224,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039284611",
@@ -4481,7 +7242,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039309086",
@@ -4492,7 +7260,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039333594",
@@ -4503,7 +7278,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039334836",
@@ -4514,7 +7296,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039335180",
@@ -4525,7 +7314,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165039340114",
@@ -4536,7 +7332,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166481497",
@@ -4549,7 +7352,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166487901",
@@ -4560,7 +7370,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166546858",
@@ -4571,7 +7388,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166622226",
@@ -4582,7 +7406,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166625989",
@@ -4593,7 +7424,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166634991",
@@ -4604,7 +7442,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166778493",
@@ -4615,7 +7460,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166778792",
@@ -4626,7 +7478,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166779111",
@@ -4637,7 +7496,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165166798737",
@@ -4648,7 +7514,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165167611654",
@@ -4661,7 +7534,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165167697338",
@@ -4672,7 +7552,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165167850935",
@@ -4683,7 +7570,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165167851744",
@@ -4694,7 +7588,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165167867745",
@@ -4705,7 +7606,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165167907721",
@@ -4716,7 +7624,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165167946074",
@@ -4727,7 +7642,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165167996129",
@@ -4738,7 +7660,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168009629",
@@ -4749,7 +7678,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168029945",
@@ -4760,7 +7696,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168033133",
@@ -4771,7 +7714,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168039120",
@@ -4782,7 +7732,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168063949",
@@ -4795,7 +7752,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168068850",
@@ -4806,7 +7770,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168071581",
@@ -4817,7 +7788,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168119293",
@@ -4828,7 +7806,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168143712",
@@ -4839,7 +7824,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168927049",
@@ -4850,7 +7842,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168934860",
@@ -4861,7 +7860,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168945040",
@@ -4872,7 +7878,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165168975022",
@@ -4883,7 +7896,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165169014380",
@@ -4896,7 +7916,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165169033440",
@@ -4907,7 +7934,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165169065802",
@@ -4918,7 +7952,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165169173260",
@@ -4929,7 +7970,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     },
     {
       "qid": "openstax/chapter-4/problems/fs-id1165169262577",
@@ -4940,7 +7988,14 @@
         "pl-number-input",
         "pl-question-panel"
       ],
-      "status": "auto-graded"
+      "status": "auto-graded",
+      "checks": {
+        "hasWorkedAnswer": true,
+        "hasAttribution": true,
+        "reviewedMetadata": true,
+        "internalGrading": true,
+        "reviewedSource": true
+      }
     }
   ]
 }
