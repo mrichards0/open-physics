@@ -6,9 +6,8 @@
   "tags": [
     "OpenStax",
     "Imported",
-    "NeedsReview"
+    "Reviewed",
+    "AutoGraded"
   ],
-  "singleVariant": true,
-  "gradingMethod": "Manual",
-  "showCorrectAnswer": false
+  "singleVariant": true
 }
