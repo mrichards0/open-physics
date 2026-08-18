@@ -1,0 +1,39 @@
+{
+  "uuid": "0116ad47-dc0d-5725-93e2-6e1bc4b573bc",
+  "type": "Exam",
+  "title": "Adaptive Practice: Unit Conversion",
+  "set": "Practice",
+  "number": "A1",
+  "multipleInstance": true,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "text": "<p>This is the first SpiritsFire adaptive-practice vertical slice. PrairieLearn selects one existing unit-conversion template, generates its randomized variant, and grades it. Create a new assessment instance for another template selection.</p>",
+  "zones": [
+    {
+      "title": "Unit conversion practice",
+      "numberChoose": 1,
+      "questions": [
+        {"id": "openstax/chapter-1/problems/fs-id1168327854111", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168327871170", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168327924198", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168327934441", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168327939270", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168327939869", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168327941954", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328059510", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328064287", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328170090", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328171083", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328195795", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328222458", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328222906", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328285914", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328293255", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328294774", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328297906", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328303932", "points": 1},
+        {"id": "openstax/chapter-1/problems/fs-id1168328311640", "points": 1}
+      ]
+    }
+  ]
+}
