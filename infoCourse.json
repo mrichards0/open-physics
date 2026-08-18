@@ -1,0 +1,38 @@
+{
+  "name": "SF PHYS 101",
+  "title": "Open Physics",
+  "timezone": "UTC",
+  "assessmentSets": [
+    {
+      "abbreviation": "P",
+      "name": "Practice",
+      "heading": "Practice",
+      "color": "blue1"
+    }
+  ],
+  "assessmentModules": [
+    {
+      "name": "Kinematics1D",
+      "heading": "One-Dimensional Kinematics"
+    }
+  ],
+  "topics": [
+    {
+      "name": "PositionDisplacement",
+      "color": "blue1",
+      "description": "Position, displacement, distance, and frames of reference."
+    }
+  ],
+  "tags": [
+    {
+      "name": "OpenStax",
+      "color": "orange1",
+      "description": "Adapted from or aligned to attributed OpenStax material."
+    },
+    {
+      "name": "Randomized",
+      "color": "green1",
+      "description": "Parameters and correct answers are generated at runtime."
+    }
+  ]
+}

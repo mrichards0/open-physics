@@ -1,0 +1,29 @@
+{
+  "uuid": "ac916e4d-fa10-4e18-a467-f8a93d309649",
+  "type": "Homework",
+  "title": "3.1 Position and Displacement",
+  "set": "Practice",
+  "module": "Kinematics1D",
+  "number": "1",
+  "zones": [
+    {
+      "title": "Read",
+      "questions": [
+        {
+          "id": "kinematics/position-displacement/openstax-reading",
+          "autoPoints": 1
+        }
+      ]
+    },
+    {
+      "title": "Practice",
+      "questions": [
+        {
+          "id": "kinematics/position-displacement/randomized-displacement",
+          "autoPoints": 1,
+          "maxAutoPoints": 5
+        }
+      ]
+    }
+  ]
+}

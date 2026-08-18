@@ -1,0 +1,20 @@
+{
+  "provider": "OpenStax",
+  "book": "University Physics Volume 1",
+  "editionDate": "2026-06-11",
+  "authors": ["William Moebs", "Samuel J. Ling", "Jeff Sanny"],
+  "chapter": "3 Motion Along a Straight Line",
+  "section": "3.1 Position, Displacement, and Average Velocity",
+  "figure": "3.3",
+  "sourceUrl": "https://openstax.org/books/university-physics-volume-1/pages/3-1-position-displacement-and-average-velocity",
+  "bookUrl": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "adapted": true,
+  "adaptationNotes": "Condensed the definitions and added a multiple-choice concept check. Figure alt text was expanded for accessibility.",
+  "image": {
+    "sourceFigure": "OpenStax Figure 3.3",
+    "originalAttribution": "OpenStax",
+    "localFile": "clientFilesQuestion/figure-3-3.webp"
+  }
+}

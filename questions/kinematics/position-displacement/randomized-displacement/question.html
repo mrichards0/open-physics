@@ -1,0 +1,29 @@
+<pl-question-panel>
+  <p>
+    An object moves along a straight horizontal axis. Its initial position is
+    $x_0 = {{params.x0}}\ \mathrm{m}$ and its final position is
+    $x_f = {{params.xf}}\ \mathrm{m}$.
+  </p>
+  <p>Calculate the object's displacement $\Delta x$.</p>
+</pl-question-panel>
+
+<pl-number-input
+  answers-name="displacement"
+  label="$\Delta x =$"
+  suffix="$\mathrm{m}$"
+></pl-number-input>
+
+<pl-answer-panel>
+  <p>
+    Displacement is final position minus initial position:
+    $\Delta x = x_f-x_0 = {{params.xf}}\ \mathrm{m} -
+    ({{params.x0}}\ \mathrm{m}) = {{correct_answers.displacement}}\ \mathrm{m}$.
+  </p>
+</pl-answer-panel>
+
+<hr />
+<p class="small text-muted">
+  Concept and equation adapted from OpenStax, <em>University Physics Volume
+  1</em>, §3.1, CC BY-NC-SA 4.0.
+  <a href="https://openstax.org/books/university-physics-volume-1/pages/3-1-position-displacement-and-average-velocity" target="_blank" rel="noreferrer">Source and attribution.</a>
+</p>
