@@ -1,0 +1,4349 @@
+{
+  "counts": {
+    "auto-graded": 1,
+    "manual-free-text": 433
+  },
+  "questions": [
+    {
+      "qid": "openstax/chapter-1/additional-problems/fs-id1168326766362",
+      "title": "OpenStax Ch. 1 Additional Problems 83",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/additional-problems/fs-id1168326767282",
+      "title": "OpenStax Ch. 1 Additional Problems 81",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/additional-problems/fs-id1168326787865",
+      "title": "OpenStax Ch. 1 Additional Problems 86",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/additional-problems/fs-id1168326835535",
+      "title": "OpenStax Ch. 1 Additional Problems 85",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/additional-problems/fs-id1168329006379",
+      "title": "OpenStax Ch. 1 Additional Problems 82",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/additional-problems/fs-id1168329290154",
+      "title": "OpenStax Ch. 1 Additional Problems 80",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/additional-problems/fs-id1168329477934",
+      "title": "OpenStax Ch. 1 Additional Problems 84",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/additional-problems/fs-id1168329492839",
+      "title": "OpenStax Ch. 1 Additional Problems 87",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/challenge-problems/fs-id1168329179266",
+      "title": "OpenStax Ch. 1 Challenge Problems 89",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/challenge-problems/fs-id1168329335141",
+      "title": "OpenStax Ch. 1 Challenge Problems 88",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/check-your-understanding/fs-id1168327876191",
+      "title": "OpenStax Ch. 1 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328059712",
+      "title": "OpenStax Ch. 1 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328063625",
+      "title": "OpenStax Ch. 1 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328196554",
+      "title": "OpenStax Ch. 1 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328204614",
+      "title": "OpenStax Ch. 1 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/check-your-understanding/fs-id1168328327747",
+      "title": "OpenStax Ch. 1 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/check-your-understanding/fs-id1168329067205",
+      "title": "OpenStax Ch. 1 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/check-your-understanding/fs-id1168329067631",
+      "title": "OpenStax Ch. 1 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168326753675",
+      "title": "OpenStax Ch. 1 Conceptual Questions 1",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168326823251",
+      "title": "OpenStax Ch. 1 Conceptual Questions 5",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168327923331",
+      "title": "OpenStax Ch. 1 Conceptual Questions 11",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329068779",
+      "title": "OpenStax Ch. 1 Conceptual Questions 12",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329072253",
+      "title": "OpenStax Ch. 1 Conceptual Questions 3",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329112708",
+      "title": "OpenStax Ch. 1 Conceptual Questions 8",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329113661",
+      "title": "OpenStax Ch. 1 Conceptual Questions 2",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329165634",
+      "title": "OpenStax Ch. 1 Conceptual Questions 9",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329187896",
+      "title": "OpenStax Ch. 1 Conceptual Questions 7",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329426946",
+      "title": "OpenStax Ch. 1 Conceptual Questions 4",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329445122",
+      "title": "OpenStax Ch. 1 Conceptual Questions 6",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329511648",
+      "title": "OpenStax Ch. 1 Conceptual Questions 10",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/conceptual-questions/fs-id1168329519074",
+      "title": "OpenStax Ch. 1 Conceptual Questions 13",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168326753208",
+      "title": "OpenStax Ch. 1 Problems 15",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168326761301",
+      "title": "OpenStax Ch. 1 Problems 26",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168326786916",
+      "title": "OpenStax Ch. 1 Problems 21",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168326791766",
+      "title": "OpenStax Ch. 1 Problems 65",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168326832986",
+      "title": "OpenStax Ch. 1 Problems 22",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168326840815",
+      "title": "OpenStax Ch. 1 Problems 20",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168326860046",
+      "title": "OpenStax Ch. 1 Problems 63",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327854111",
+      "title": "OpenStax Ch. 1 Problems 31",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327871170",
+      "title": "OpenStax Ch. 1 Problems 44",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327876941",
+      "title": "OpenStax Ch. 1 Problems 53",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327918102",
+      "title": "OpenStax Ch. 1 Problems 55",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327924198",
+      "title": "OpenStax Ch. 1 Problems 34",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327934441",
+      "title": "OpenStax Ch. 1 Problems 48",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327939270",
+      "title": "OpenStax Ch. 1 Problems 30",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327939869",
+      "title": "OpenStax Ch. 1 Problems 37",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327941954",
+      "title": "OpenStax Ch. 1 Problems 45",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327942540",
+      "title": "OpenStax Ch. 1 Problems 50",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327942624",
+      "title": "OpenStax Ch. 1 Problems 75",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327943766",
+      "title": "OpenStax Ch. 1 Problems 73",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327948663",
+      "title": "OpenStax Ch. 1 Problems 52",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168327949034",
+      "title": "OpenStax Ch. 1 Problems 66",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328059510",
+      "title": "OpenStax Ch. 1 Problems 33",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328064091",
+      "title": "OpenStax Ch. 1 Problems 71",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328064287",
+      "title": "OpenStax Ch. 1 Problems 42",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328144822",
+      "title": "OpenStax Ch. 1 Problems 54",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328167911",
+      "title": "OpenStax Ch. 1 Problems 72",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328170090",
+      "title": "OpenStax Ch. 1 Problems 43",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328171083",
+      "title": "OpenStax Ch. 1 Problems 39",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id11683281710830",
+      "title": "OpenStax Ch. 1 Problems 76",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328195795",
+      "title": "OpenStax Ch. 1 Problems 49",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328196830",
+      "title": "OpenStax Ch. 1 Problems 70",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id11683282224160",
+      "title": "OpenStax Ch. 1 Problems 78",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328222458",
+      "title": "OpenStax Ch. 1 Problems 36",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328222906",
+      "title": "OpenStax Ch. 1 Problems 38",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328229571",
+      "title": "OpenStax Ch. 1 Problems 79",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328242872",
+      "title": "OpenStax Ch. 1 Problems 68",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328267903",
+      "title": "OpenStax Ch. 1 Problems 77",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328285914",
+      "title": "OpenStax Ch. 1 Problems 32",
+      "gradingMethod": "Internal",
+      "responseElements": [
+        "pl-answer-panel",
+        "pl-number-input",
+        "pl-question-panel"
+      ],
+      "status": "auto-graded"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328286258",
+      "title": "OpenStax Ch. 1 Problems 67",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328293255",
+      "title": "OpenStax Ch. 1 Problems 46",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328294774",
+      "title": "OpenStax Ch. 1 Problems 40",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328297906",
+      "title": "OpenStax Ch. 1 Problems 35",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328303932",
+      "title": "OpenStax Ch. 1 Problems 47",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328311438",
+      "title": "OpenStax Ch. 1 Problems 74",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328311640",
+      "title": "OpenStax Ch. 1 Problems 41",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328329316",
+      "title": "OpenStax Ch. 1 Problems 69",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168328369689",
+      "title": "OpenStax Ch. 1 Problems 51",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329013612",
+      "title": "OpenStax Ch. 1 Problems 60",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329016670",
+      "title": "OpenStax Ch. 1 Problems 59",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329057729",
+      "title": "OpenStax Ch. 1 Problems 25",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329081168",
+      "title": "OpenStax Ch. 1 Problems 62",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329102378",
+      "title": "OpenStax Ch. 1 Problems 28",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329108275",
+      "title": "OpenStax Ch. 1 Problems 14",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329139448",
+      "title": "OpenStax Ch. 1 Problems 18",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329140028",
+      "title": "OpenStax Ch. 1 Problems 23",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329147263",
+      "title": "OpenStax Ch. 1 Problems 29",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id11683291554120",
+      "title": "OpenStax Ch. 1 Problems 64",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329162803",
+      "title": "OpenStax Ch. 1 Problems 24",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329166114",
+      "title": "OpenStax Ch. 1 Problems 17",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329174656",
+      "title": "OpenStax Ch. 1 Problems 58",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329182447",
+      "title": "OpenStax Ch. 1 Problems 19",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329265263",
+      "title": "OpenStax Ch. 1 Problems 56",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329292036",
+      "title": "OpenStax Ch. 1 Problems 16",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329316890",
+      "title": "OpenStax Ch. 1 Problems 61",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329337175",
+      "title": "OpenStax Ch. 1 Problems 27",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-1/problems/fs-id1168329443498",
+      "title": "OpenStax Ch. 1 Problems 57",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167129967943",
+      "title": "OpenStax Ch. 2 Additional Problems 83",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167130010431",
+      "title": "OpenStax Ch. 2 Additional Problems 82",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131127272",
+      "title": "OpenStax Ch. 2 Additional Problems 80",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131128625",
+      "title": "OpenStax Ch. 2 Additional Problems 79",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131140153",
+      "title": "OpenStax Ch. 2 Additional Problems 87",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131182898",
+      "title": "OpenStax Ch. 2 Additional Problems 72",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131200226",
+      "title": "OpenStax Ch. 2 Additional Problems 73",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131376976",
+      "title": "OpenStax Ch. 2 Additional Problems 75",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131389955",
+      "title": "OpenStax Ch. 2 Additional Problems 84",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131397018",
+      "title": "OpenStax Ch. 2 Additional Problems 71",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131448284",
+      "title": "OpenStax Ch. 2 Additional Problems 74",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131469964",
+      "title": "OpenStax Ch. 2 Additional Problems 78",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131514285",
+      "title": "OpenStax Ch. 2 Additional Problems 77",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167131515978",
+      "title": "OpenStax Ch. 2 Additional Problems 81",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167134435523",
+      "title": "OpenStax Ch. 2 Additional Problems 76",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167134724436",
+      "title": "OpenStax Ch. 2 Additional Problems 85",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/additional-problems/fs-id1167134886863",
+      "title": "OpenStax Ch. 2 Additional Problems 86",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/challenge-problems/fs-id1167130007383",
+      "title": "OpenStax Ch. 2 Challenge Problems 88",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/challenge-problems/fs-id1167131503571",
+      "title": "OpenStax Ch. 2 Challenge Problems 89",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/challenge-problems/fs-id1167131518912",
+      "title": "OpenStax Ch. 2 Challenge Problems 90",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/challenge-problems/fs-id1167134883911",
+      "title": "OpenStax Ch. 2 Challenge Problems 91",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167128918786",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167128919148",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131113534",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131331227",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131613173",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167131635553",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132230399",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132406917",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132473641",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132485087",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132487194",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132502120",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132518790",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167132580836",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167134863960",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/check-your-understanding/fs-id1167134912050",
+      "title": "OpenStax Ch. 2 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167128860536",
+      "title": "OpenStax Ch. 2 Conceptual Questions 9",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167131134362",
+      "title": "OpenStax Ch. 2 Conceptual Questions 23",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167131432603",
+      "title": "OpenStax Ch. 2 Conceptual Questions 21",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167131439605",
+      "title": "OpenStax Ch. 2 Conceptual Questions 22",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167131563595",
+      "title": "OpenStax Ch. 2 Conceptual Questions 24",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132241622",
+      "title": "OpenStax Ch. 2 Conceptual Questions 15",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132266747",
+      "title": "OpenStax Ch. 2 Conceptual Questions 14",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132267416",
+      "title": "OpenStax Ch. 2 Conceptual Questions 18",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132315789",
+      "title": "OpenStax Ch. 2 Conceptual Questions 7",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132318730",
+      "title": "OpenStax Ch. 2 Conceptual Questions 13",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132352997",
+      "title": "OpenStax Ch. 2 Conceptual Questions 5",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132375600",
+      "title": "OpenStax Ch. 2 Conceptual Questions 12",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132437699",
+      "title": "OpenStax Ch. 2 Conceptual Questions 11",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132458328",
+      "title": "OpenStax Ch. 2 Conceptual Questions 3",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132483967",
+      "title": "OpenStax Ch. 2 Conceptual Questions 4",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132494452",
+      "title": "OpenStax Ch. 2 Conceptual Questions 16",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132518791",
+      "title": "OpenStax Ch. 2 Conceptual Questions 19",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132535630",
+      "title": "OpenStax Ch. 2 Conceptual Questions 20",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132562110",
+      "title": "OpenStax Ch. 2 Conceptual Questions 17",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132744085",
+      "title": "OpenStax Ch. 2 Conceptual Questions 10",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167132744645",
+      "title": "OpenStax Ch. 2 Conceptual Questions 1",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167133578427",
+      "title": "OpenStax Ch. 2 Conceptual Questions 2",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167133635856",
+      "title": "OpenStax Ch. 2 Conceptual Questions 8",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/conceptual-questions/fs-id1167133640332",
+      "title": "OpenStax Ch. 2 Conceptual Questions 6",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167129993856",
+      "title": "OpenStax Ch. 2 Problems 65",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167130201986",
+      "title": "OpenStax Ch. 2 Problems 67",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167130205821",
+      "title": "OpenStax Ch. 2 Problems 62",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167130224288",
+      "title": "OpenStax Ch. 2 Problems 70",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167131462688",
+      "title": "OpenStax Ch. 2 Problems 66",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167131483573",
+      "title": "OpenStax Ch. 2 Problems 68",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167131540420",
+      "title": "OpenStax Ch. 2 Problems 69",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167131586956",
+      "title": "OpenStax Ch. 2 Problems 63",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132199121",
+      "title": "OpenStax Ch. 2 Problems 59",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132251647",
+      "title": "OpenStax Ch. 2 Problems 47",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132272097",
+      "title": "OpenStax Ch. 2 Problems 49",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132279061",
+      "title": "OpenStax Ch. 2 Problems 60",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132303332",
+      "title": "OpenStax Ch. 2 Problems 43",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132309641",
+      "title": "OpenStax Ch. 2 Problems 28",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132319658",
+      "title": "OpenStax Ch. 2 Problems 45",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132321672",
+      "title": "OpenStax Ch. 2 Problems 57",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132346102",
+      "title": "OpenStax Ch. 2 Problems 53",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132395721",
+      "title": "OpenStax Ch. 2 Problems 34",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132409065",
+      "title": "OpenStax Ch. 2 Problems 54",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132441243",
+      "title": "OpenStax Ch. 2 Problems 46",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132459919",
+      "title": "OpenStax Ch. 2 Problems 48",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132465129",
+      "title": "OpenStax Ch. 2 Problems 61",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132471146",
+      "title": "OpenStax Ch. 2 Problems 26",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132487189",
+      "title": "OpenStax Ch. 2 Problems 39",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132501147",
+      "title": "OpenStax Ch. 2 Problems 40",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132502015",
+      "title": "OpenStax Ch. 2 Problems 58",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132508049",
+      "title": "OpenStax Ch. 2 Problems 38",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132526027",
+      "title": "OpenStax Ch. 2 Problems 35",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132536425",
+      "title": "OpenStax Ch. 2 Problems 41",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132546070",
+      "title": "OpenStax Ch. 2 Problems 33",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132559167",
+      "title": "OpenStax Ch. 2 Problems 27",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132573210",
+      "title": "OpenStax Ch. 2 Problems 56",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132583565",
+      "title": "OpenStax Ch. 2 Problems 50",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132612418",
+      "title": "OpenStax Ch. 2 Problems 37",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132674455",
+      "title": "OpenStax Ch. 2 Problems 31",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132689356",
+      "title": "OpenStax Ch. 2 Problems 25",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167132741855",
+      "title": "OpenStax Ch. 2 Problems 30",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167133544873",
+      "title": "OpenStax Ch. 2 Problems 42",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167133676180",
+      "title": "OpenStax Ch. 2 Problems 44",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167133684643",
+      "title": "OpenStax Ch. 2 Problems 51",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167133740645",
+      "title": "OpenStax Ch. 2 Problems 29",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167133766074",
+      "title": "OpenStax Ch. 2 Problems 32",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167133836651",
+      "title": "OpenStax Ch. 2 Problems 55",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167133862238",
+      "title": "OpenStax Ch. 2 Problems 52",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167133862614",
+      "title": "OpenStax Ch. 2 Problems 36",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-2/problems/fs-id1167134889697",
+      "title": "OpenStax Ch. 2 Problems 64",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168052793064",
+      "title": "OpenStax Ch. 3 Additional Problems 110",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055095438",
+      "title": "OpenStax Ch. 3 Additional Problems 98",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055120900",
+      "title": "OpenStax Ch. 3 Additional Problems 86",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055124263",
+      "title": "OpenStax Ch. 3 Additional Problems 99",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055124296",
+      "title": "OpenStax Ch. 3 Additional Problems 105",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055124622",
+      "title": "OpenStax Ch. 3 Additional Problems 90",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055146907",
+      "title": "OpenStax Ch. 3 Additional Problems 91",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055151366",
+      "title": "OpenStax Ch. 3 Additional Problems 94",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055171580",
+      "title": "OpenStax Ch. 3 Additional Problems 93",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055237526",
+      "title": "OpenStax Ch. 3 Additional Problems 101",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055274264",
+      "title": "OpenStax Ch. 3 Additional Problems 107",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055282726",
+      "title": "OpenStax Ch. 3 Additional Problems 102",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055283140",
+      "title": "OpenStax Ch. 3 Additional Problems 97",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055308636",
+      "title": "OpenStax Ch. 3 Additional Problems 87",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055309203",
+      "title": "OpenStax Ch. 3 Additional Problems 100",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055309639",
+      "title": "OpenStax Ch. 3 Additional Problems 109",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055309763",
+      "title": "OpenStax Ch. 3 Additional Problems 84",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055324264",
+      "title": "OpenStax Ch. 3 Additional Problems 111",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055388728",
+      "title": "OpenStax Ch. 3 Additional Problems 103",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055390931",
+      "title": "OpenStax Ch. 3 Additional Problems 88",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055392099",
+      "title": "OpenStax Ch. 3 Additional Problems 92",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055463266",
+      "title": "OpenStax Ch. 3 Additional Problems 95",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055469798",
+      "title": "OpenStax Ch. 3 Additional Problems 108",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168055478200",
+      "title": "OpenStax Ch. 3 Additional Problems 89",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168057389393",
+      "title": "OpenStax Ch. 3 Additional Problems 82",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168057455309",
+      "title": "OpenStax Ch. 3 Additional Problems 85",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168057461827",
+      "title": "OpenStax Ch. 3 Additional Problems 104",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168057464878",
+      "title": "OpenStax Ch. 3 Additional Problems 96",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168057491154",
+      "title": "OpenStax Ch. 3 Additional Problems 83",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/additional-problems/fs-id1168057556789",
+      "title": "OpenStax Ch. 3 Additional Problems 106",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/challenge-problems/fs-id1168055190126",
+      "title": "OpenStax Ch. 3 Challenge Problems 113",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/challenge-problems/fs-id1168055309429",
+      "title": "OpenStax Ch. 3 Challenge Problems 112",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/challenge-problems/fs-id1168055309457",
+      "title": "OpenStax Ch. 3 Challenge Problems 115",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/challenge-problems/fs-id1168057481407",
+      "title": "OpenStax Ch. 3 Challenge Problems 114",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/check-your-understanding/fs-id1168057460348",
+      "title": "OpenStax Ch. 3 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/check-your-understanding/fs-id1168326766714",
+      "title": "OpenStax Ch. 3 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/check-your-understanding/fs-id1168326827856",
+      "title": "OpenStax Ch. 3 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/check-your-understanding/fs-id1168327914860",
+      "title": "OpenStax Ch. 3 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/check-your-understanding/fs-id1168328242107",
+      "title": "OpenStax Ch. 3 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/check-your-understanding/fs-id1168328320368",
+      "title": "OpenStax Ch. 3 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/check-your-understanding/fs-id1168329179170",
+      "title": "OpenStax Ch. 3 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/check-your-understanding/fs-id1168329484408",
+      "title": "OpenStax Ch. 3 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168057332320",
+      "title": "OpenStax Ch. 3 Conceptual Questions 23",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168325679818",
+      "title": "OpenStax Ch. 3 Conceptual Questions 11",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168325735577",
+      "title": "OpenStax Ch. 3 Conceptual Questions 15",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326759364",
+      "title": "OpenStax Ch. 3 Conceptual Questions 7",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326781258",
+      "title": "OpenStax Ch. 3 Conceptual Questions 2",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326851243",
+      "title": "OpenStax Ch. 3 Conceptual Questions 4",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326896853",
+      "title": "OpenStax Ch. 3 Conceptual Questions 9",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326925447",
+      "title": "OpenStax Ch. 3 Conceptual Questions 16",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168326925465",
+      "title": "OpenStax Ch. 3 Conceptual Questions 17",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168327094731",
+      "title": "OpenStax Ch. 3 Conceptual Questions 8",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168327144875",
+      "title": "OpenStax Ch. 3 Conceptual Questions 1",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168327871044",
+      "title": "OpenStax Ch. 3 Conceptual Questions 22",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168327925204",
+      "title": "OpenStax Ch. 3 Conceptual Questions 20",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328064486",
+      "title": "OpenStax Ch. 3 Conceptual Questions 12",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328257161",
+      "title": "OpenStax Ch. 3 Conceptual Questions 14",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328260222",
+      "title": "OpenStax Ch. 3 Conceptual Questions 19",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328293440",
+      "title": "OpenStax Ch. 3 Conceptual Questions 18",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328296713",
+      "title": "OpenStax Ch. 3 Conceptual Questions 21",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328365755",
+      "title": "OpenStax Ch. 3 Conceptual Questions 13",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168328991098",
+      "title": "OpenStax Ch. 3 Conceptual Questions 5",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168329042862",
+      "title": "OpenStax Ch. 3 Conceptual Questions 3",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168329340393",
+      "title": "OpenStax Ch. 3 Conceptual Questions 10",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/conceptual-questions/fs-id1168329466274",
+      "title": "OpenStax Ch. 3 Conceptual Questions 6",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168052793712",
+      "title": "OpenStax Ch. 3 Problems 78",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168054976898",
+      "title": "OpenStax Ch. 3 Problems 80",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168054988599",
+      "title": "OpenStax Ch. 3 Problems 81",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168057715927",
+      "title": "OpenStax Ch. 3 Problems 79",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168325696669",
+      "title": "OpenStax Ch. 3 Problems 41",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168325702557",
+      "title": "OpenStax Ch. 3 Problems 73",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168325735578",
+      "title": "OpenStax Ch. 3 Problems 66",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168325736839",
+      "title": "OpenStax Ch. 3 Problems 75",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168325780878",
+      "title": "OpenStax Ch. 3 Problems 77",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168325781646",
+      "title": "OpenStax Ch. 3 Problems 39",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168325878341",
+      "title": "OpenStax Ch. 3 Problems 76",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168325878345",
+      "title": "OpenStax Ch. 3 Problems 40",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326762812",
+      "title": "OpenStax Ch. 3 Problems 34",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326780779",
+      "title": "OpenStax Ch. 3 Problems 26",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326790679",
+      "title": "OpenStax Ch. 3 Problems 31",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326798194",
+      "title": "OpenStax Ch. 3 Problems 28",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326798408",
+      "title": "OpenStax Ch. 3 Problems 30",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326799089",
+      "title": "OpenStax Ch. 3 Problems 46",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326809070",
+      "title": "OpenStax Ch. 3 Problems 35",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326891139",
+      "title": "OpenStax Ch. 3 Problems 64",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326901284",
+      "title": "OpenStax Ch. 3 Problems 45",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326908218",
+      "title": "OpenStax Ch. 3 Problems 63",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326917624",
+      "title": "OpenStax Ch. 3 Problems 47",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326925494",
+      "title": "OpenStax Ch. 3 Problems 43",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326925511",
+      "title": "OpenStax Ch. 3 Problems 44",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326940079",
+      "title": "OpenStax Ch. 3 Problems 27",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326954571",
+      "title": "OpenStax Ch. 3 Problems 59",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326956066",
+      "title": "OpenStax Ch. 3 Problems 48",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326959416",
+      "title": "OpenStax Ch. 3 Problems 50",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168326972751",
+      "title": "OpenStax Ch. 3 Problems 61",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168327145366",
+      "title": "OpenStax Ch. 3 Problems 53",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168327148242",
+      "title": "OpenStax Ch. 3 Problems 49",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168327876168",
+      "title": "OpenStax Ch. 3 Problems 68",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168327917021",
+      "title": "OpenStax Ch. 3 Problems 72",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168327942440",
+      "title": "OpenStax Ch. 3 Problems 71",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168327949630",
+      "title": "OpenStax Ch. 3 Problems 42",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168328204005",
+      "title": "OpenStax Ch. 3 Problems 69",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168328242029",
+      "title": "OpenStax Ch. 3 Problems 74",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168328277363",
+      "title": "OpenStax Ch. 3 Problems 67",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168328303424",
+      "title": "OpenStax Ch. 3 Problems 37",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168328320313",
+      "title": "OpenStax Ch. 3 Problems 38",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168328379493",
+      "title": "OpenStax Ch. 3 Problems 70",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168328977772",
+      "title": "OpenStax Ch. 3 Problems 32",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329063635",
+      "title": "OpenStax Ch. 3 Problems 29",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329187289",
+      "title": "OpenStax Ch. 3 Problems 56",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329187419",
+      "title": "OpenStax Ch. 3 Problems 60",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329191384",
+      "title": "OpenStax Ch. 3 Problems 33",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329200915",
+      "title": "OpenStax Ch. 3 Problems 62",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329265497",
+      "title": "OpenStax Ch. 3 Problems 36",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329290787",
+      "title": "OpenStax Ch. 3 Problems 58",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329293311",
+      "title": "OpenStax Ch. 3 Problems 57",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329315924",
+      "title": "OpenStax Ch. 3 Problems 52",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329316408",
+      "title": "OpenStax Ch. 3 Problems 65",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329317598",
+      "title": "OpenStax Ch. 3 Problems 24",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329462605",
+      "title": "OpenStax Ch. 3 Problems 55",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329484447",
+      "title": "OpenStax Ch. 3 Problems 54",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329484654",
+      "title": "OpenStax Ch. 3 Problems 51",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-3/problems/fs-id1168329490110",
+      "title": "OpenStax Ch. 3 Problems 25",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039232625",
+      "title": "OpenStax Ch. 4 Additional Problems 85",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039244575",
+      "title": "OpenStax Ch. 4 Additional Problems 96",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039244714",
+      "title": "OpenStax Ch. 4 Additional Problems 97",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039244895",
+      "title": "OpenStax Ch. 4 Additional Problems 98",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039247273",
+      "title": "OpenStax Ch. 4 Additional Problems 83",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039248362",
+      "title": "OpenStax Ch. 4 Additional Problems 89",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039248632",
+      "title": "OpenStax Ch. 4 Additional Problems 90",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039267076",
+      "title": "OpenStax Ch. 4 Additional Problems 86",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039270370",
+      "title": "OpenStax Ch. 4 Additional Problems 84",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039273301",
+      "title": "OpenStax Ch. 4 Additional Problems 79",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039273394",
+      "title": "OpenStax Ch. 4 Additional Problems 80",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039290474",
+      "title": "OpenStax Ch. 4 Additional Problems 91",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039309472",
+      "title": "OpenStax Ch. 4 Additional Problems 87",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039312253",
+      "title": "OpenStax Ch. 4 Additional Problems 92",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039312347",
+      "title": "OpenStax Ch. 4 Additional Problems 93",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039312501",
+      "title": "OpenStax Ch. 4 Additional Problems 94",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039312654",
+      "title": "OpenStax Ch. 4 Additional Problems 95",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039323750",
+      "title": "OpenStax Ch. 4 Additional Problems 81",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039324098",
+      "title": "OpenStax Ch. 4 Additional Problems 82",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/additional-problems/fs-id1165039329140",
+      "title": "OpenStax Ch. 4 Additional Problems 88",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/challenge-problems/fs-id1165039247940",
+      "title": "OpenStax Ch. 4 Challenge Problems 99",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/challenge-problems/fs-id1165039250105",
+      "title": "OpenStax Ch. 4 Challenge Problems 100",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/challenge-problems/fs-id1165039311851",
+      "title": "OpenStax Ch. 4 Challenge Problems 101",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/check-your-understanding/fs-id1165038192575",
+      "title": "OpenStax Ch. 4 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/check-your-understanding/fs-id1165038300360",
+      "title": "OpenStax Ch. 4 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/check-your-understanding/fs-id1165039273506",
+      "title": "OpenStax Ch. 4 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/check-your-understanding/fs-id1165166558484",
+      "title": "OpenStax Ch. 4 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/check-your-understanding/fs-id1165167599002",
+      "title": "OpenStax Ch. 4 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/check-your-understanding/fs-id1165168917581",
+      "title": "OpenStax Ch. 4 Check Your Understanding",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038186932",
+      "title": "OpenStax Ch. 4 Conceptual Questions 1",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038186968",
+      "title": "OpenStax Ch. 4 Conceptual Questions 2",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038186987",
+      "title": "OpenStax Ch. 4 Conceptual Questions 3",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038328843",
+      "title": "OpenStax Ch. 4 Conceptual Questions 4",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038328860",
+      "title": "OpenStax Ch. 4 Conceptual Questions 5",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165038328892",
+      "title": "OpenStax Ch. 4 Conceptual Questions 6",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039253028",
+      "title": "OpenStax Ch. 4 Conceptual Questions 12",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039267950",
+      "title": "OpenStax Ch. 4 Conceptual Questions 13",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039267970",
+      "title": "OpenStax Ch. 4 Conceptual Questions 14",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039267991",
+      "title": "OpenStax Ch. 4 Conceptual Questions 15",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165039268018",
+      "title": "OpenStax Ch. 4 Conceptual Questions 16",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165166616749",
+      "title": "OpenStax Ch. 4 Conceptual Questions 7",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165166632169",
+      "title": "OpenStax Ch. 4 Conceptual Questions 9",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165167690280",
+      "title": "OpenStax Ch. 4 Conceptual Questions 8",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165169017232",
+      "title": "OpenStax Ch. 4 Conceptual Questions 11",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/conceptual-questions/fs-id1165169120458",
+      "title": "OpenStax Ch. 4 Conceptual Questions 10",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038184323",
+      "title": "OpenStax Ch. 4 Problems 19",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038188045",
+      "title": "OpenStax Ch. 4 Problems 24",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038192798",
+      "title": "OpenStax Ch. 4 Problems 20",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038192922",
+      "title": "OpenStax Ch. 4 Problems 21",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038193099",
+      "title": "OpenStax Ch. 4 Problems 22",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038198131",
+      "title": "OpenStax Ch. 4 Problems 23",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038204777",
+      "title": "OpenStax Ch. 4 Problems 17",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038204860",
+      "title": "OpenStax Ch. 4 Problems 18",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038218957",
+      "title": "OpenStax Ch. 4 Problems 25",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038298654",
+      "title": "OpenStax Ch. 4 Problems 28",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038303652",
+      "title": "OpenStax Ch. 4 Problems 31",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038303902",
+      "title": "OpenStax Ch. 4 Problems 29",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038305798",
+      "title": "OpenStax Ch. 4 Problems 32",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038328945",
+      "title": "OpenStax Ch. 4 Problems 26",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038334612",
+      "title": "OpenStax Ch. 4 Problems 30",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165038340004",
+      "title": "OpenStax Ch. 4 Problems 27",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039209786",
+      "title": "OpenStax Ch. 4 Problems 72",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039244987",
+      "title": "OpenStax Ch. 4 Problems 78",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039265574",
+      "title": "OpenStax Ch. 4 Problems 73",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039267560",
+      "title": "OpenStax Ch. 4 Problems 76",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039284611",
+      "title": "OpenStax Ch. 4 Problems 71",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039309086",
+      "title": "OpenStax Ch. 4 Problems 69",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039333594",
+      "title": "OpenStax Ch. 4 Problems 77",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039334836",
+      "title": "OpenStax Ch. 4 Problems 70",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039335180",
+      "title": "OpenStax Ch. 4 Problems 74",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165039340114",
+      "title": "OpenStax Ch. 4 Problems 75",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166481497",
+      "title": "OpenStax Ch. 4 Problems 59",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166487901",
+      "title": "OpenStax Ch. 4 Problems 49",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166546858",
+      "title": "OpenStax Ch. 4 Problems 40",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166622226",
+      "title": "OpenStax Ch. 4 Problems 37",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166625989",
+      "title": "OpenStax Ch. 4 Problems 41",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166634991",
+      "title": "OpenStax Ch. 4 Problems 43",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166778493",
+      "title": "OpenStax Ch. 4 Problems 58",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166778792",
+      "title": "OpenStax Ch. 4 Problems 50",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166779111",
+      "title": "OpenStax Ch. 4 Problems 51",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165166798737",
+      "title": "OpenStax Ch. 4 Problems 53",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165167611654",
+      "title": "OpenStax Ch. 4 Problems 35",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165167697338",
+      "title": "OpenStax Ch. 4 Problems 54",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165167850935",
+      "title": "OpenStax Ch. 4 Problems 42",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165167851744",
+      "title": "OpenStax Ch. 4 Problems 38",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165167867745",
+      "title": "OpenStax Ch. 4 Problems 36",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165167907721",
+      "title": "OpenStax Ch. 4 Problems 52",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165167946074",
+      "title": "OpenStax Ch. 4 Problems 39",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165167996129",
+      "title": "OpenStax Ch. 4 Problems 44",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168009629",
+      "title": "OpenStax Ch. 4 Problems 57",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168029945",
+      "title": "OpenStax Ch. 4 Problems 56",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168033133",
+      "title": "OpenStax Ch. 4 Problems 45",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168039120",
+      "title": "OpenStax Ch. 4 Problems 34",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168063949",
+      "title": "OpenStax Ch. 4 Problems 46",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168068850",
+      "title": "OpenStax Ch. 4 Problems 47",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168071581",
+      "title": "OpenStax Ch. 4 Problems 48",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168119293",
+      "title": "OpenStax Ch. 4 Problems 55",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168143712",
+      "title": "OpenStax Ch. 4 Problems 33",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168927049",
+      "title": "OpenStax Ch. 4 Problems 66",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168934860",
+      "title": "OpenStax Ch. 4 Problems 67",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168945040",
+      "title": "OpenStax Ch. 4 Problems 64",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165168975022",
+      "title": "OpenStax Ch. 4 Problems 63",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165169014380",
+      "title": "OpenStax Ch. 4 Problems 61",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165169033440",
+      "title": "OpenStax Ch. 4 Problems 68",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165169065802",
+      "title": "OpenStax Ch. 4 Problems 65",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165169173260",
+      "title": "OpenStax Ch. 4 Problems 60",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    },
+    {
+      "qid": "openstax/chapter-4/problems/fs-id1165169262577",
+      "title": "OpenStax Ch. 4 Problems 62",
+      "gradingMethod": "Manual",
+      "responseElements": [
+        "pl-question-panel",
+        "pl-rich-text-editor"
+      ],
+      "status": "manual-free-text"
+    }
+  ]
+}

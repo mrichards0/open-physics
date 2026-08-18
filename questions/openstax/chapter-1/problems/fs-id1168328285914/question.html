@@ -1,22 +1,14 @@
 <pl-question-panel>
-<div data-type="exercise" id="fs-id1168328285914"><header></header><section>
-<div data-type="problem" id="fs-id1168328071458">
-<span class="os-divider">. </span>
-<div class="os-problem-container">
-<p id="fs-id1168327876205">A car is traveling at a speed of 33 m/s. (a) What is its speed in kilometers per hour? (b) Is it exceeding the 90 km/h speed limit?</p>
-</div>
-</div>
-</section></div>
+  <p>A car is traveling at ${{params.speed_mps}}\ \mathrm{m/s}$.</p>
+  <p>(a) What is its speed in kilometers per hour?</p>
 </pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
+<pl-number-input answers-name="speed_kph" label="(a) Speed =" suffix="$\mathrm{km/h}$" comparison="relabs" rtol="1e-3" atol="0.05"></pl-number-input>
+<pl-question-panel>
+  <p>(b) By how much is this speed above or below the ${{params.speed_limit_kph}}\ \mathrm{km/h}$ speed limit? Enter a positive value above the limit and a negative value below it.</p>
+</pl-question-panel>
+<pl-number-input answers-name="limit_difference" label="(b) Difference =" suffix="$\mathrm{km/h}$" comparison="relabs" rtol="1e-3" atol="0.05"></pl-number-input>
+<pl-answer-panel>
+  <p>Using $1\ \mathrm{m/s}=3.6\ \mathrm{km/h}$, the speed is ${{params.speed_mps}}(3.6)={{correct_answers.speed_kph}}\ \mathrm{km/h}$. The signed difference is ${{correct_answers.speed_kph}}-{{params.speed_limit_kph}}={{correct_answers.limit_difference}}\ \mathrm{km/h}$.</p>
+</pl-answer-panel>
 <hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Problems
-  32, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1, Problem 32, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a></p>
