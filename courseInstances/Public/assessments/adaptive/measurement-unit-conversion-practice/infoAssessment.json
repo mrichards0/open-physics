@@ -7,6 +7,11 @@
   "multipleInstance": true,
   "allowRealTimeGrading": true,
   "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
   "text": "<p>This is the first SpiritsFire adaptive-practice vertical slice. PrairieLearn selects one existing unit-conversion template, generates its randomized variant, and grades it. Create a new assessment instance for another template selection.</p>",
   "zones": [
     {
