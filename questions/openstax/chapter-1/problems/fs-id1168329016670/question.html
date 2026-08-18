@@ -1,22 +1,3 @@
-<pl-question-panel>
-<div class="os-hasSolution" data-type="exercise" id="fs-id1168329016670"><header></header><section>
-<div data-type="problem" id="fs-id1168329319528">
-<span class="os-divider">. </span>
-<div class="os-problem-container">
-<p id="fs-id1168326757878">Estimate the number of molecules that make up Earth, assuming an average molecular mass of 30 g/mol. (Note there are on the order of 10<sup>24</sup> objects per mole.)</p>
-</div>
-</div>
-</section></div>
-</pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
-<hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Problems
-  59, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<pl-question-panel><p>A planet has mass {{params.mass_coeff}} times 10^{{params.mass_exp}} kg. Estimate its number of molecules using average molar mass {{params.molar_mass}} g/mol and Avogadro's number {{params.avogadro}} times 10^23 per mole.</p></pl-question-panel>
+<pl-number-input answers-name="molecules" label="Molecules =" comparison="relabs" rtol="2e-3" atol="0"></pl-number-input>
+<pl-answer-panel><p>N=(mass in grams)/(grams per mole) times molecules per mole, giving {{correct_answers.molecules}} molecules.</p></pl-answer-panel><hr /><p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1 Problem 59, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a></p>

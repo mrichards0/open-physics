@@ -1,22 +1,5 @@
-<pl-question-panel>
-<div data-type="exercise" id="fs-id1168329081168"><header></header><section>
-<div data-type="problem" id="fs-id1168329046979">
-<span class="os-divider">. </span>
-<div class="os-problem-container">
-<p id="fs-id1168329160686">(a) Estimate the density of the Moon. (b) Estimate the diameter of the Moon. (c) Given that the Moon subtends at an angle of about half a degree in the sky, estimate its distance from Earth.</p>
-</div>
-</div>
-</section></div>
-</pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
-<hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Problems
-  62, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<pl-question-panel><p>A moon has mass {{params.mass_coeff}} times 10^22 kg, radius {{params.radius_km}} km, and angular diameter {{params.angle_deg}} degrees.</p><p>(a) Estimate its average density. (b) Find its physical diameter. (c) Using the small-angle relation theta=D/d, estimate its distance.</p></pl-question-panel>
+<pl-number-input answers-name="density" label="(a) Density =" suffix="kg/m^3" comparison="relabs" rtol="2e-3" atol="0.1"></pl-number-input>
+<pl-number-input answers-name="diameter" label="(b) Diameter =" suffix="km" comparison="relabs" rtol="1e-6" atol="0.01"></pl-number-input>
+<pl-number-input answers-name="distance" label="(c) Distance =" suffix="km" comparison="relabs" rtol="2e-3" atol="1"></pl-number-input>
+<pl-answer-panel><p>Use rho=M/(4 pi R^3/3), D=2R, and d=D/theta with theta converted to radians. Results: {{correct_answers.density}} kg/m^3, {{correct_answers.diameter}} km, and {{correct_answers.distance}} km.</p></pl-answer-panel><hr /><p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1 Problem 62, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a></p>

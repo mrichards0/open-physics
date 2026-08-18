@@ -1,22 +1,4 @@
-<pl-question-panel>
-<div class="os-hasSolution" data-type="exercise" id="fs-id1168326860046"><header></header><section>
-<div data-type="problem" id="fs-id1168329517467">
-<span class="os-divider">. </span>
-<div class="os-problem-container">
-<p id="fs-id1168326776666">The average density of the Sun is on the order 10<sup>3</sup> kg/m<sup>3</sup>. (a) Estimate the diameter of the Sun. (b) Given that the Sun subtends at an angle of about half a degree in the sky, estimate its distance from Earth.</p>
-</div>
-</div>
-</section></div>
-</pl-question-panel>
-
-<pl-rich-text-editor></pl-rich-text-editor>
-
-<hr />
-<p class="small text-muted">
-  Source: OpenStax, <em>University Physics Volume 1</em>, Chapter 1,
-  Problems
-  63, by William Moebs,
-  Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0.
-  <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a>
-  This imported item is awaiting reviewed parameterization and deterministic grading.
-</p>
+<pl-question-panel><p>A star has mass {{params.mass_coeff}} times 10^30 kg, average density {{params.density}} kg/m^3, and angular diameter {{params.angle_deg}} degrees.</p><p>(a) Estimate its physical diameter. (b) Estimate its distance using theta=D/d.</p></pl-question-panel>
+<pl-number-input answers-name="diameter_km" label="(a) Diameter =" suffix="km" comparison="relabs" rtol="2e-3" atol="1"></pl-number-input>
+<pl-number-input answers-name="distance_km" label="(b) Distance =" suffix="km" comparison="relabs" rtol="2e-3" atol="1"></pl-number-input>
+<pl-answer-panel><p>From M=rho(4 pi R^3/3), solve R=[3M/(4 pi rho)]^(1/3), then D=2R. The small-angle estimate is d=D/theta. Results are {{correct_answers.diameter_km}} km and {{correct_answers.distance_km}} km.</p></pl-answer-panel><hr /><p class="small text-muted">Adapted from OpenStax, <em>University Physics Volume 1</em>, Chapter 1 Problem 63, by William Moebs, Samuel J. Ling, and Jeff Sanny. Licensed CC BY-NC-SA 4.0. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-problems" target="_blank" rel="noreferrer">View the attributed source.</a></p>
