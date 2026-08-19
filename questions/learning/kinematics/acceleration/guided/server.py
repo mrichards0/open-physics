@@ -1,23 +1,17 @@
 import html
 import random
 
+from spiritsfire_physics.kinematics import acceleration_case
+
 
 def generate(data):
-    vi = random.randint(2, 14)
-    delta_v = random.randint(6, 20)
-    dt = random.randint(2, 8)
-    vf = vi + delta_v
-    acceleration = delta_v / dt
+    case = acceleration_case(random, "guided")
+    data["params"].update(case.params())
     data["params"].update(
-        vi=vi,
-        vf=vf,
-        dt=dt,
-        delta_v=delta_v,
-        acceleration=round(acceleration, 4),
-        motion_alt=f"Velocity arrows increase from {vi} meters per second initially to {vf} meters per second finally.",
-        graph_alt=f"Velocity-time graph is a straight line from {vi} meters per second at zero seconds to {vf} meters per second at {dt} seconds.",
+        motion_alt=f"Velocity arrows increase from {case.initial_velocity} meters per second initially to {case.final_velocity} meters per second finally.",
+        graph_alt=f"Velocity-time graph is a straight line from {case.initial_velocity} meters per second at zero seconds to {case.final_velocity} meters per second at {case.elapsed_time} seconds.",
     )
-    data["correct_answers"].update(delta_v=delta_v, acceleration=acceleration)
+    data["correct_answers"].update(case.answers())
 
 
 def file(data):

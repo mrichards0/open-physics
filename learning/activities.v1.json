@@ -14,6 +14,10 @@
       "identify-target": {"responseNames": ["target"], "hintIds": ["meaning"]},
       "velocity-change": {"responseNames": ["delta_v"], "hintIds": ["relationship", "substitute"]},
       "acceleration": {"responseNames": ["acceleration"], "hintIds": ["relationship", "worked"]}
+    },
+    "learning/kinematics/acceleration/partial": {
+      "velocity-change": {"responseNames": ["delta_v"], "hintIds": ["equation"]},
+      "acceleration": {"responseNames": ["acceleration"], "hintIds": ["equation"]}
     }
   }
 }

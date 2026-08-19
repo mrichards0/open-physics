@@ -4,16 +4,15 @@
   <p>Use the two requested quantities to organize your solution.</p>
 </pl-question-panel>
 
-<pl-number-input answers-name="delta_v" label="$\Delta v =$" suffix="m/s" comparison="relabs" rtol="1e-6" atol="0.001" allow-blank="true"></pl-number-input>
-<pl-number-input answers-name="acceleration" label="$a =$" suffix="m/s^2" comparison="relabs" rtol="1e-6" atol="0.001" allow-blank="true"></pl-number-input>
+<pl-learning-step step-id="velocity-change" title="Step 1 — Find the signed velocity change" response-names="delta_v">
+  <pl-number-input answers-name="delta_v" label="$\Delta v =$" suffix="m/s" comparison="relabs" rtol="1e-6" atol="0.001" allow-blank="true"></pl-number-input>
+  <pl-learning-hint hint-id="equation" title="Hint — Recall the equation">Use $\Delta v=v_f-v_i$. Keep the sign of the result.</pl-learning-hint>
+</pl-learning-step>
 
-<pl-question-panel>
-  <pl-hidden-hints>
-    <pl-hint hint-name="Hint 1 — Plan">First calculate the signed change in velocity, then divide it by elapsed time.</pl-hint>
-    <pl-hint show-after-submission="2" hint-name="Hint 2 — Equations">$\Delta v=v_f-v_i$ and $a=\Delta v/\Delta t$.</pl-hint>
-    <pl-hint show-after-submission="3" hint-name="Hint 3 — Substitute">Use $\Delta v={{params.vf}}-{{params.vi}}$ m/s and divide the result by {{params.dt}} s.</pl-hint>
-  </pl-hidden-hints>
-</pl-question-panel>
+<pl-learning-step step-id="acceleration" title="Step 2 — Find average acceleration" response-names="acceleration">
+  <pl-number-input answers-name="acceleration" label="$a =$" suffix="m/s^2" comparison="relabs" rtol="1e-6" atol="0.001" allow-blank="true"></pl-number-input>
+  <pl-learning-hint hint-id="equation" title="Hint — Recall the equation">Use $a=\Delta v/\Delta t$ with your signed velocity change.</pl-learning-hint>
+</pl-learning-step>
 
 <pl-answer-panel><p>$\Delta v={{params.delta_v}}$ m/s and $a={{params.acceleration}}$ m/s².</p></pl-answer-panel>
 <hr>

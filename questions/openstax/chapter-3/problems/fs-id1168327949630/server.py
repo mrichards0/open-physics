@@ -1,3 +1,9 @@
 import random
+
+from spiritsfire_physics.kinematics import acceleration_case
+
+
 def generate(data):
- v=random.randint(40,100); t=random.randint(10,35); data["params"].update(v=v,t=t); data["correct_answers"]["acceleration"]=v/t
+    case = acceleration_case(random, "independent")
+    data["params"].update(case.params(), v=case.final_velocity, t=case.elapsed_time)
+    data["correct_answers"]["acceleration"] = case.acceleration
