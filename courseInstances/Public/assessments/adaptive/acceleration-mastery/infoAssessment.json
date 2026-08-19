@@ -1,0 +1,21 @@
+{
+  "uuid": "4decd5d9-0726-56d8-830e-1a54ac8d8fb7",
+  "type": "Exam",
+  "title": "Adaptive Mastery: Acceleration",
+  "set": "Practice",
+  "number": "A5",
+  "multipleInstance": true,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [{"credit": 100}],
+  "text": "<p>This activity checks independent acceleration mastery after scaffolded learning. PrairieLearn generates and grades the question; create a new instance for another mastery attempt.</p><p><a class=\"btn btn-primary\" href=\"http://localhost:3100/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Acceleration mastery",
+      "numberChoose": 1,
+      "questions": [
+        {"id": "openstax/chapter-3/additional-problems/fs-id1168055308636", "points": 1}
+      ]
+    }
+  ]
+}
