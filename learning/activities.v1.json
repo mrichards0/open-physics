@@ -8,5 +8,12 @@
       "independent": ["openstax/chapter-3/problems/fs-id1168327949630"],
       "mastery_ready": ["openstax/chapter-3/additional-problems/fs-id1168055308636"]
     }
+  },
+  "stepDefinitions": {
+    "learning/kinematics/acceleration/guided": {
+      "identify-target": {"responseNames": ["target"], "hintIds": ["meaning"]},
+      "velocity-change": {"responseNames": ["delta_v"], "hintIds": ["relationship", "substitute"]},
+      "acceleration": {"responseNames": ["acceleration"], "hintIds": ["relationship", "worked"]}
+    }
   }
 }

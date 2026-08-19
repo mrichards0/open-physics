@@ -1,0 +1,7 @@
+{
+  "controller": "pl-learning-step.py",
+  "dependencies": {
+    "elementScripts": ["pl-learning-step.js"],
+    "elementStyles": ["pl-learning-step.css"]
+  }
+}

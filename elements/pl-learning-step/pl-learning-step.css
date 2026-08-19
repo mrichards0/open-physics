@@ -1,0 +1,19 @@
+.sf-learning-step {
+  border: 1px solid #cbd5df;
+  border-left: .35rem solid #087e8b;
+  border-radius: .5rem;
+  margin: 1.25rem 0;
+  padding: 1rem 1.1rem;
+}
+
+.sf-learning-step h4 { margin-top: 0; }
+.sf-learning-hints { margin-top: 1rem; }
+.sf-learning-hint { border-top: 1px solid #d9e1e8; padding: .65rem 0; }
+.sf-learning-hint summary { cursor: pointer; font-weight: 650; }
+.sf-learning-hint-body { padding: .65rem 0 .15rem 1rem; }
+.sf-learning-hint[open] summary { color: #075e68; }
+
+@media (max-width: 576px) {
+  .sf-learning-step { padding: .8rem; }
+  .sf-learning-hint-body { padding-left: .25rem; }
+}
