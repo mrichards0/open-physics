@@ -5,6 +5,7 @@
   "set": "Practice",
   "number": "A1",
   "multipleInstance": true,
+  "requireHonorCode": false,
   "allowRealTimeGrading": true,
   "autoClose": false,
   "allowAccess": [
