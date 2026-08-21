@@ -4,5 +4,10 @@
   "publishing": {
     "startDate": "2026-08-18T00:00:00Z",
     "endDate": "2400-01-01T00:00:00Z"
+  },
+  "selfEnrollment": {
+    "enabled": true,
+    "useEnrollmentCode": false,
+    "restrictToInstitution": false
   }
 }
