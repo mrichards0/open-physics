@@ -1809,6 +1809,7 @@
       "gradingMethod": "Internal",
       "responseElements": [
         "pl-answer-panel",
+        "pl-figure",
         "pl-number-input",
         "pl-question-panel"
       ],
@@ -2085,6 +2086,7 @@
       "gradingMethod": "Internal",
       "responseElements": [
         "pl-answer-panel",
+        "pl-figure",
         "pl-number-input",
         "pl-question-panel"
       ],
