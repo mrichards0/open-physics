@@ -1,0 +1,10 @@
+.sf-motion-sim { margin: 1rem 0; border: 1px solid #f0d9c8; border-radius: .75rem; padding: 1rem; background: #fffaf0; }
+.sf-motion-sim h4 { color: #123b72; }
+.sf-motion-sim fieldset { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; margin-bottom: 1rem; }
+.sf-motion-sim legend { float: none; width: auto; margin-bottom: .4rem; font-size: 1rem; font-weight: 700; }
+.sf-sim-stage { position: relative; height: 7rem; overflow: hidden; border-radius: .6rem; background: linear-gradient(#e7f7f5 0 72%,#d8e4e8 72%); }
+.sf-sim-track { position: absolute; left: 4%; right: 4%; bottom: 24%; height: 3px; background: #52657c; }
+.sf-sim-cart { position: absolute; left: 5%; bottom: 25%; transform: translate(-50%,50%); color: #ff7a32; font-size: 2.4rem; }
+.sf-sim-controls { display: flex; gap: .6rem; margin-top: .8rem; }
+.sf-sim-reading { margin: .7rem 0 0; font-weight: 700; color: #123b72; }
+@media (prefers-reduced-motion: reduce) { .sf-sim-cart { transition: none; } }

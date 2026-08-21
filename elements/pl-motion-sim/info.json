@@ -1,0 +1,7 @@
+{
+  "controller": "pl-motion-sim.py",
+  "dependencies": {
+    "elementScripts": ["pl-motion-sim.js"],
+    "elementStyles": ["pl-motion-sim.css"]
+  }
+}

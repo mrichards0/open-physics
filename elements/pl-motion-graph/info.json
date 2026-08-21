@@ -1,0 +1,7 @@
+{
+  "controller": "pl-motion-graph.py",
+  "dependencies": {
+    "elementScripts": ["pl-motion-graph.js"],
+    "elementStyles": ["pl-motion-graph.css"]
+  }
+}

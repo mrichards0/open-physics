@@ -1,0 +1,11 @@
+.sf-motion-graph { border: 1px solid #cfe3e1; border-radius: .75rem; padding: .9rem; background: #fff; }
+.sf-motion-graph h4 { margin: 0 0 .5rem; color: #123b72; }
+.sf-motion-graph svg { display: block; width: 100%; height: auto; touch-action: none; }
+.sf-motion-graph text { fill: #17324d; font: 14px system-ui, sans-serif; }
+.sf-motion-graph circle { fill: #ff7a32; }
+.sf-axis { stroke: #17324d; stroke-width: 2.5; }
+.sf-velocity-line { stroke: #11a8a2; stroke-width: 6; }
+.sf-cursor { stroke: #ffc857; stroke-width: 3; stroke-dasharray: 5 4; pointer-events: none; }
+.sf-cursor-dot { fill: #123b72 !important; pointer-events: none; }
+.sf-graph-reading { margin: .5rem 0 0; font-weight: 700; }
+.sf-graph-table { margin-bottom: 0; }

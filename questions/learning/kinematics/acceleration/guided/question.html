@@ -6,7 +6,7 @@
       <pl-figure file-name="motion.svg" type="dynamic" alt="{{params.motion_alt}}"></pl-figure>
     </div>
     <div class="col-md-6">
-      <pl-figure file-name="velocity-graph.svg" type="dynamic" alt="{{params.graph_alt}}"></pl-figure>
+      <pl-motion-graph initial-velocity-param="vi" final-velocity-param="vf" duration-param="dt"></pl-motion-graph>
     </div>
   </div>
   <p class="small text-muted">The arrow diagram and velocity-time graph show the same PrairieLearn-generated values used in every step below.</p>
@@ -22,6 +22,8 @@
   </pl-multiple-choice>
   <pl-learning-hint hint-id="meaning" title="Hint — Name the rate">Acceleration describes how quickly velocity changes.</pl-learning-hint>
 </pl-learning-step>
+
+<pl-motion-sim initial-velocity-param="vi" final-velocity-param="vf" duration-param="dt" title="Predict and observe the cart"></pl-motion-sim>
 
 <pl-learning-step step-id="velocity-change" title="Step 2 — Calculate the velocity change" response-names="delta_v">
   <pl-number-input answers-name="delta_v" label="$\Delta v = v_f-v_i =$" suffix="m/s" comparison="relabs" rtol="1e-6" atol="0.001" allow-blank="true"></pl-number-input>
