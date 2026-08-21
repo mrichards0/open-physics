@@ -1,0 +1,29 @@
+{
+  "uuid": "8f56680b-921d-51a9-bcd2-5e2284af0def",
+  "type": "Exam",
+  "title": "Practice: Displacement",
+  "set": "Practice",
+  "number": "G47",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Displacement. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Displacement \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326940079",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

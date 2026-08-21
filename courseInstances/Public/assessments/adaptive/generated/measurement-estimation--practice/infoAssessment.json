@@ -1,0 +1,85 @@
+{
+  "uuid": "e979ef29-6cef-5619-9f1f-ed10d8e5f320",
+  "type": "Exam",
+  "title": "Practice: Estimation and Fermi calculations",
+  "set": "Practice",
+  "number": "G18",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Estimation and Fermi calculations. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Estimation and Fermi calculations \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326791766",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326832986",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326840815",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326860046",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329013612",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329016670",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329081168",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id11683291554120",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329166114",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329174656",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329182447",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329265263",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329292036",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329316890",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329443498",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

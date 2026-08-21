@@ -1,0 +1,29 @@
+{
+  "uuid": "b143797f-21e7-5860-adca-ac1242184ecd",
+  "type": "Exam",
+  "title": "Diagnostic: Vertical motion under gravity",
+  "set": "Practice",
+  "number": "G79",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Vertical motion under gravity. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Vertical motion under gravity \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168328260222",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

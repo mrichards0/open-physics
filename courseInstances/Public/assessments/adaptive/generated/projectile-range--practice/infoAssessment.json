@@ -1,0 +1,37 @@
+{
+  "uuid": "4bd65a7d-0a50-51b0-b339-552b5adac5a7",
+  "type": "Exam",
+  "title": "Practice: Projectile range",
+  "set": "Practice",
+  "number": "G106",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Projectile range. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Projectile range \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165166487901",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165166778493",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168009629",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

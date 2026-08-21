@@ -1,0 +1,29 @@
+{
+  "uuid": "43d85fae-188e-5e89-a2d4-d30020ee050b",
+  "type": "Exam",
+  "title": "Diagnostic: Graphical vector addition",
+  "set": "Practice",
+  "number": "G27",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Graphical vector addition. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Graphical vector addition \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132266747",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

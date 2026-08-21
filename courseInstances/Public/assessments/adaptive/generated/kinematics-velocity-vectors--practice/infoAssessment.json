@@ -1,0 +1,37 @@
+{
+  "uuid": "4182f438-89f6-57d0-b267-1fd42a204165",
+  "type": "Exam",
+  "title": "Practice: Velocity vectors",
+  "set": "Practice",
+  "number": "G90",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Velocity vectors. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Velocity vectors \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165038188045",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165038192798",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165038198131",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

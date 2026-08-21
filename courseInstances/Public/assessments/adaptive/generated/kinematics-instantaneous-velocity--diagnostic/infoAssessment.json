@@ -1,0 +1,37 @@
+{
+  "uuid": "1e4956ef-aff5-5c43-802a-ae0fa422f811",
+  "type": "Exam",
+  "title": "Diagnostic: Instantaneous velocity",
+  "set": "Practice",
+  "number": "G59",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Instantaneous velocity. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Instantaneous velocity \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/check-your-understanding/fs-id1168329179170",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168327094731",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168328365755",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

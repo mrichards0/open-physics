@@ -1,0 +1,33 @@
+{
+  "uuid": "2ee95ee8-c8d1-5a78-a140-f465a1d39d5c",
+  "type": "Exam",
+  "title": "Diagnostic: Centripetal acceleration",
+  "set": "Practice",
+  "number": "G115",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Centripetal acceleration. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Centripetal acceleration \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/check-your-understanding/fs-id1165168917581",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165169120458",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

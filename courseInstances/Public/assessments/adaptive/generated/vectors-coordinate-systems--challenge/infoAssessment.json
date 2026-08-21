@@ -1,0 +1,29 @@
+{
+  "uuid": "0797224c-64bd-5b84-9b92-63e605854c09",
+  "type": "Exam",
+  "title": "Challenge: Coordinate systems and signs",
+  "set": "Practice",
+  "number": "G22",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire challenge activity for Coordinate systems and signs. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Coordinate systems and signs \u2014 challenge",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/challenge-problems/fs-id1167134883911",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

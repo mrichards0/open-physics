@@ -1,0 +1,53 @@
+{
+  "uuid": "9eaf3647-8a51-5996-882f-dad0ca723efc",
+  "type": "Exam",
+  "title": "Practice: Centripetal acceleration",
+  "set": "Practice",
+  "number": "G116",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Centripetal acceleration. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Centripetal acceleration \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168927049",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168934860",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168945040",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168975022",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165169014380",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165169065802",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165169262577",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

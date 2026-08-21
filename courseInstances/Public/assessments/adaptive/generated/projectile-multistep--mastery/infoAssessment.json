@@ -1,0 +1,29 @@
+{
+  "uuid": "99ae40bb-56f2-5fe3-8024-756066eee93f",
+  "type": "Exam",
+  "title": "Mastery: Integrated projectile motion",
+  "set": "Practice",
+  "number": "G111",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Integrated projectile motion. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Integrated projectile motion \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039312654",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

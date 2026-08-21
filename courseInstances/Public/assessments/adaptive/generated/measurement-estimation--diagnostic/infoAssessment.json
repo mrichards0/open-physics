@@ -1,0 +1,29 @@
+{
+  "uuid": "dfb40891-2fc8-54e9-9203-5e23c96a6584",
+  "type": "Exam",
+  "title": "Diagnostic: Estimation and Fermi calculations",
+  "set": "Practice",
+  "number": "G17",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Estimation and Fermi calculations. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Estimation and Fermi calculations \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168329067631",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

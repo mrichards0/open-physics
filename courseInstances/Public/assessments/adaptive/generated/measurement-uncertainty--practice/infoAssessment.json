@@ -1,0 +1,49 @@
+{
+  "uuid": "785939ff-0214-52ae-a222-f6a5feebc245",
+  "type": "Exam",
+  "title": "Practice: Measurement uncertainty",
+  "set": "Practice",
+  "number": "G15",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Measurement uncertainty. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Measurement uncertainty \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327942624",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id11683281710830",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328242872",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328286258",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328311438",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328329316",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

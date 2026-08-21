@@ -1,0 +1,73 @@
+{
+  "uuid": "0c76480c-5dab-5307-b368-7a020720d89b",
+  "type": "Exam",
+  "title": "Practice: Vector magnitude and direction",
+  "set": "Practice",
+  "number": "G24",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Vector magnitude and direction. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Vector magnitude and direction \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167129993856",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167132199121",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167132272097",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167132321672",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167132395721",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167132471146",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167132487189",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167132501147",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167132559167",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167133766074",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167133862614",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167134889697",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

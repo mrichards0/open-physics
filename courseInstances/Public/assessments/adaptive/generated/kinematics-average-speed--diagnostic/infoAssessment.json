@@ -1,0 +1,33 @@
+{
+  "uuid": "3e8a87b6-355e-5365-8665-afad432cd0a3",
+  "type": "Exam",
+  "title": "Diagnostic: Average speed",
+  "set": "Practice",
+  "number": "G52",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Average speed. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Average speed \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168326759364",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168326896853",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

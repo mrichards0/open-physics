@@ -1,0 +1,41 @@
+{
+  "uuid": "780db9e5-9fd8-5dc5-90da-5e8be4d955eb",
+  "type": "Exam",
+  "title": "Diagnostic: Cross product",
+  "set": "Practice",
+  "number": "G42",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Cross product. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Cross product \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167131331227",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167131613173",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167131439605",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167131563595",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

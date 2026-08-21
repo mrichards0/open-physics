@@ -1,0 +1,41 @@
+{
+  "uuid": "214f3fbc-12e1-5f04-8521-3de6a409570e",
+  "type": "Exam",
+  "title": "Mastery: Constant-acceleration motion",
+  "set": "Practice",
+  "number": "G71",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Constant-acceleration motion. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Constant-acceleration motion \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055124622",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055283140",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055309203",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057455309",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

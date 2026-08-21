@@ -1,0 +1,29 @@
+{
+  "uuid": "78ad8068-6d76-53a1-89a3-5ccf3b7c29ba",
+  "type": "Exam",
+  "title": "Diagnostic: Accuracy and precision",
+  "set": "Practice",
+  "number": "G13",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Accuracy and precision. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Accuracy and precision \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-1/conceptual-questions/fs-id1168327923331",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

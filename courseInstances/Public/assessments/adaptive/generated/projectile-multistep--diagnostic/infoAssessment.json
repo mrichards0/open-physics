@@ -1,0 +1,29 @@
+{
+  "uuid": "5c0272c6-3778-54cd-9e13-8cc21f147d10",
+  "type": "Exam",
+  "title": "Diagnostic: Integrated projectile motion",
+  "set": "Practice",
+  "number": "G109",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Integrated projectile motion. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Integrated projectile motion \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/check-your-understanding/fs-id1165167599002",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

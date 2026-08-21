@@ -1,0 +1,29 @@
+{
+  "uuid": "bb0aa142-a929-5046-9240-9a7e79e9a833",
+  "type": "Exam",
+  "title": "Mastery: Horizontal launch",
+  "set": "Practice",
+  "number": "G101",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Horizontal launch. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Horizontal launch \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039312253",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

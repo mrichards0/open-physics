@@ -1,0 +1,41 @@
+{
+  "uuid": "81a7d130-3a73-5274-b2ce-57133fd0a693",
+  "type": "Exam",
+  "title": "Practice: Velocity versus acceleration",
+  "set": "Practice",
+  "number": "G67",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Velocity versus acceleration. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Velocity versus acceleration \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168054988599",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326901284",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326925511",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326956066",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

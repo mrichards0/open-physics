@@ -1,0 +1,33 @@
+{
+  "uuid": "979931a8-6010-57b7-b290-17d7aebab80b",
+  "type": "Exam",
+  "title": "Practice: Translate motion representations",
+  "set": "Practice",
+  "number": "G98",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Translate motion representations. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Translate motion representations \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326762812",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168328977772",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

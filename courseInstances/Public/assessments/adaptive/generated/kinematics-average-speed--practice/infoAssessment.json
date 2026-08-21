@@ -1,0 +1,33 @@
+{
+  "uuid": "4d37d57e-5915-5056-bfdf-bdf6dd8cb54a",
+  "type": "Exam",
+  "title": "Practice: Average speed",
+  "set": "Practice",
+  "number": "G53",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Average speed. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Average speed \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326798408",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329063635",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

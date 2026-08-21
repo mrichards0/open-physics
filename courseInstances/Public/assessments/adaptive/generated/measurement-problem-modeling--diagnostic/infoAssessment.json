@@ -1,0 +1,33 @@
+{
+  "uuid": "0386fcba-2e32-521f-9918-1c546bca0aa5",
+  "type": "Exam",
+  "title": "Diagnostic: Modeling physical quantities",
+  "set": "Practice",
+  "number": "G19",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Modeling physical quantities. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Modeling physical quantities \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-1/conceptual-questions/fs-id1168329068779",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/conceptual-questions/fs-id1168329519074",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

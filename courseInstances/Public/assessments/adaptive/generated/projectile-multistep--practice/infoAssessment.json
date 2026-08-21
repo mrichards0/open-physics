@@ -1,0 +1,85 @@
+{
+  "uuid": "dadb857b-9811-5880-a207-1e70e8fb2bdf",
+  "type": "Exam",
+  "title": "Practice: Integrated projectile motion",
+  "set": "Practice",
+  "number": "G110",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Integrated projectile motion. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Integrated projectile motion \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165166481497",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165166622226",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165166625989",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165166634991",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165167611654",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165167697338",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165167851744",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165167907721",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165167946074",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165167996129",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168033133",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168039120",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168063949",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168068850",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168119293",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

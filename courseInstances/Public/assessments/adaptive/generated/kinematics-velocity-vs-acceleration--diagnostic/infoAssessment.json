@@ -1,0 +1,33 @@
+{
+  "uuid": "e499009d-c89d-5446-81bf-d612c02dfc21",
+  "type": "Exam",
+  "title": "Diagnostic: Velocity versus acceleration",
+  "set": "Practice",
+  "number": "G66",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Velocity versus acceleration. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Velocity versus acceleration \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/check-your-understanding/fs-id1168328320368",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168328064486",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

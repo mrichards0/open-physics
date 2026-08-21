@@ -1,0 +1,29 @@
+{
+  "uuid": "3706fcd0-6bd4-5db9-be83-fd0c9aca1d6e",
+  "type": "Exam",
+  "title": "Practice: Projectile time of flight",
+  "set": "Practice",
+  "number": "G103",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Projectile time of flight. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Projectile time of flight \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165166798737",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

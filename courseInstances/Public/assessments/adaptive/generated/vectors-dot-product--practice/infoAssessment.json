@@ -1,0 +1,41 @@
+{
+  "uuid": "f730f8b6-36e4-5523-ad8d-66b0d5177016",
+  "type": "Exam",
+  "title": "Practice: Dot product",
+  "set": "Practice",
+  "number": "G40",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Dot product. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Dot product \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167130205821",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167130224288",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167131462688",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/problems/fs-id1167131586956",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

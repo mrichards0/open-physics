@@ -1,0 +1,33 @@
+{
+  "uuid": "adf63aa0-78d4-54c7-8199-83108a1e217b",
+  "type": "Exam",
+  "title": "Diagnostic: Analytical vector addition",
+  "set": "Practice",
+  "number": "G35",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Analytical vector addition. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Analytical vector addition \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132473641",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132487194",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

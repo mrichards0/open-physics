@@ -1,0 +1,33 @@
+{
+  "uuid": "e1fc8d03-9cea-5679-b59c-7f4a7193fd88",
+  "type": "Exam",
+  "title": "Diagnostic: Dimensional analysis",
+  "set": "Practice",
+  "number": "G8",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Dimensional analysis. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Dimensional analysis \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168328063625",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/check-your-understanding/fs-id1168328196554",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

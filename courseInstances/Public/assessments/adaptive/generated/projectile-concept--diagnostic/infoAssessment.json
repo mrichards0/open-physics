@@ -1,0 +1,37 @@
+{
+  "uuid": "6aaf8b0d-6068-5978-97cc-57edf19ac042",
+  "type": "Exam",
+  "title": "Diagnostic: Projectile-motion concepts",
+  "set": "Practice",
+  "number": "G99",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Projectile-motion concepts. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Projectile-motion concepts \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165166616749",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165166632169",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165167690280",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

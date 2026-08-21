@@ -1,0 +1,77 @@
+{
+  "uuid": "a985688c-09c6-5082-9868-cebd06130b64",
+  "type": "Exam",
+  "title": "Practice: Constant-acceleration motion",
+  "set": "Practice",
+  "number": "G70",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Constant-acceleration motion. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Constant-acceleration motion \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326891139",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326908218",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326954571",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326972751",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168327145366",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168327148242",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329187289",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329187419",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329200915",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329315924",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329462605",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329484447",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329484654",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "9c47d40f-f786-53be-9e12-8b29787c858e",
+  "type": "Exam",
+  "title": "Mastery: Instantaneous velocity",
+  "set": "Practice",
+  "number": "G61",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Instantaneous velocity. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Instantaneous velocity \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055390931",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

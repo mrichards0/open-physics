@@ -1,0 +1,29 @@
+{
+  "uuid": "aff2686f-45a6-5c03-abe1-95ae142743b4",
+  "type": "Exam",
+  "title": "Mastery: Angular motion",
+  "set": "Practice",
+  "number": "G114",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Angular motion. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Angular motion \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039267076",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

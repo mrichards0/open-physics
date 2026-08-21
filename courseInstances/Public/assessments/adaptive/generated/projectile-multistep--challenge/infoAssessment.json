@@ -1,0 +1,33 @@
+{
+  "uuid": "6662b6f6-1ff5-5f8f-8701-87c3c279de08",
+  "type": "Exam",
+  "title": "Challenge: Integrated projectile motion",
+  "set": "Practice",
+  "number": "G112",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire challenge activity for Integrated projectile motion. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Integrated projectile motion \u2014 challenge",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/challenge-problems/fs-id1165039247940",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/challenge-problems/fs-id1165039250105",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

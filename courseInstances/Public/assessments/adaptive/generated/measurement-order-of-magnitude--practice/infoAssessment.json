@@ -1,0 +1,45 @@
+{
+  "uuid": "58246eae-8a68-5cac-a7a8-54e1f862906d",
+  "type": "Exam",
+  "title": "Practice: Orders of magnitude",
+  "set": "Practice",
+  "number": "G7",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Orders of magnitude. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Orders of magnitude \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326753208",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168326786916",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329108275",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329139448",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168329140028",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "uuid": "440676b4-13d4-5ff3-92d1-ec121e095766",
+  "type": "Exam",
+  "title": "Practice: Navigation in a moving medium",
+  "set": "Practice",
+  "number": "G129",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Navigation in a moving medium. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Navigation in a moving medium \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165039244987",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165039267560",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165039333594",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165039335180",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165039340114",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "5e74d273-5289-5202-807b-bc8a6d3ccab6",
+  "type": "Exam",
+  "title": "Diagnostic: Dot product",
+  "set": "Practice",
+  "number": "G39",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Dot product. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Dot product \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167131635553",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167134863960",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167134912050",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167131134362",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

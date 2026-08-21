@@ -1,0 +1,33 @@
+{
+  "uuid": "c43ead28-4674-5276-9e44-28a256f05b6b",
+  "type": "Exam",
+  "title": "Diagnostic: Velocity vectors",
+  "set": "Practice",
+  "number": "G89",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Velocity vectors. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Velocity vectors \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/check-your-understanding/fs-id1165038192575",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038186987",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

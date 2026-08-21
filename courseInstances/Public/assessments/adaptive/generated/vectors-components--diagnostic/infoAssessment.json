@@ -1,0 +1,57 @@
+{
+  "uuid": "17977655-3489-5313-a179-56279592335e",
+  "type": "Exam",
+  "title": "Diagnostic: Resolve vectors into components",
+  "set": "Practice",
+  "number": "G28",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Resolve vectors into components. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Resolve vectors into components \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167128918786",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132406917",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132241622",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132267416",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132494452",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132518791",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132535630",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132562110",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "d06abd33-db77-5951-a722-955ca314250f",
+  "type": "Exam",
+  "title": "Mastery: One-dimensional relative velocity",
+  "set": "Practice",
+  "number": "G124",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for One-dimensional relative velocity. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "One-dimensional relative velocity \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039244895",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

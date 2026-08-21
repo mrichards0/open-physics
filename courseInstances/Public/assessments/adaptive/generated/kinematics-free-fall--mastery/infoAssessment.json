@@ -1,0 +1,49 @@
+{
+  "uuid": "e35c62dd-9f2f-5134-8de4-0356e0d084b0",
+  "type": "Exam",
+  "title": "Mastery: Free fall",
+  "set": "Practice",
+  "number": "G78",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Free fall. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Free fall \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168052793064",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055309639",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055324264",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055388728",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057461827",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057556789",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

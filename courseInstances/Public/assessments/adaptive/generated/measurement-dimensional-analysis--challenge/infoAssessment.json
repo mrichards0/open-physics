@@ -1,0 +1,33 @@
+{
+  "uuid": "de3ba5ed-2634-5d4f-9f8c-53ee7a53d512",
+  "type": "Exam",
+  "title": "Challenge: Dimensional analysis",
+  "set": "Practice",
+  "number": "G11",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire challenge activity for Dimensional analysis. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Dimensional analysis \u2014 challenge",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-1/challenge-problems/fs-id1168329179266",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/challenge-problems/fs-id1168329335141",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

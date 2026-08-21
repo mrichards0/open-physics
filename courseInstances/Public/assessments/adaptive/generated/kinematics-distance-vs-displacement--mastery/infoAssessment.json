@@ -1,0 +1,29 @@
+{
+  "uuid": "5eafc930-679c-52cc-b3a9-eccf54783481",
+  "type": "Exam",
+  "title": "Mastery: Distance versus displacement",
+  "set": "Practice",
+  "number": "G49",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Distance versus displacement. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Distance versus displacement \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057491154",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

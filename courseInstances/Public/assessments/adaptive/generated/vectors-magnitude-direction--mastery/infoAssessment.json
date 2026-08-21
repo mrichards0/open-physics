@@ -1,0 +1,53 @@
+{
+  "uuid": "eb555986-272f-50c1-adda-f9224e5162ae",
+  "type": "Exam",
+  "title": "Mastery: Vector magnitude and direction",
+  "set": "Practice",
+  "number": "G25",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Vector magnitude and direction. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Vector magnitude and direction \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/additional-problems/fs-id1167131127272",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/additional-problems/fs-id1167131128625",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/additional-problems/fs-id1167131182898",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/additional-problems/fs-id1167131200226",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/additional-problems/fs-id1167131514285",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/additional-problems/fs-id1167131515978",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/additional-problems/fs-id1167134724436",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

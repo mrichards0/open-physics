@@ -1,0 +1,69 @@
+{
+  "uuid": "6efd096d-240a-5e7d-8af9-f68761e7ddff",
+  "type": "Exam",
+  "title": "Mastery: Multistep one-dimensional motion",
+  "set": "Practice",
+  "number": "G74",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Multistep one-dimensional motion. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Multistep one-dimensional motion \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055095438",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055124263",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055146907",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055151366",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055171580",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055274264",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055392099",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055463266",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055469798",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168055478200",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/additional-problems/fs-id1168057464878",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

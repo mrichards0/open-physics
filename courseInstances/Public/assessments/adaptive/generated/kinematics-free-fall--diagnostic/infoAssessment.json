@@ -1,0 +1,41 @@
+{
+  "uuid": "1b5993e2-f5b6-529e-ae91-9ff11a7035cb",
+  "type": "Exam",
+  "title": "Diagnostic: Free fall",
+  "set": "Practice",
+  "number": "G76",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Free fall. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Free fall \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/check-your-understanding/fs-id1168327914860",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168327871044",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168327925204",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168328296713",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

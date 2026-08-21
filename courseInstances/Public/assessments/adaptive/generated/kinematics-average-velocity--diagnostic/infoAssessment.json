@@ -1,0 +1,29 @@
+{
+  "uuid": "4c69aa13-33a5-5c1f-9b1d-99b0a06b9165",
+  "type": "Exam",
+  "title": "Diagnostic: Average velocity",
+  "set": "Practice",
+  "number": "G55",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Average velocity. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Average velocity \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168329466274",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "uuid": "65bcfab3-f716-5ce0-9624-bad45e08b3ba",
+  "type": "Exam",
+  "title": "Practice: Acceleration",
+  "set": "Practice",
+  "number": "G63",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Acceleration. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Acceleration \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168325696669",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168327949630",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168328303424",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329293311",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168329316408",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "a4ff18db-8bac-52e7-9a0d-9a1188ab46a0",
+  "type": "Exam",
+  "title": "Practice: Two-dimensional relative velocity",
+  "set": "Practice",
+  "number": "G126",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Two-dimensional relative velocity. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Two-dimensional relative velocity \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165039209786",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

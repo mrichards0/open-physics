@@ -1,0 +1,57 @@
+{
+  "uuid": "1befc20c-bba7-50bc-8c96-0fb5fb4f3e27",
+  "type": "Exam",
+  "title": "Diagnostic: Vector magnitude and direction",
+  "set": "Practice",
+  "number": "G23",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Vector magnitude and direction. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Vector magnitude and direction \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167128919148",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167131113534",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132518790",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132315789",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132352997",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132375600",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132437699",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/conceptual-questions/fs-id1167132744085",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

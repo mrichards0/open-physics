@@ -1,0 +1,29 @@
+{
+  "uuid": "8eab9fd2-d900-57ab-94c9-c0047b355bc8",
+  "type": "Exam",
+  "title": "Diagnostic: Unit-vector notation",
+  "set": "Practice",
+  "number": "G33",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Unit-vector notation. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Unit-vector notation \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/check-your-understanding/fs-id1167132580836",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

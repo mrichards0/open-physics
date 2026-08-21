@@ -1,0 +1,29 @@
+{
+  "uuid": "2623025d-3802-51cd-83b9-bc9fa134d4cc",
+  "type": "Exam",
+  "title": "Diagnostic: Speed versus velocity",
+  "set": "Practice",
+  "number": "G58",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Speed versus velocity. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Speed versus velocity \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/conceptual-questions/fs-id1168329340393",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

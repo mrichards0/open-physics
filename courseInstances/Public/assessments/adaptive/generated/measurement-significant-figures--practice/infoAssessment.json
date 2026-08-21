@@ -1,0 +1,57 @@
+{
+  "uuid": "a58a61ae-90ca-5ddd-9ccc-4abcd7c14b2a",
+  "type": "Exam",
+  "title": "Practice: Significant figures",
+  "set": "Practice",
+  "number": "G12",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Significant figures. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Significant figures \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327943766",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168327949034",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328064091",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328167911",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328196830",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id11683282224160",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328229571",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-1/problems/fs-id1168328267903",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

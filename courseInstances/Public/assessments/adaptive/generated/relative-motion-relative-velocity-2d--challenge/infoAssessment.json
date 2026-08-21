@@ -1,0 +1,29 @@
+{
+  "uuid": "03b48444-88a4-5e89-97db-5618924f9af9",
+  "type": "Exam",
+  "title": "Challenge: Two-dimensional relative velocity",
+  "set": "Practice",
+  "number": "G127",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire challenge activity for Two-dimensional relative velocity. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Two-dimensional relative velocity \u2014 challenge",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/challenge-problems/fs-id1165039311851",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

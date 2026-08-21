@@ -1,0 +1,33 @@
+{
+  "uuid": "355797dc-25a0-59fa-9b50-b3bb016d6663",
+  "type": "Exam",
+  "title": "Mastery: Resolve vectors into components",
+  "set": "Practice",
+  "number": "G30",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Resolve vectors into components. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Resolve vectors into components \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-2/additional-problems/fs-id1167130010431",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-2/additional-problems/fs-id1167131397018",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "ca52a6db-25a4-5bf5-a016-ffe4f4f5ede6",
+  "type": "Exam",
+  "title": "Diagnostic: Galilean frame transformations",
+  "set": "Practice",
+  "number": "G121",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Galilean frame transformations. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Galilean frame transformations \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165039253028",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

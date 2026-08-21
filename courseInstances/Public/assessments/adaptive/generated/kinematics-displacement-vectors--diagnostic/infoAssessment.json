@@ -1,0 +1,29 @@
+{
+  "uuid": "df7ea10a-0545-5e1d-b96a-e83700f331d2",
+  "type": "Exam",
+  "title": "Diagnostic: Displacement vectors",
+  "set": "Practice",
+  "number": "G86",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Displacement vectors. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Displacement vectors \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038186932",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

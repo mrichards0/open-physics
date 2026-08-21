@@ -1,0 +1,37 @@
+{
+  "uuid": "fbdfb023-bde7-5cb3-b761-015196737eac",
+  "type": "Exam",
+  "title": "Practice: Average velocity",
+  "set": "Practice",
+  "number": "G56",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Average velocity. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Average velocity \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326780779",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326798194",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-3/problems/fs-id1168326809070",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

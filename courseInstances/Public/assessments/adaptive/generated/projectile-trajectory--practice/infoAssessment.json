@@ -1,0 +1,33 @@
+{
+  "uuid": "81135dc1-dc57-5d26-845a-5b94414c3ee5",
+  "type": "Exam",
+  "title": "Practice: Projectile trajectory",
+  "set": "Practice",
+  "number": "G108",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Projectile trajectory. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Projectile trajectory \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165166546858",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165168071581",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

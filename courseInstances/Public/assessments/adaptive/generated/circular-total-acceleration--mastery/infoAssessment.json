@@ -1,0 +1,45 @@
+{
+  "uuid": "9bd984bb-c23c-5444-a985-504497545fd9",
+  "type": "Exam",
+  "title": "Mastery: Combined radial and tangential acceleration",
+  "set": "Practice",
+  "number": "G119",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire mastery activity for Combined radial and tangential acceleration. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Combined radial and tangential acceleration \u2014 mastery",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039232625",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039270370",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039273394",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039323750",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/additional-problems/fs-id1165039324098",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

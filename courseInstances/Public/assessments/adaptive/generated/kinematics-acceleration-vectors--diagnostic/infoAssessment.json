@@ -1,0 +1,41 @@
+{
+  "uuid": "48fd439d-865d-56a0-bd51-49144c3d90c7",
+  "type": "Exam",
+  "title": "Diagnostic: Acceleration vectors",
+  "set": "Practice",
+  "number": "G91",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire diagnostic activity for Acceleration vectors. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Acceleration vectors \u2014 diagnostic",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/check-your-understanding/fs-id1165038300360",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038328843",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038328860",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/conceptual-questions/fs-id1165038328892",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

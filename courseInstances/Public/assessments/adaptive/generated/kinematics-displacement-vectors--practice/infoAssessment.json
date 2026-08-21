@@ -1,0 +1,49 @@
+{
+  "uuid": "15dd495b-b726-5b4e-8b4b-720cc2ef1f9b",
+  "type": "Exam",
+  "title": "Practice: Displacement vectors",
+  "set": "Practice",
+  "number": "G87",
+  "multipleInstance": true,
+  "requireHonorCode": false,
+  "allowRealTimeGrading": true,
+  "autoClose": false,
+  "allowAccess": [
+    {
+      "credit": 100
+    }
+  ],
+  "text": "<p>SpiritsFire practice activity for Displacement vectors. PrairieLearn selects, randomizes, and grades one question from the mapped skill pool.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Displacement vectors \u2014 practice",
+      "numberChoose": 1,
+      "questions": [
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165038184323",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165038192922",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165038193099",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165038204777",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165038204860",
+          "points": 1
+        },
+        {
+          "id": "openstax/chapter-4/problems/fs-id1165038218957",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}
