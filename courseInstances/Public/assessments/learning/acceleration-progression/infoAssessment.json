@@ -7,7 +7,7 @@
   "constantQuestionValue": true,
   "shuffleQuestions": false,
   "allowAccess": [{"credit": 100}],
-  "text": "<p>Work from guided reasoning toward independent practice. You may retry and request new randomized variants without limit. Guided completion is learning evidence, not independent mastery.</p><p><a class=\"btn btn-primary\" href=\"http://localhost:3100/mastery/\">Back to Mastery Map</a></p>",
+  "text": "<p>Work from guided reasoning toward independent practice. You may retry and request new randomized variants without limit. Guided completion is learning evidence, not independent mastery.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
   "zones": [
     {
       "title": "Scaffold fading",

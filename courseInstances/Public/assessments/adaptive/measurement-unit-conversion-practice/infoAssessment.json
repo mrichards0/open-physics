@@ -13,7 +13,7 @@
       "credit": 100
     }
   ],
-  "text": "<p>This is the first SpiritsFire adaptive-practice vertical slice. PrairieLearn selects one existing unit-conversion template, generates its randomized variant, and grades it. Create a new assessment instance for another template selection.</p><p><a class=\"btn btn-primary\" href=\"http://localhost:3100/mastery/\">Back to Mastery Map</a></p>",
+  "text": "<p>This is the first SpiritsFire adaptive-practice vertical slice. PrairieLearn selects one existing unit-conversion template, generates its randomized variant, and grades it. Create a new assessment instance for another template selection.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
   "zones": [
     {
       "title": "Unit conversion practice",

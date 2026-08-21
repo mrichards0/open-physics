@@ -9,7 +9,7 @@
   "allowRealTimeGrading": true,
   "autoClose": false,
   "allowAccess": [{"credit": 100}],
-  "text": "<p>This diagnostic checks the elapsed-time prerequisite. PrairieLearn generates and grades the question.</p><p><a class=\"btn btn-primary\" href=\"http://localhost:3100/mastery/\">Back to Mastery Map</a></p>",
+  "text": "<p>This diagnostic checks the elapsed-time prerequisite. PrairieLearn generates and grades the question.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
   "zones": [
     {
       "title": "Elapsed-time diagnostic",

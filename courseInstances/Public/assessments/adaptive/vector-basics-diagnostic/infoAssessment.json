@@ -9,7 +9,7 @@
   "allowRealTimeGrading": true,
   "autoClose": false,
   "allowAccess": [{"credit": 100}],
-  "text": "<p>PrairieLearn selects one existing scalar/vector diagnostic template, generates its variant, and grades it.</p><p><a class=\"btn btn-primary\" href=\"http://localhost:3100/mastery/\">Back to Mastery Map</a></p>",
+  "text": "<p>PrairieLearn selects one existing scalar/vector diagnostic template, generates its variant, and grades it.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
   "zones": [
     {
       "title": "Scalar and vector diagnostic",
