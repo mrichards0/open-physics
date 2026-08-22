@@ -1,0 +1,14 @@
+<pl-question-panel>
+  <h3>Practice 2 — Convert a cubed unit</h3>
+  <p>A cube has side length {{params.side}} m. Express its volume in cm³.</p>
+</pl-question-panel>
+<pl-learning-step step-id="linear-factor" title="Recall the linear conversion" response-names="linear_factor">
+  <pl-number-input answers-name="linear_factor" label="Centimeters in one meter =" suffix="cm" allow-blank="true"></pl-number-input>
+  <pl-learning-hint hint-id="linear" title="Hint">One meter equals 100 centimeters.</pl-learning-hint>
+</pl-learning-step>
+<pl-learning-step step-id="volume" title="Apply the factor in all three dimensions" response-names="volume_cm3">
+  <pl-number-input answers-name="volume_cm3" label="Cube volume =" suffix="cm^3" comparison="relabs" rtol="1e-8" atol="0.01" allow-blank="true"></pl-number-input>
+  <pl-learning-hint hint-id="cube" title="Hint">For volume, cube the entire length conversion: $(100\,\mathrm{cm}/1\,\mathrm{m})^3$.</pl-learning-hint>
+</pl-learning-step>
+<pl-answer-panel><p>$V=({{params.side}}\,\mathrm{m})^3\left(\dfrac{100\,\mathrm{cm}}{1\,\mathrm{m}}\right)^3={{correct_answers.volume_cm3}}\,\mathrm{cm^3}$.</p></pl-answer-panel>
+<hr><p class="small text-muted">Original SpiritsFire practice aligned with OpenStax, <em>University Physics Volume 1</em>, §1.3 Unit Conversion. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-3-unit-conversion" target="_blank" rel="noreferrer">Read the attributed source.</a></p>

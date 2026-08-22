@@ -49,7 +49,10 @@
         "openstax/chapter-1/problems/fs-id1168328303932",
         "openstax/chapter-1/problems/fs-id1168328311640"
       ],
-      "mastery": [],
+      "mastery": [
+        "learning/measurement/unit-conversion/mastery-1",
+        "learning/measurement/unit-conversion/mastery-2"
+      ],
       "remediation": [],
       "challenge": []
     },

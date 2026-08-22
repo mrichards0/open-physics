@@ -1,0 +1,24 @@
+{
+  "uuid": "3da5f17b-b22f-56e1-9cd5-8e75be1910c8",
+  "type": "Homework",
+  "title": "Learning Path: Unit Conversion",
+  "set": "Practice",
+  "number": "L2",
+  "constantQuestionValue": true,
+  "shuffleQuestions": false,
+  "allowAccess": [{"credit": 100}],
+  "text": "<p>Build conversion factors, practice increasingly difficult conversions, then demonstrate independent mastery. Learning and practice are retry-safe; only submitted answers create evidence, and only the two Mastery activities affect skill mastery.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
+  "zones": [
+    {
+      "title": "Unit conversion progression",
+      "questions": [
+        {"id": "learning/measurement/unit-conversion/learning-1", "points": 1, "advanceScorePerc": 100},
+        {"id": "learning/measurement/unit-conversion/learning-2", "points": 1, "advanceScorePerc": 100},
+        {"id": "learning/measurement/unit-conversion/practice-1", "points": 1, "advanceScorePerc": 100},
+        {"id": "learning/measurement/unit-conversion/practice-2", "points": 1, "advanceScorePerc": 100},
+        {"id": "learning/measurement/unit-conversion/mastery-1", "points": 1, "advanceScorePerc": 100},
+        {"id": "learning/measurement/unit-conversion/mastery-2", "points": 1}
+      ]
+    }
+  ]
+}

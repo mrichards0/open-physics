@@ -1,0 +1,18 @@
+<pl-question-panel>
+  <h3>Practice 1 — Chain two conversion factors</h3>
+  <p>A vehicle travels at {{params.speed}} km/h. Convert its speed to m/s.</p>
+</pl-question-panel>
+<pl-learning-step step-id="time-factor" title="Identify the time conversion" response-names="seconds_factor">
+  <pl-number-input answers-name="seconds_factor" label="Seconds in one hour =" suffix="s" allow-blank="true"></pl-number-input>
+  <pl-learning-hint hint-id="time" title="Hint">Use $1\,\mathrm{h}=3600\,\mathrm{s}$.</pl-learning-hint>
+</pl-learning-step>
+<pl-learning-step step-id="length-factor" title="Identify the length conversion" response-names="meters_factor">
+  <pl-number-input answers-name="meters_factor" label="Meters in one kilometer =" suffix="m" allow-blank="true"></pl-number-input>
+  <pl-learning-hint hint-id="length" title="Hint">Use $1\,\mathrm{km}=1000\,\mathrm{m}$.</pl-learning-hint>
+</pl-learning-step>
+<pl-learning-step step-id="result" title="Apply both factors" response-names="meters_per_second">
+  <pl-number-input answers-name="meters_per_second" label="Speed =" suffix="m/s" comparison="relabs" rtol="1e-8" atol="0.001" allow-blank="true"></pl-number-input>
+  <pl-learning-hint hint-id="chain" title="Hint">Arrange the factors so both km and h cancel: multiply by $1000\,\mathrm{m}/1\,\mathrm{km}$ and $1\,\mathrm{h}/3600\,\mathrm{s}$.</pl-learning-hint>
+</pl-learning-step>
+<pl-answer-panel><p>${{params.speed}}\,\dfrac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}}\times\dfrac{1000\,\mathrm{m}}{1\,\cancel{\mathrm{km}}}\times\dfrac{1\,\cancel{\mathrm{h}}}{3600\,\mathrm{s}}={{correct_answers.meters_per_second}}\,\mathrm{m/s}$.</p></pl-answer-panel>
+<hr><p class="small text-muted">Original SpiritsFire practice aligned with OpenStax, <em>University Physics Volume 1</em>, §1.3 Unit Conversion. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-3-unit-conversion" target="_blank" rel="noreferrer">Read the attributed source.</a></p>

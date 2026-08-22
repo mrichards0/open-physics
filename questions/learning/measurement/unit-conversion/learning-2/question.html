@@ -1,0 +1,22 @@
+<pl-question-panel>
+  <h3>Learning 2 — Build and use the complete factor</h3>
+  <p>Convert <strong>{{params.value}} km</strong> to meters. Complete the equivalent-value fraction, then calculate the result.</p>
+</pl-question-panel>
+<pl-learning-step step-id="complete-factor" title="Complete the conversion factor" response-names="numerator_number denominator_number factor_units">
+  <div class="d-flex align-items-center flex-wrap gap-2">
+    <span>$ {{params.value}}\,\mathrm{km}\times $</span>
+    <div>
+      <pl-number-input answers-name="numerator_number" label="Numerator number" show-help-text="false" size="4" allow-blank="true"></pl-number-input>
+      <pl-unit-factor answers-name="factor_units" numerator="m" denominator="km" units="m,km,cm,s"></pl-unit-factor>
+      <pl-number-input answers-name="denominator_number" label="Denominator number" show-help-text="false" size="4" allow-blank="true"></pl-number-input>
+    </div>
+  </div>
+  <pl-learning-hint hint-id="equivalence" title="Hint 1 — Use equivalent lengths">One kilometer and 1000 meters describe the same length, so their ratio can equal 1.</pl-learning-hint>
+  <pl-learning-hint hint-id="worked-factor" title="Hint 2 — Complete factor">Use $\dfrac{1000\,\mathrm{m}}{1\,\mathrm{km}}$ so kilometers cancel.</pl-learning-hint>
+</pl-learning-step>
+<pl-learning-step step-id="calculate" title="Calculate the converted value" response-names="converted">
+  <pl-number-input answers-name="converted" label="Converted value =" suffix="m" comparison="relabs" rtol="1e-8" atol="0.001" allow-blank="true"></pl-number-input>
+  <pl-learning-hint hint-id="multiply" title="Hint — Multiply by the factor">Multiply {{params.value}} by 1000.</pl-learning-hint>
+</pl-learning-step>
+<pl-answer-panel><p>${{params.value}}\,\cancel{\mathrm{km}}\times\dfrac{1000\,\mathrm{m}}{1\,\cancel{\mathrm{km}}}={{correct_answers.converted}}\,\mathrm{m}$.</p></pl-answer-panel>
+<hr><p class="small text-muted">Original SpiritsFire guided activity aligned with OpenStax, <em>University Physics Volume 1</em>, §1.3 Unit Conversion. <a href="https://openstax.org/books/university-physics-volume-1/pages/1-3-unit-conversion" target="_blank" rel="noreferrer">Read the attributed source.</a></p>

@@ -1,0 +1,7 @@
+{
+  "controller": "pl-unit-factor.py",
+  "dependencies": {
+    "elementScripts": ["pl-unit-factor.js"],
+    "elementStyles": ["pl-unit-factor.css"]
+  }
+}

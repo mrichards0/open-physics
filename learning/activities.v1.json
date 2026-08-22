@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "learningVersion": "1.0.0",
   "skills": {
+    "measurement.unit_conversion": {
+      "guided": [
+        "learning/measurement/unit-conversion/learning-1"
+      ],
+      "partial": [
+        "learning/measurement/unit-conversion/learning-2"
+      ],
+      "independent": [
+        "learning/measurement/unit-conversion/practice-1",
+        "learning/measurement/unit-conversion/practice-2"
+      ],
+      "mastery_ready": [
+        "learning/measurement/unit-conversion/mastery-1",
+        "learning/measurement/unit-conversion/mastery-2"
+      ]
+    },
     "kinematics.acceleration": {
       "guided": ["learning/kinematics/acceleration/guided"],
       "partial": ["learning/kinematics/acceleration/partial"],
@@ -10,6 +26,31 @@
     }
   },
   "stepDefinitions": {
+    "learning/measurement/unit-conversion/learning-1": {
+      "unit-factor": {
+        "responseNames": ["factor_units"],
+        "hintIds": ["cancel", "goal"]
+      }
+    },
+    "learning/measurement/unit-conversion/learning-2": {
+      "complete-factor": {
+        "responseNames": ["numerator_number", "denominator_number", "factor_units"],
+        "hintIds": ["equivalence", "worked-factor"]
+      },
+      "calculate": {
+        "responseNames": ["converted"],
+        "hintIds": ["multiply"]
+      }
+    },
+    "learning/measurement/unit-conversion/practice-1": {
+      "time-factor": {"responseNames": ["seconds_factor"], "hintIds": ["time"]},
+      "length-factor": {"responseNames": ["meters_factor"], "hintIds": ["length"]},
+      "result": {"responseNames": ["meters_per_second"], "hintIds": ["chain"]}
+    },
+    "learning/measurement/unit-conversion/practice-2": {
+      "linear-factor": {"responseNames": ["linear_factor"], "hintIds": ["linear"]},
+      "volume": {"responseNames": ["volume_cm3"], "hintIds": ["cube"]}
+    },
     "learning/kinematics/acceleration/guided": {
       "identify-target": {"responseNames": ["target"], "hintIds": ["meaning"]},
       "velocity-change": {"responseNames": ["delta_v"], "hintIds": ["relationship", "substitute"]},
