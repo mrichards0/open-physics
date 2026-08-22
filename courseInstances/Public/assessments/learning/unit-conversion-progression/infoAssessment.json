@@ -6,6 +6,7 @@
   "number": "L2",
   "constantQuestionValue": true,
   "shuffleQuestions": false,
+  "showQuestionTitles": true,
   "allowAccess": [{"credit": 100}],
   "text": "<p>Build conversion factors, practice increasingly difficult conversions, then demonstrate independent mastery. Learning and practice are retry-safe; only submitted answers create evidence, and only the two Mastery activities affect skill mastery.</p><p><a class=\"btn btn-primary\" href=\"https://spiritsfire.com/mastery/\">Back to Mastery Map</a></p>",
   "zones": [
